@@ -1,0 +1,3001 @@
+Account_ID,Account_Name,Account_Type,Category,Is_Active,Created_Date
+ACC100000,Account_0,Expense,Owner Equity,Yes,2017-07-05
+ACC100001,Account_1,Equity,COGS,Yes,2019-09-06
+ACC100002,Account_2,Revenue,Owner Equity,Yes,2021-12-25
+ACC100003,Account_3,Equity,Accounts Receivable,Yes,2022-04-17
+ACC100004,Account_4,Equity,Inventory,Yes,2021-08-30
+ACC100005,Account_5,Asset,Fixed Assets,No,2022-01-16
+ACC100006,Account_6,Asset,Fixed Assets,Yes,2016-09-28
+ACC100007,Account_7,Liability,COGS,Yes,2016-01-29
+ACC100008,Account_8,Expense,Service Revenue,Yes,2022-06-28
+ACC100009,Account_9,Revenue,Long-Term Debt,Yes,2016-11-05
+ACC100010,Account_10,Equity,Owner Equity,Yes,2021-07-04
+ACC100011,Account_11,Revenue,Cash,Yes,2021-11-24
+ACC100012,Account_12,Liability,Service Revenue,Yes,2019-08-25
+ACC100013,Account_13,Revenue,COGS,Yes,2020-02-26
+ACC100014,Account_14,Expense,Sales Revenue,Yes,2022-07-06
+ACC100015,Account_15,Equity,Sales Revenue,No,2015-07-31
+ACC100016,Account_16,Liability,Service Revenue,Yes,2017-08-11
+ACC100017,Account_17,Equity,Long-Term Debt,Yes,2019-07-24
+ACC100018,Account_18,Revenue,COGS,Yes,2018-09-02
+ACC100019,Account_19,Expense,Accounts Receivable,Yes,2017-10-23
+ACC100020,Account_20,Equity,Owner Equity,Yes,2021-11-26
+ACC100021,Account_21,Equity,Owner Equity,Yes,2021-04-20
+ACC100022,Account_22,Equity,COGS,No,2015-09-17
+ACC100023,Account_23,Asset,COGS,Yes,2021-12-30
+ACC100024,Account_24,Equity,Owner Equity,Yes,2019-11-21
+ACC100025,Account_25,Equity,Long-Term Debt,Yes,2021-03-10
+ACC100026,Account_26,Asset,Owner Equity,Yes,2016-12-18
+ACC100027,Account_27,Equity,COGS,Yes,2016-02-07
+ACC100028,Account_28,Revenue,Inventory,Yes,2017-06-11
+ACC100029,Account_29,Liability,Operating Expense,Yes,2015-10-13
+ACC100030,Account_30,Equity,Operating Expense,Yes,2019-04-15
+ACC100031,Account_31,Liability,Sales Revenue,Yes,2015-02-20
+ACC100032,Account_32,Revenue,Service Revenue,Yes,2015-02-25
+ACC100033,Account_33,Revenue,Accounts Payable,Yes,2020-02-22
+ACC100034,Account_34,Asset,Long-Term Debt,Yes,2020-10-19
+ACC100035,Account_35,Revenue,Operating Expense,Yes,2016-12-12
+ACC100036,Account_36,Liability,Owner Equity,Yes,2020-06-24
+ACC100037,Account_37,Asset,Sales Revenue,No,2016-02-28
+ACC100038,Account_38,Expense,Inventory,Yes,2021-12-20
+ACC100039,Account_39,Revenue,Long-Term Debt,Yes,2018-07-28
+ACC100040,Account_40,Asset,Service Revenue,Yes,2020-11-29
+ACC100041,Account_41,Equity,COGS,Yes,2017-09-29
+ACC100042,Account_42,Equity,COGS,Yes,2017-05-25
+ACC100043,Account_43,Liability,Cash,Yes,2020-05-31
+ACC100044,Account_44,Equity,Inventory,Yes,2016-03-02
+ACC100045,Account_45,Liability,Accounts Receivable,Yes,2021-09-15
+ACC100046,Account_46,Asset,COGS,Yes,2019-12-06
+ACC100047,Account_47,Equity,Sales Revenue,Yes,2020-10-05
+ACC100048,Account_48,Expense,Accounts Payable,Yes,2018-08-30
+ACC100049,Account_49,Asset,Sales Revenue,Yes,2015-03-10
+ACC100050,Account_50,Asset,Operating Expense,Yes,2021-04-09
+ACC100051,Account_51,Expense,Cash,Yes,2018-07-25
+ACC100052,Account_52,Liability,Inventory,Yes,2021-07-17
+ACC100053,Account_53,Liability,Service Revenue,Yes,2015-04-10
+ACC100054,Account_54,Liability,Fixed Assets,Yes,2021-10-19
+ACC100055,Account_55,Revenue,Long-Term Debt,Yes,2022-12-26
+ACC100056,Account_56,Expense,Long-Term Debt,Yes,2022-04-06
+ACC100057,Account_57,Equity,Accounts Receivable,Yes,2023-02-21
+ACC100058,Account_58,Liability,Inventory,Yes,2020-05-01
+ACC100059,Account_59,Liability,Operating Expense,Yes,2023-01-03
+ACC100060,Account_60,Revenue,Service Revenue,Yes,2015-10-21
+ACC100061,Account_61,Revenue,Cash,Yes,2016-09-24
+ACC100062,Account_62,Asset,Fixed Assets,No,2015-12-06
+ACC100063,Account_63,Liability,Fixed Assets,Yes,2020-01-23
+ACC100064,Account_64,Equity,Sales Revenue,Yes,2015-10-05
+ACC100065,Account_65,Liability,Owner Equity,Yes,2016-04-28
+ACC100066,Account_66,Liability,Fixed Assets,Yes,2018-10-09
+ACC100067,Account_67,Asset,Long-Term Debt,No,2020-09-12
+ACC100068,Account_68,Revenue,Owner Equity,Yes,2016-11-20
+ACC100069,Account_69,Expense,Sales Revenue,Yes,2019-09-13
+ACC100070,Account_70,Revenue,Accounts Receivable,No,2016-02-06
+ACC100071,Account_71,Revenue,Long-Term Debt,No,2019-05-28
+ACC100072,Account_72,Revenue,Fixed Assets,No,2022-12-29
+ACC100073,Account_73,Expense,COGS,Yes,2016-03-11
+ACC100074,Account_74,Expense,Accounts Payable,Yes,2022-01-08
+ACC100075,Account_75,Revenue,COGS,Yes,2017-09-14
+ACC100076,Account_76,Revenue,Sales Revenue,No,2017-04-18
+ACC100077,Account_77,Liability,Sales Revenue,Yes,2019-12-11
+ACC100078,Account_78,Revenue,Inventory,Yes,2016-03-09
+ACC100079,Account_79,Asset,Cash,Yes,2016-09-22
+ACC100080,Account_80,Asset,Fixed Assets,Yes,2021-05-01
+ACC100081,Account_81,Liability,Cash,Yes,2015-12-28
+ACC100082,Account_82,Equity,Sales Revenue,Yes,2016-05-29
+ACC100083,Account_83,Expense,Owner Equity,Yes,2017-06-12
+ACC100084,Account_84,Expense,COGS,Yes,2019-10-04
+ACC100085,Account_85,Liability,Sales Revenue,Yes,2020-06-21
+ACC100086,Account_86,Revenue,Owner Equity,Yes,2021-08-02
+ACC100087,Account_87,Expense,Long-Term Debt,Yes,2017-01-12
+ACC100088,Account_88,Asset,Cash,Yes,2021-03-06
+ACC100089,Account_89,Liability,Service Revenue,Yes,2016-11-30
+ACC100090,Account_90,Equity,Inventory,No,2016-09-22
+ACC100091,Account_91,Liability,Long-Term Debt,Yes,2015-08-11
+ACC100092,Account_92,Expense,COGS,No,2018-07-22
+ACC100093,Account_93,Equity,Sales Revenue,Yes,2021-02-19
+ACC100094,Account_94,Equity,Long-Term Debt,Yes,2022-11-12
+ACC100095,Account_95,Asset,Operating Expense,Yes,2019-11-18
+ACC100096,Account_96,Equity,Inventory,Yes,2020-07-24
+ACC100097,Account_97,Expense,Inventory,No,2016-05-30
+ACC100098,Account_98,Expense,Sales Revenue,Yes,2019-08-06
+ACC100099,Account_99,Expense,Sales Revenue,Yes,2017-02-21
+ACC100100,Account_100,Expense,Operating Expense,Yes,2017-03-25
+ACC100101,Account_101,Asset,Cash,Yes,2021-06-04
+ACC100102,Account_102,Revenue,Service Revenue,Yes,2016-11-04
+ACC100103,Account_103,Asset,Inventory,Yes,2020-10-22
+ACC100104,Account_104,Liability,COGS,Yes,2018-10-09
+ACC100105,Account_105,Equity,Sales Revenue,Yes,2017-11-09
+ACC100106,Account_106,Asset,Cash,Yes,2020-08-21
+ACC100107,Account_107,Asset,Sales Revenue,No,2017-07-14
+ACC100108,Account_108,Liability,Operating Expense,Yes,2020-03-11
+ACC100109,Account_109,Revenue,Operating Expense,Yes,2016-03-03
+ACC100110,Account_110,Expense,Inventory,No,2017-01-15
+ACC100111,Account_111,Revenue,Long-Term Debt,Yes,2017-05-10
+ACC100112,Account_112,Asset,Fixed Assets,Yes,2015-05-15
+ACC100113,Account_113,Equity,Service Revenue,Yes,2016-01-01
+ACC100114,Account_114,Liability,Accounts Receivable,Yes,2021-01-22
+ACC100115,Account_115,Liability,Sales Revenue,Yes,2019-01-08
+ACC100116,Account_116,Asset,Service Revenue,Yes,2015-03-24
+ACC100117,Account_117,Liability,Operating Expense,Yes,2015-02-12
+ACC100118,Account_118,Liability,Long-Term Debt,Yes,2020-12-25
+ACC100119,Account_119,Equity,Long-Term Debt,Yes,2016-05-13
+ACC100120,Account_120,Asset,Operating Expense,No,2015-02-06
+ACC100121,Account_121,Expense,Owner Equity,Yes,2020-04-22
+ACC100122,Account_122,Revenue,Accounts Payable,Yes,2020-11-18
+ACC100123,Account_123,Revenue,Sales Revenue,Yes,2022-04-16
+ACC100124,Account_124,Equity,Fixed Assets,Yes,2019-01-02
+ACC100125,Account_125,Expense,Accounts Payable,Yes,2021-01-07
+ACC100126,Account_126,Asset,Accounts Payable,Yes,2015-07-12
+ACC100127,Account_127,Equity,COGS,Yes,2020-08-23
+ACC100128,Account_128,Revenue,Fixed Assets,Yes,2016-06-02
+ACC100129,Account_129,Revenue,COGS,Yes,2015-10-12
+ACC100130,Account_130,Equity,Fixed Assets,Yes,2021-03-25
+ACC100131,Account_131,Equity,Service Revenue,Yes,2016-01-22
+ACC100132,Account_132,Equity,Service Revenue,Yes,2016-11-23
+ACC100133,Account_133,Equity,Service Revenue,Yes,2022-09-15
+ACC100134,Account_134,Liability,Long-Term Debt,Yes,2019-10-28
+ACC100135,Account_135,Asset,Long-Term Debt,Yes,2019-03-26
+ACC100136,Account_136,Revenue,Long-Term Debt,Yes,2022-12-21
+ACC100137,Account_137,Liability,Cash,Yes,2016-05-02
+ACC100138,Account_138,Equity,Long-Term Debt,Yes,2018-12-14
+ACC100139,Account_139,Equity,Accounts Receivable,Yes,2016-02-11
+ACC100140,Account_140,Equity,COGS,Yes,2020-06-17
+ACC100141,Account_141,Liability,Long-Term Debt,Yes,2017-04-24
+ACC100142,Account_142,Asset,Accounts Payable,Yes,2016-09-12
+ACC100143,Account_143,Expense,COGS,No,2021-07-03
+ACC100144,Account_144,Revenue,Cash,Yes,2018-05-20
+ACC100145,Account_145,Revenue,Owner Equity,Yes,2016-01-30
+ACC100146,Account_146,Expense,Inventory,Yes,2020-11-09
+ACC100147,Account_147,Equity,Cash,Yes,2015-02-20
+ACC100148,Account_148,Expense,COGS,Yes,2020-08-11
+ACC100149,Account_149,Equity,Sales Revenue,Yes,2019-09-20
+ACC100150,Account_150,Asset,Service Revenue,Yes,2016-05-18
+ACC100151,Account_151,Revenue,Accounts Payable,No,2018-10-18
+ACC100152,Account_152,Liability,Inventory,Yes,2021-03-15
+ACC100153,Account_153,Equity,Accounts Receivable,Yes,2016-01-16
+ACC100154,Account_154,Equity,Accounts Receivable,Yes,2022-07-27
+ACC100155,Account_155,Expense,Accounts Receivable,Yes,2018-01-25
+ACC100156,Account_156,Asset,COGS,Yes,2022-08-10
+ACC100157,Account_157,Asset,Sales Revenue,No,2020-04-22
+ACC100158,Account_158,Revenue,Owner Equity,Yes,2019-05-26
+ACC100159,Account_159,Liability,Long-Term Debt,Yes,2022-08-31
+ACC100160,Account_160,Liability,Accounts Payable,Yes,2022-06-02
+ACC100161,Account_161,Revenue,Accounts Payable,Yes,2015-08-25
+ACC100162,Account_162,Expense,COGS,Yes,2022-08-02
+ACC100163,Account_163,Liability,Operating Expense,Yes,2018-11-02
+ACC100164,Account_164,Expense,Inventory,No,2017-08-05
+ACC100165,Account_165,Asset,Sales Revenue,Yes,2022-10-28
+ACC100166,Account_166,Liability,Owner Equity,Yes,2020-08-15
+ACC100167,Account_167,Expense,Service Revenue,Yes,2023-03-03
+ACC100168,Account_168,Asset,Operating Expense,Yes,2018-05-01
+ACC100169,Account_169,Revenue,COGS,Yes,2018-07-17
+ACC100170,Account_170,Revenue,Accounts Receivable,Yes,2020-01-27
+ACC100171,Account_171,Asset,Cash,Yes,2015-01-22
+ACC100172,Account_172,Equity,Cash,Yes,2016-11-20
+ACC100173,Account_173,Asset,Inventory,Yes,2019-12-16
+ACC100174,Account_174,Revenue,Cash,Yes,2022-08-30
+ACC100175,Account_175,Liability,Inventory,Yes,2020-06-05
+ACC100176,Account_176,Expense,Accounts Receivable,Yes,2016-01-13
+ACC100177,Account_177,Equity,Service Revenue,Yes,2023-01-06
+ACC100178,Account_178,Asset,Long-Term Debt,No,2017-09-24
+ACC100179,Account_179,Equity,Operating Expense,Yes,2017-06-21
+ACC100180,Account_180,Equity,Accounts Payable,Yes,2023-03-14
+ACC100181,Account_181,Expense,Fixed Assets,Yes,2016-07-06
+ACC100182,Account_182,Equity,Accounts Payable,Yes,2023-01-30
+ACC100183,Account_183,Asset,Owner Equity,Yes,2016-05-05
+ACC100184,Account_184,Liability,Fixed Assets,Yes,2019-07-13
+ACC100185,Account_185,Liability,Owner Equity,Yes,2015-04-05
+ACC100186,Account_186,Equity,Service Revenue,No,2019-01-20
+ACC100187,Account_187,Asset,Long-Term Debt,Yes,2020-02-05
+ACC100188,Account_188,Revenue,COGS,Yes,2021-02-28
+ACC100189,Account_189,Expense,COGS,Yes,2018-04-18
+ACC100190,Account_190,Liability,Owner Equity,Yes,2016-07-28
+ACC100191,Account_191,Asset,Operating Expense,No,2021-07-04
+ACC100192,Account_192,Revenue,Accounts Payable,Yes,2016-06-11
+ACC100193,Account_193,Revenue,Long-Term Debt,Yes,2020-05-02
+ACC100194,Account_194,Equity,Sales Revenue,Yes,2020-01-18
+ACC100195,Account_195,Expense,COGS,Yes,2018-05-06
+ACC100196,Account_196,Liability,Operating Expense,Yes,2017-12-30
+ACC100197,Account_197,Asset,Cash,Yes,2019-11-03
+ACC100198,Account_198,Liability,Operating Expense,No,2017-06-15
+ACC100199,Account_199,Revenue,COGS,Yes,2021-03-16
+ACC100200,Account_200,Liability,Fixed Assets,Yes,2016-11-01
+ACC100201,Account_201,Expense,Long-Term Debt,Yes,2022-04-13
+ACC100202,Account_202,Revenue,Fixed Assets,Yes,2015-03-29
+ACC100203,Account_203,Expense,Cash,Yes,2015-09-15
+ACC100204,Account_204,Expense,Owner Equity,Yes,2020-03-28
+ACC100205,Account_205,Liability,Accounts Payable,No,2019-03-07
+ACC100206,Account_206,Expense,Owner Equity,Yes,2017-03-09
+ACC100207,Account_207,Revenue,Service Revenue,Yes,2016-09-14
+ACC100208,Account_208,Liability,Owner Equity,Yes,2015-08-14
+ACC100209,Account_209,Equity,Sales Revenue,Yes,2019-12-11
+ACC100210,Account_210,Equity,Cash,Yes,2015-08-26
+ACC100211,Account_211,Expense,Fixed Assets,Yes,2015-01-13
+ACC100212,Account_212,Liability,Long-Term Debt,Yes,2015-06-08
+ACC100213,Account_213,Liability,Sales Revenue,Yes,2023-01-10
+ACC100214,Account_214,Revenue,Long-Term Debt,Yes,2020-09-10
+ACC100215,Account_215,Asset,Service Revenue,No,2017-12-29
+ACC100216,Account_216,Asset,COGS,Yes,2020-06-10
+ACC100217,Account_217,Liability,Fixed Assets,Yes,2018-11-12
+ACC100218,Account_218,Asset,Operating Expense,Yes,2016-08-19
+ACC100219,Account_219,Revenue,Long-Term Debt,Yes,2020-09-16
+ACC100220,Account_220,Expense,Accounts Payable,Yes,2021-09-02
+ACC100221,Account_221,Liability,Service Revenue,Yes,2020-03-19
+ACC100222,Account_222,Revenue,Cash,Yes,2022-07-17
+ACC100223,Account_223,Liability,Service Revenue,Yes,2019-04-28
+ACC100224,Account_224,Revenue,Fixed Assets,Yes,2018-01-03
+ACC100225,Account_225,Equity,Inventory,No,2015-07-30
+ACC100226,Account_226,Equity,Fixed Assets,Yes,2017-09-05
+ACC100227,Account_227,Liability,Accounts Receivable,Yes,2020-04-12
+ACC100228,Account_228,Revenue,Accounts Receivable,Yes,2017-07-31
+ACC100229,Account_229,Expense,COGS,Yes,2015-02-18
+ACC100230,Account_230,Expense,Inventory,Yes,2018-08-25
+ACC100231,Account_231,Revenue,Accounts Receivable,Yes,2016-04-15
+ACC100232,Account_232,Liability,COGS,Yes,2017-05-31
+ACC100233,Account_233,Equity,COGS,No,2020-07-14
+ACC100234,Account_234,Equity,Accounts Receivable,Yes,2017-04-29
+ACC100235,Account_235,Equity,Fixed Assets,Yes,2021-12-20
+ACC100236,Account_236,Asset,Accounts Receivable,No,2015-05-22
+ACC100237,Account_237,Liability,Accounts Receivable,Yes,2020-04-17
+ACC100238,Account_238,Liability,Inventory,No,2017-05-05
+ACC100239,Account_239,Liability,Owner Equity,Yes,2021-02-20
+ACC100240,Account_240,Liability,Accounts Payable,Yes,2017-10-18
+ACC100241,Account_241,Expense,Long-Term Debt,Yes,2018-05-13
+ACC100242,Account_242,Revenue,Owner Equity,Yes,2019-08-21
+ACC100243,Account_243,Expense,Accounts Payable,Yes,2016-09-13
+ACC100244,Account_244,Revenue,Service Revenue,Yes,2016-11-08
+ACC100245,Account_245,Revenue,Service Revenue,Yes,2015-06-03
+ACC100246,Account_246,Expense,Long-Term Debt,Yes,2018-04-02
+ACC100247,Account_247,Revenue,Operating Expense,Yes,2017-09-28
+ACC100248,Account_248,Expense,Inventory,Yes,2021-10-10
+ACC100249,Account_249,Liability,Accounts Receivable,No,2017-06-24
+ACC100250,Account_250,Revenue,Service Revenue,Yes,2017-06-29
+ACC100251,Account_251,Equity,Cash,Yes,2020-03-18
+ACC100252,Account_252,Liability,Long-Term Debt,Yes,2016-05-08
+ACC100253,Account_253,Liability,Fixed Assets,No,2022-02-18
+ACC100254,Account_254,Expense,Long-Term Debt,Yes,2019-08-30
+ACC100255,Account_255,Asset,Sales Revenue,Yes,2020-04-27
+ACC100256,Account_256,Liability,Service Revenue,Yes,2018-08-19
+ACC100257,Account_257,Asset,Service Revenue,Yes,2022-06-24
+ACC100258,Account_258,Expense,Operating Expense,Yes,2017-06-05
+ACC100259,Account_259,Expense,Service Revenue,Yes,2015-05-29
+ACC100260,Account_260,Expense,Sales Revenue,Yes,2019-02-05
+ACC100261,Account_261,Asset,Owner Equity,Yes,2018-06-02
+ACC100262,Account_262,Liability,Owner Equity,Yes,2017-10-16
+ACC100263,Account_263,Equity,Long-Term Debt,Yes,2015-08-01
+ACC100264,Account_264,Asset,COGS,Yes,2019-12-06
+ACC100265,Account_265,Equity,Operating Expense,Yes,2020-04-22
+ACC100266,Account_266,Asset,Sales Revenue,Yes,2022-08-07
+ACC100267,Account_267,Expense,Sales Revenue,Yes,2021-03-15
+ACC100268,Account_268,Liability,Accounts Receivable,Yes,2018-09-14
+ACC100269,Account_269,Expense,Sales Revenue,Yes,2021-02-22
+ACC100270,Account_270,Liability,Accounts Receivable,Yes,2017-04-25
+ACC100271,Account_271,Asset,COGS,Yes,2020-01-11
+ACC100272,Account_272,Asset,Service Revenue,Yes,2017-03-17
+ACC100273,Account_273,Liability,Fixed Assets,No,2015-06-03
+ACC100274,Account_274,Equity,Inventory,Yes,2017-07-24
+ACC100275,Account_275,Expense,Accounts Receivable,Yes,2023-01-19
+ACC100276,Account_276,Revenue,Operating Expense,Yes,2015-10-18
+ACC100277,Account_277,Expense,COGS,Yes,2021-05-31
+ACC100278,Account_278,Liability,Service Revenue,Yes,2016-04-30
+ACC100279,Account_279,Asset,Cash,Yes,2023-01-26
+ACC100280,Account_280,Asset,Sales Revenue,Yes,2022-12-30
+ACC100281,Account_281,Expense,Cash,Yes,2021-07-04
+ACC100282,Account_282,Equity,COGS,Yes,2018-06-17
+ACC100283,Account_283,Asset,Owner Equity,Yes,2020-02-03
+ACC100284,Account_284,Revenue,Cash,Yes,2021-03-18
+ACC100285,Account_285,Revenue,COGS,No,2018-08-23
+ACC100286,Account_286,Liability,Operating Expense,Yes,2020-12-20
+ACC100287,Account_287,Asset,Accounts Payable,Yes,2022-08-06
+ACC100288,Account_288,Liability,Accounts Receivable,Yes,2015-10-15
+ACC100289,Account_289,Revenue,Inventory,Yes,2017-11-12
+ACC100290,Account_290,Revenue,Service Revenue,Yes,2023-01-27
+ACC100291,Account_291,Expense,Cash,Yes,2022-12-20
+ACC100292,Account_292,Liability,Inventory,Yes,2017-08-05
+ACC100293,Account_293,Expense,Inventory,Yes,2019-03-12
+ACC100294,Account_294,Expense,Accounts Receivable,Yes,2021-01-10
+ACC100295,Account_295,Revenue,Accounts Receivable,Yes,2020-03-12
+ACC100296,Account_296,Liability,Sales Revenue,Yes,2022-02-05
+ACC100297,Account_297,Expense,Service Revenue,No,2021-07-04
+ACC100298,Account_298,Revenue,Cash,Yes,2019-02-05
+ACC100299,Account_299,Asset,COGS,Yes,2018-10-02
+ACC100300,Account_300,Asset,Fixed Assets,Yes,2015-07-16
+ACC100301,Account_301,Asset,COGS,Yes,2018-09-15
+ACC100302,Account_302,Revenue,Cash,No,2019-01-31
+ACC100303,Account_303,Expense,COGS,Yes,2015-06-29
+ACC100304,Account_304,Equity,Accounts Receivable,Yes,2016-01-22
+ACC100305,Account_305,Revenue,Long-Term Debt,Yes,2015-11-02
+ACC100306,Account_306,Expense,Fixed Assets,Yes,2018-12-15
+ACC100307,Account_307,Expense,COGS,Yes,2018-01-08
+ACC100308,Account_308,Expense,Fixed Assets,Yes,2016-11-23
+ACC100309,Account_309,Liability,Long-Term Debt,Yes,2016-06-17
+ACC100310,Account_310,Expense,Owner Equity,Yes,2022-08-15
+ACC100311,Account_311,Asset,Fixed Assets,Yes,2019-09-26
+ACC100312,Account_312,Revenue,Operating Expense,Yes,2018-10-24
+ACC100313,Account_313,Expense,Sales Revenue,Yes,2019-02-12
+ACC100314,Account_314,Asset,Long-Term Debt,No,2017-08-31
+ACC100315,Account_315,Revenue,Operating Expense,Yes,2018-10-26
+ACC100316,Account_316,Revenue,Cash,Yes,2017-06-14
+ACC100317,Account_317,Expense,Accounts Receivable,Yes,2019-05-16
+ACC100318,Account_318,Expense,Long-Term Debt,Yes,2021-01-01
+ACC100319,Account_319,Expense,COGS,Yes,2020-09-13
+ACC100320,Account_320,Asset,Long-Term Debt,Yes,2018-04-28
+ACC100321,Account_321,Revenue,Operating Expense,Yes,2017-12-12
+ACC100322,Account_322,Revenue,Inventory,Yes,2019-12-13
+ACC100323,Account_323,Asset,Accounts Receivable,Yes,2016-02-01
+ACC100324,Account_324,Liability,Operating Expense,Yes,2019-05-04
+ACC100325,Account_325,Asset,Service Revenue,Yes,2020-01-06
+ACC100326,Account_326,Asset,Sales Revenue,Yes,2015-06-08
+ACC100327,Account_327,Asset,Long-Term Debt,Yes,2022-04-22
+ACC100328,Account_328,Asset,Inventory,Yes,2021-11-27
+ACC100329,Account_329,Expense,Fixed Assets,Yes,2020-12-25
+ACC100330,Account_330,Equity,Cash,No,2019-08-11
+ACC100331,Account_331,Liability,Accounts Receivable,Yes,2022-09-11
+ACC100332,Account_332,Liability,Owner Equity,Yes,2020-05-08
+ACC100333,Account_333,Asset,Operating Expense,Yes,2015-10-07
+ACC100334,Account_334,Expense,Operating Expense,Yes,2015-02-02
+ACC100335,Account_335,Asset,Long-Term Debt,No,2023-01-04
+ACC100336,Account_336,Equity,Accounts Payable,Yes,2020-09-11
+ACC100337,Account_337,Revenue,Operating Expense,Yes,2021-05-18
+ACC100338,Account_338,Revenue,Fixed Assets,Yes,2020-04-13
+ACC100339,Account_339,Expense,Fixed Assets,Yes,2016-05-16
+ACC100340,Account_340,Liability,Inventory,No,2021-03-11
+ACC100341,Account_341,Liability,Operating Expense,Yes,2022-12-09
+ACC100342,Account_342,Equity,Accounts Payable,Yes,2015-04-11
+ACC100343,Account_343,Equity,Service Revenue,Yes,2019-10-06
+ACC100344,Account_344,Revenue,Long-Term Debt,Yes,2022-11-25
+ACC100345,Account_345,Expense,Sales Revenue,Yes,2019-07-23
+ACC100346,Account_346,Expense,Operating Expense,Yes,2016-02-10
+ACC100347,Account_347,Revenue,Long-Term Debt,Yes,2018-02-18
+ACC100348,Account_348,Asset,Inventory,Yes,2020-08-02
+ACC100349,Account_349,Asset,Accounts Receivable,No,2017-06-23
+ACC100350,Account_350,Equity,Owner Equity,Yes,2019-12-29
+ACC100351,Account_351,Asset,COGS,Yes,2021-01-20
+ACC100352,Account_352,Liability,Fixed Assets,Yes,2020-10-10
+ACC100353,Account_353,Expense,Long-Term Debt,Yes,2016-07-18
+ACC100354,Account_354,Liability,Inventory,Yes,2018-06-01
+ACC100355,Account_355,Equity,COGS,Yes,2017-06-26
+ACC100356,Account_356,Liability,Owner Equity,Yes,2015-11-18
+ACC100357,Account_357,Revenue,Long-Term Debt,Yes,2018-10-30
+ACC100358,Account_358,Revenue,Sales Revenue,Yes,2019-04-09
+ACC100359,Account_359,Equity,Long-Term Debt,Yes,2016-02-07
+ACC100360,Account_360,Asset,Fixed Assets,Yes,2017-04-08
+ACC100361,Account_361,Equity,Accounts Payable,Yes,2018-03-12
+ACC100362,Account_362,Liability,Long-Term Debt,Yes,2016-06-17
+ACC100363,Account_363,Liability,Accounts Receivable,Yes,2016-01-22
+ACC100364,Account_364,Liability,Owner Equity,Yes,2016-02-25
+ACC100365,Account_365,Liability,Inventory,Yes,2017-06-06
+ACC100366,Account_366,Asset,Long-Term Debt,Yes,2016-09-21
+ACC100367,Account_367,Revenue,Accounts Payable,Yes,2017-04-23
+ACC100368,Account_368,Liability,Long-Term Debt,Yes,2019-12-21
+ACC100369,Account_369,Revenue,Sales Revenue,Yes,2022-06-02
+ACC100370,Account_370,Equity,Inventory,Yes,2021-12-17
+ACC100371,Account_371,Revenue,Cash,Yes,2019-11-06
+ACC100372,Account_372,Asset,COGS,Yes,2022-07-27
+ACC100373,Account_373,Liability,Long-Term Debt,Yes,2019-10-17
+ACC100374,Account_374,Liability,Fixed Assets,Yes,2022-08-26
+ACC100375,Account_375,Revenue,Accounts Payable,Yes,2021-12-19
+ACC100376,Account_376,Equity,Accounts Receivable,Yes,2022-11-09
+ACC100377,Account_377,Equity,Long-Term Debt,Yes,2022-01-10
+ACC100378,Account_378,Liability,Owner Equity,Yes,2021-02-17
+ACC100379,Account_379,Equity,Accounts Receivable,Yes,2022-08-01
+ACC100380,Account_380,Expense,Long-Term Debt,No,2017-01-03
+ACC100381,Account_381,Revenue,Fixed Assets,Yes,2015-12-28
+ACC100382,Account_382,Expense,Long-Term Debt,Yes,2020-04-02
+ACC100383,Account_383,Liability,Accounts Receivable,Yes,2021-10-25
+ACC100384,Account_384,Liability,Fixed Assets,Yes,2020-01-19
+ACC100385,Account_385,Equity,Long-Term Debt,Yes,2016-03-02
+ACC100386,Account_386,Asset,Sales Revenue,Yes,2018-08-07
+ACC100387,Account_387,Asset,Operating Expense,Yes,2019-06-14
+ACC100388,Account_388,Equity,Long-Term Debt,No,2022-11-29
+ACC100389,Account_389,Asset,Accounts Receivable,Yes,2015-07-31
+ACC100390,Account_390,Revenue,Owner Equity,Yes,2021-04-06
+ACC100391,Account_391,Asset,COGS,Yes,2018-12-28
+ACC100392,Account_392,Liability,Service Revenue,Yes,2021-12-29
+ACC100393,Account_393,Equity,Fixed Assets,Yes,2019-05-21
+ACC100394,Account_394,Revenue,Inventory,No,2020-08-29
+ACC100395,Account_395,Expense,Operating Expense,Yes,2022-11-25
+ACC100396,Account_396,Expense,Long-Term Debt,No,2018-01-30
+ACC100397,Account_397,Equity,Long-Term Debt,Yes,2020-02-23
+ACC100398,Account_398,Revenue,Long-Term Debt,Yes,2018-06-02
+ACC100399,Account_399,Liability,Accounts Payable,Yes,2021-08-16
+ACC100400,Account_400,Equity,Service Revenue,No,2015-08-12
+ACC100401,Account_401,Liability,Long-Term Debt,Yes,2021-07-03
+ACC100402,Account_402,Equity,Accounts Receivable,Yes,2020-03-06
+ACC100403,Account_403,Liability,Fixed Assets,Yes,2021-12-11
+ACC100404,Account_404,Asset,Long-Term Debt,Yes,2015-01-16
+ACC100405,Account_405,Liability,Sales Revenue,Yes,2015-10-25
+ACC100406,Account_406,Revenue,Sales Revenue,No,2022-10-18
+ACC100407,Account_407,Equity,Owner Equity,Yes,2015-09-18
+ACC100408,Account_408,Equity,Cash,Yes,2020-06-13
+ACC100409,Account_409,Liability,Fixed Assets,Yes,2017-05-12
+ACC100410,Account_410,Expense,Fixed Assets,Yes,2021-11-30
+ACC100411,Account_411,Equity,Owner Equity,Yes,2021-07-12
+ACC100412,Account_412,Revenue,Owner Equity,Yes,2021-02-26
+ACC100413,Account_413,Expense,Sales Revenue,Yes,2023-03-17
+ACC100414,Account_414,Asset,Owner Equity,Yes,2017-09-21
+ACC100415,Account_415,Liability,Fixed Assets,Yes,2020-08-10
+ACC100416,Account_416,Expense,Operating Expense,Yes,2015-10-24
+ACC100417,Account_417,Equity,Service Revenue,Yes,2022-04-16
+ACC100418,Account_418,Asset,COGS,Yes,2018-09-06
+ACC100419,Account_419,Asset,Long-Term Debt,Yes,2021-04-27
+ACC100420,Account_420,Liability,Operating Expense,Yes,2022-07-04
+ACC100421,Account_421,Asset,Cash,Yes,2022-07-18
+ACC100422,Account_422,Liability,Accounts Receivable,Yes,2015-09-13
+ACC100423,Account_423,Expense,Accounts Receivable,Yes,2015-10-27
+ACC100424,Account_424,Liability,Accounts Receivable,Yes,2017-05-21
+ACC100425,Account_425,Revenue,Accounts Receivable,No,2018-03-09
+ACC100426,Account_426,Expense,Inventory,No,2020-11-05
+ACC100427,Account_427,Asset,COGS,No,2017-11-23
+ACC100428,Account_428,Asset,Service Revenue,Yes,2016-09-23
+ACC100429,Account_429,Asset,Fixed Assets,Yes,2023-01-28
+ACC100430,Account_430,Asset,COGS,Yes,2015-06-21
+ACC100431,Account_431,Equity,Service Revenue,Yes,2015-08-06
+ACC100432,Account_432,Equity,Accounts Payable,No,2020-07-28
+ACC100433,Account_433,Expense,Sales Revenue,No,2017-04-27
+ACC100434,Account_434,Revenue,Owner Equity,Yes,2017-11-11
+ACC100435,Account_435,Liability,Accounts Receivable,Yes,2020-10-31
+ACC100436,Account_436,Revenue,Sales Revenue,Yes,2020-07-20
+ACC100437,Account_437,Equity,Inventory,Yes,2019-12-24
+ACC100438,Account_438,Equity,Fixed Assets,Yes,2021-04-28
+ACC100439,Account_439,Liability,Accounts Receivable,Yes,2016-12-26
+ACC100440,Account_440,Expense,Long-Term Debt,Yes,2018-08-18
+ACC100441,Account_441,Equity,COGS,Yes,2020-10-12
+ACC100442,Account_442,Equity,Operating Expense,Yes,2017-09-25
+ACC100443,Account_443,Expense,Owner Equity,Yes,2022-05-13
+ACC100444,Account_444,Equity,Accounts Receivable,Yes,2023-02-20
+ACC100445,Account_445,Expense,Accounts Payable,Yes,2017-12-03
+ACC100446,Account_446,Revenue,Fixed Assets,Yes,2015-09-05
+ACC100447,Account_447,Asset,Accounts Payable,Yes,2023-02-11
+ACC100448,Account_448,Expense,Sales Revenue,Yes,2022-02-28
+ACC100449,Account_449,Revenue,Accounts Payable,Yes,2015-09-05
+ACC100450,Account_450,Asset,Long-Term Debt,Yes,2017-02-19
+ACC100451,Account_451,Liability,Operating Expense,Yes,2019-01-19
+ACC100452,Account_452,Liability,Sales Revenue,Yes,2019-12-29
+ACC100453,Account_453,Liability,Accounts Receivable,Yes,2018-02-05
+ACC100454,Account_454,Equity,Service Revenue,No,2017-07-03
+ACC100455,Account_455,Asset,Accounts Payable,Yes,2015-06-16
+ACC100456,Account_456,Liability,Long-Term Debt,Yes,2018-06-02
+ACC100457,Account_457,Revenue,Long-Term Debt,Yes,2016-03-18
+ACC100458,Account_458,Expense,Long-Term Debt,Yes,2020-06-05
+ACC100459,Account_459,Asset,Accounts Payable,Yes,2022-09-12
+ACC100460,Account_460,Asset,Sales Revenue,Yes,2021-04-12
+ACC100461,Account_461,Equity,COGS,Yes,2021-04-30
+ACC100462,Account_462,Asset,Service Revenue,Yes,2015-07-16
+ACC100463,Account_463,Liability,COGS,Yes,2017-04-19
+ACC100464,Account_464,Liability,Service Revenue,Yes,2023-02-16
+ACC100465,Account_465,Revenue,Sales Revenue,Yes,2022-10-14
+ACC100466,Account_466,Revenue,Accounts Receivable,Yes,2020-01-24
+ACC100467,Account_467,Equity,Accounts Receivable,Yes,2016-05-26
+ACC100468,Account_468,Liability,Cash,Yes,2015-03-24
+ACC100469,Account_469,Equity,Long-Term Debt,Yes,2018-08-16
+ACC100470,Account_470,Liability,Operating Expense,Yes,2020-02-28
+ACC100471,Account_471,Revenue,Fixed Assets,Yes,2017-06-13
+ACC100472,Account_472,Liability,Inventory,Yes,2016-02-15
+ACC100473,Account_473,Equity,Inventory,Yes,2016-02-02
+ACC100474,Account_474,Liability,Owner Equity,Yes,2017-10-28
+ACC100475,Account_475,Equity,Accounts Payable,Yes,2015-01-18
+ACC100476,Account_476,Revenue,Inventory,Yes,2021-09-03
+ACC100477,Account_477,Asset,Accounts Payable,Yes,2021-02-15
+ACC100478,Account_478,Revenue,Owner Equity,Yes,2020-12-09
+ACC100479,Account_479,Asset,Owner Equity,Yes,2018-12-11
+ACC100480,Account_480,Asset,Owner Equity,Yes,2020-09-26
+ACC100481,Account_481,Liability,Operating Expense,Yes,2017-04-11
+ACC100482,Account_482,Asset,Owner Equity,No,2020-01-15
+ACC100483,Account_483,Asset,Accounts Receivable,Yes,2019-07-19
+ACC100484,Account_484,Asset,Long-Term Debt,Yes,2018-03-18
+ACC100485,Account_485,Liability,COGS,Yes,2017-08-06
+ACC100486,Account_486,Liability,Accounts Receivable,Yes,2016-12-12
+ACC100487,Account_487,Asset,Long-Term Debt,No,2023-02-23
+ACC100488,Account_488,Expense,Long-Term Debt,Yes,2021-06-13
+ACC100489,Account_489,Liability,Fixed Assets,Yes,2019-06-13
+ACC100490,Account_490,Liability,Inventory,Yes,2022-11-25
+ACC100491,Account_491,Equity,Inventory,Yes,2016-06-11
+ACC100492,Account_492,Expense,Sales Revenue,Yes,2022-10-03
+ACC100493,Account_493,Revenue,Accounts Receivable,Yes,2015-06-13
+ACC100494,Account_494,Expense,Sales Revenue,Yes,2022-07-07
+ACC100495,Account_495,Revenue,Cash,Yes,2017-10-27
+ACC100496,Account_496,Revenue,Sales Revenue,Yes,2016-10-27
+ACC100497,Account_497,Revenue,Owner Equity,Yes,2018-02-03
+ACC100498,Account_498,Asset,Accounts Payable,Yes,2016-04-30
+ACC100499,Account_499,Revenue,Operating Expense,No,2018-03-02
+ACC100500,Account_500,Asset,Accounts Payable,Yes,2015-02-08
+ACC100501,Account_501,Expense,Sales Revenue,Yes,2020-10-05
+ACC100502,Account_502,Equity,Fixed Assets,Yes,2020-06-01
+ACC100503,Account_503,Expense,Accounts Receivable,Yes,2021-01-09
+ACC100504,Account_504,Liability,Accounts Receivable,Yes,2022-05-12
+ACC100505,Account_505,Expense,Service Revenue,Yes,2018-01-19
+ACC100506,Account_506,Liability,Long-Term Debt,Yes,2016-11-12
+ACC100507,Account_507,Asset,Operating Expense,Yes,2020-08-31
+ACC100508,Account_508,Equity,Inventory,Yes,2022-11-10
+ACC100509,Account_509,Expense,Accounts Payable,Yes,2015-09-04
+ACC100510,Account_510,Revenue,Inventory,Yes,2023-01-06
+ACC100511,Account_511,Asset,Owner Equity,Yes,2016-11-14
+ACC100512,Account_512,Equity,Accounts Receivable,Yes,2023-03-13
+ACC100513,Account_513,Asset,Fixed Assets,Yes,2022-05-09
+ACC100514,Account_514,Equity,Operating Expense,Yes,2019-09-12
+ACC100515,Account_515,Revenue,Inventory,Yes,2019-07-22
+ACC100516,Account_516,Asset,Inventory,Yes,2015-02-04
+ACC100517,Account_517,Equity,Long-Term Debt,Yes,2022-09-28
+ACC100518,Account_518,Revenue,Sales Revenue,Yes,2021-03-08
+ACC100519,Account_519,Equity,Sales Revenue,Yes,2019-08-30
+ACC100520,Account_520,Asset,Accounts Receivable,Yes,2021-09-10
+ACC100521,Account_521,Liability,Accounts Receivable,No,2023-01-17
+ACC100522,Account_522,Liability,Accounts Payable,Yes,2015-05-12
+ACC100523,Account_523,Expense,Inventory,Yes,2020-12-16
+ACC100524,Account_524,Asset,Fixed Assets,Yes,2015-05-13
+ACC100525,Account_525,Liability,Service Revenue,Yes,2019-06-14
+ACC100526,Account_526,Asset,Owner Equity,Yes,2022-05-30
+ACC100527,Account_527,Equity,COGS,Yes,2021-03-16
+ACC100528,Account_528,Revenue,Owner Equity,Yes,2020-04-08
+ACC100529,Account_529,Equity,Accounts Payable,Yes,2019-12-30
+ACC100530,Account_530,Liability,Inventory,Yes,2020-12-04
+ACC100531,Account_531,Equity,Fixed Assets,Yes,2019-11-28
+ACC100532,Account_532,Expense,Accounts Payable,Yes,2022-10-22
+ACC100533,Account_533,Liability,Inventory,Yes,2020-09-17
+ACC100534,Account_534,Asset,Service Revenue,No,2020-03-10
+ACC100535,Account_535,Revenue,Accounts Payable,Yes,2020-04-22
+ACC100536,Account_536,Asset,Accounts Payable,Yes,2020-04-26
+ACC100537,Account_537,Revenue,Inventory,Yes,2020-01-23
+ACC100538,Account_538,Asset,Service Revenue,Yes,2015-06-27
+ACC100539,Account_539,Equity,Operating Expense,Yes,2022-04-13
+ACC100540,Account_540,Revenue,Sales Revenue,Yes,2022-12-04
+ACC100541,Account_541,Asset,Owner Equity,Yes,2019-05-05
+ACC100542,Account_542,Liability,Accounts Receivable,Yes,2015-09-07
+ACC100543,Account_543,Revenue,COGS,Yes,2018-02-13
+ACC100544,Account_544,Equity,COGS,Yes,2018-06-18
+ACC100545,Account_545,Revenue,Owner Equity,Yes,2017-01-08
+ACC100546,Account_546,Expense,Operating Expense,Yes,2019-09-19
+ACC100547,Account_547,Equity,Owner Equity,Yes,2020-02-27
+ACC100548,Account_548,Expense,Service Revenue,Yes,2022-05-15
+ACC100549,Account_549,Equity,Accounts Payable,Yes,2016-11-14
+ACC100550,Account_550,Expense,Fixed Assets,Yes,2018-05-14
+ACC100551,Account_551,Expense,Owner Equity,Yes,2017-10-17
+ACC100552,Account_552,Liability,Operating Expense,Yes,2021-01-27
+ACC100553,Account_553,Asset,Accounts Payable,Yes,2019-09-24
+ACC100554,Account_554,Revenue,Accounts Receivable,Yes,2022-10-12
+ACC100555,Account_555,Equity,Cash,Yes,2022-07-03
+ACC100556,Account_556,Expense,Inventory,No,2019-07-21
+ACC100557,Account_557,Revenue,Fixed Assets,Yes,2017-08-01
+ACC100558,Account_558,Liability,COGS,Yes,2017-08-14
+ACC100559,Account_559,Liability,Fixed Assets,Yes,2020-06-26
+ACC100560,Account_560,Equity,Operating Expense,Yes,2016-12-05
+ACC100561,Account_561,Asset,COGS,Yes,2016-12-03
+ACC100562,Account_562,Liability,Fixed Assets,No,2016-07-27
+ACC100563,Account_563,Expense,Accounts Payable,Yes,2017-08-30
+ACC100564,Account_564,Asset,Sales Revenue,Yes,2015-07-10
+ACC100565,Account_565,Asset,Sales Revenue,Yes,2020-01-29
+ACC100566,Account_566,Expense,Accounts Payable,Yes,2015-04-30
+ACC100567,Account_567,Liability,Sales Revenue,Yes,2017-01-16
+ACC100568,Account_568,Asset,Sales Revenue,Yes,2019-07-24
+ACC100569,Account_569,Asset,Service Revenue,Yes,2021-10-26
+ACC100570,Account_570,Revenue,COGS,Yes,2023-01-24
+ACC100571,Account_571,Revenue,Operating Expense,Yes,2015-04-19
+ACC100572,Account_572,Revenue,Inventory,Yes,2022-06-25
+ACC100573,Account_573,Liability,Service Revenue,Yes,2016-11-07
+ACC100574,Account_574,Asset,COGS,Yes,2018-12-20
+ACC100575,Account_575,Revenue,COGS,No,2015-02-11
+ACC100576,Account_576,Equity,Owner Equity,Yes,2017-09-04
+ACC100577,Account_577,Revenue,Inventory,Yes,2020-02-02
+ACC100578,Account_578,Liability,Operating Expense,Yes,2017-05-18
+ACC100579,Account_579,Asset,Owner Equity,Yes,2020-10-13
+ACC100580,Account_580,Equity,Accounts Payable,Yes,2021-10-30
+ACC100581,Account_581,Expense,Service Revenue,Yes,2018-06-14
+ACC100582,Account_582,Asset,Operating Expense,Yes,2017-05-12
+ACC100583,Account_583,Asset,Cash,Yes,2020-11-10
+ACC100584,Account_584,Liability,Service Revenue,Yes,2020-10-23
+ACC100585,Account_585,Revenue,Sales Revenue,Yes,2018-07-14
+ACC100586,Account_586,Revenue,Long-Term Debt,Yes,2017-08-16
+ACC100587,Account_587,Revenue,Owner Equity,Yes,2022-08-27
+ACC100588,Account_588,Liability,Accounts Payable,Yes,2017-10-29
+ACC100589,Account_589,Revenue,Owner Equity,Yes,2021-11-22
+ACC100590,Account_590,Equity,Accounts Payable,Yes,2019-04-03
+ACC100591,Account_591,Asset,Long-Term Debt,No,2022-11-11
+ACC100592,Account_592,Liability,Sales Revenue,Yes,2016-06-19
+ACC100593,Account_593,Revenue,Service Revenue,Yes,2020-11-01
+ACC100594,Account_594,Expense,Operating Expense,Yes,2019-11-13
+ACC100595,Account_595,Expense,Owner Equity,Yes,2021-04-21
+ACC100596,Account_596,Asset,Owner Equity,No,2018-03-07
+ACC100597,Account_597,Liability,Service Revenue,Yes,2020-07-16
+ACC100598,Account_598,Expense,Operating Expense,Yes,2020-06-21
+ACC100599,Account_599,Liability,Accounts Receivable,Yes,2016-09-18
+ACC100600,Account_600,Equity,Accounts Payable,Yes,2020-08-14
+ACC100601,Account_601,Revenue,Accounts Payable,Yes,2020-11-13
+ACC100602,Account_602,Equity,Long-Term Debt,Yes,2021-07-16
+ACC100603,Account_603,Equity,Cash,Yes,2019-10-27
+ACC100604,Account_604,Asset,Service Revenue,Yes,2019-02-03
+ACC100605,Account_605,Asset,Owner Equity,Yes,2023-02-27
+ACC100606,Account_606,Expense,Fixed Assets,Yes,2018-09-30
+ACC100607,Account_607,Revenue,Inventory,Yes,2022-06-26
+ACC100608,Account_608,Equity,COGS,Yes,2023-01-21
+ACC100609,Account_609,Revenue,Accounts Receivable,No,2018-11-30
+ACC100610,Account_610,Equity,Cash,Yes,2022-12-02
+ACC100611,Account_611,Equity,Owner Equity,Yes,2016-01-15
+ACC100612,Account_612,Asset,Sales Revenue,No,2020-10-14
+ACC100613,Account_613,Equity,Cash,Yes,2018-04-13
+ACC100614,Account_614,Expense,Owner Equity,Yes,2018-08-06
+ACC100615,Account_615,Liability,Cash,Yes,2018-06-24
+ACC100616,Account_616,Expense,Sales Revenue,Yes,2018-10-12
+ACC100617,Account_617,Expense,Cash,No,2015-06-06
+ACC100618,Account_618,Expense,Owner Equity,Yes,2021-07-18
+ACC100619,Account_619,Asset,Fixed Assets,Yes,2022-03-12
+ACC100620,Account_620,Liability,Accounts Payable,Yes,2016-11-30
+ACC100621,Account_621,Expense,Inventory,Yes,2017-08-24
+ACC100622,Account_622,Equity,Operating Expense,Yes,2022-12-09
+ACC100623,Account_623,Revenue,Sales Revenue,Yes,2022-12-21
+ACC100624,Account_624,Asset,Accounts Receivable,Yes,2015-09-25
+ACC100625,Account_625,Equity,Service Revenue,Yes,2016-02-15
+ACC100626,Account_626,Asset,Operating Expense,No,2018-01-02
+ACC100627,Account_627,Liability,Operating Expense,Yes,2016-11-25
+ACC100628,Account_628,Liability,Long-Term Debt,Yes,2015-03-13
+ACC100629,Account_629,Revenue,Operating Expense,Yes,2022-03-11
+ACC100630,Account_630,Liability,Accounts Payable,Yes,2015-11-29
+ACC100631,Account_631,Revenue,Accounts Payable,Yes,2020-04-08
+ACC100632,Account_632,Liability,Service Revenue,Yes,2019-11-21
+ACC100633,Account_633,Liability,Fixed Assets,Yes,2020-02-19
+ACC100634,Account_634,Equity,Long-Term Debt,Yes,2023-03-14
+ACC100635,Account_635,Equity,Service Revenue,Yes,2022-11-23
+ACC100636,Account_636,Asset,Fixed Assets,Yes,2016-12-25
+ACC100637,Account_637,Equity,Accounts Receivable,Yes,2020-04-23
+ACC100638,Account_638,Liability,Accounts Payable,Yes,2017-10-22
+ACC100639,Account_639,Expense,Service Revenue,Yes,2020-12-14
+ACC100640,Account_640,Revenue,COGS,Yes,2019-03-14
+ACC100641,Account_641,Equity,Cash,Yes,2016-08-07
+ACC100642,Account_642,Liability,Cash,Yes,2015-09-16
+ACC100643,Account_643,Expense,Sales Revenue,Yes,2016-12-24
+ACC100644,Account_644,Revenue,Owner Equity,Yes,2020-02-09
+ACC100645,Account_645,Liability,Accounts Receivable,Yes,2019-08-27
+ACC100646,Account_646,Revenue,Fixed Assets,Yes,2021-06-04
+ACC100647,Account_647,Revenue,Owner Equity,Yes,2020-03-25
+ACC100648,Account_648,Expense,Sales Revenue,No,2020-12-09
+ACC100649,Account_649,Expense,Long-Term Debt,Yes,2022-08-08
+ACC100650,Account_650,Expense,Accounts Receivable,Yes,2016-09-27
+ACC100651,Account_651,Equity,Fixed Assets,Yes,2022-07-31
+ACC100652,Account_652,Asset,Cash,Yes,2017-03-30
+ACC100653,Account_653,Liability,Long-Term Debt,Yes,2017-07-10
+ACC100654,Account_654,Asset,Long-Term Debt,Yes,2019-01-13
+ACC100655,Account_655,Revenue,Owner Equity,Yes,2019-06-05
+ACC100656,Account_656,Revenue,Long-Term Debt,No,2015-12-04
+ACC100657,Account_657,Asset,Inventory,Yes,2018-08-17
+ACC100658,Account_658,Revenue,Owner Equity,Yes,2016-03-09
+ACC100659,Account_659,Expense,Cash,Yes,2017-01-15
+ACC100660,Account_660,Liability,Owner Equity,Yes,2020-03-05
+ACC100661,Account_661,Revenue,Fixed Assets,Yes,2019-12-15
+ACC100662,Account_662,Asset,Accounts Receivable,Yes,2015-01-15
+ACC100663,Account_663,Equity,Fixed Assets,No,2017-06-25
+ACC100664,Account_664,Expense,Service Revenue,Yes,2016-04-09
+ACC100665,Account_665,Expense,Service Revenue,Yes,2015-11-27
+ACC100666,Account_666,Asset,Accounts Payable,Yes,2023-03-06
+ACC100667,Account_667,Revenue,Cash,Yes,2018-11-07
+ACC100668,Account_668,Revenue,Long-Term Debt,Yes,2017-01-22
+ACC100669,Account_669,Liability,Sales Revenue,Yes,2020-03-22
+ACC100670,Account_670,Revenue,Service Revenue,No,2018-11-25
+ACC100671,Account_671,Liability,Accounts Payable,Yes,2019-11-26
+ACC100672,Account_672,Revenue,Inventory,Yes,2018-09-18
+ACC100673,Account_673,Liability,Owner Equity,No,2018-02-14
+ACC100674,Account_674,Expense,Sales Revenue,Yes,2015-07-29
+ACC100675,Account_675,Asset,Inventory,Yes,2020-02-18
+ACC100676,Account_676,Expense,Long-Term Debt,Yes,2015-11-05
+ACC100677,Account_677,Expense,Operating Expense,Yes,2019-02-19
+ACC100678,Account_678,Asset,Cash,Yes,2021-10-06
+ACC100679,Account_679,Liability,Operating Expense,Yes,2018-08-07
+ACC100680,Account_680,Liability,COGS,Yes,2020-06-18
+ACC100681,Account_681,Equity,Long-Term Debt,No,2021-01-13
+ACC100682,Account_682,Asset,Operating Expense,Yes,2018-03-08
+ACC100683,Account_683,Revenue,Cash,Yes,2022-01-11
+ACC100684,Account_684,Asset,COGS,Yes,2020-01-06
+ACC100685,Account_685,Liability,Operating Expense,Yes,2018-04-12
+ACC100686,Account_686,Revenue,Long-Term Debt,Yes,2016-10-24
+ACC100687,Account_687,Equity,COGS,Yes,2019-12-29
+ACC100688,Account_688,Revenue,Fixed Assets,Yes,2022-09-26
+ACC100689,Account_689,Equity,Fixed Assets,Yes,2022-11-16
+ACC100690,Account_690,Liability,Cash,Yes,2021-08-07
+ACC100691,Account_691,Expense,Inventory,No,2017-08-16
+ACC100692,Account_692,Asset,Fixed Assets,Yes,2015-08-18
+ACC100693,Account_693,Asset,Inventory,Yes,2021-09-28
+ACC100694,Account_694,Revenue,Long-Term Debt,Yes,2021-12-08
+ACC100695,Account_695,Asset,COGS,Yes,2015-11-01
+ACC100696,Account_696,Revenue,Operating Expense,Yes,2023-03-05
+ACC100697,Account_697,Equity,COGS,Yes,2017-07-10
+ACC100698,Account_698,Asset,COGS,No,2018-04-08
+ACC100699,Account_699,Expense,Operating Expense,Yes,2015-02-15
+ACC100700,Account_700,Asset,Accounts Payable,Yes,2018-04-15
+ACC100701,Account_701,Asset,Fixed Assets,Yes,2019-02-04
+ACC100702,Account_702,Equity,Fixed Assets,Yes,2020-06-18
+ACC100703,Account_703,Expense,Inventory,Yes,2022-01-03
+ACC100704,Account_704,Revenue,Long-Term Debt,No,2018-10-07
+ACC100705,Account_705,Liability,Long-Term Debt,Yes,2016-06-10
+ACC100706,Account_706,Asset,COGS,Yes,2015-07-21
+ACC100707,Account_707,Asset,Cash,Yes,2020-08-09
+ACC100708,Account_708,Expense,Accounts Receivable,Yes,2022-07-12
+ACC100709,Account_709,Equity,Owner Equity,Yes,2022-05-20
+ACC100710,Account_710,Asset,COGS,Yes,2021-05-16
+ACC100711,Account_711,Revenue,Operating Expense,No,2022-08-13
+ACC100712,Account_712,Liability,Accounts Receivable,Yes,2021-11-09
+ACC100713,Account_713,Expense,Accounts Payable,Yes,2018-09-15
+ACC100714,Account_714,Equity,Owner Equity,Yes,2021-03-08
+ACC100715,Account_715,Asset,Fixed Assets,Yes,2016-05-03
+ACC100716,Account_716,Revenue,Fixed Assets,Yes,2020-11-23
+ACC100717,Account_717,Liability,Cash,Yes,2020-10-25
+ACC100718,Account_718,Expense,Operating Expense,Yes,2016-01-26
+ACC100719,Account_719,Revenue,Operating Expense,Yes,2017-05-29
+ACC100720,Account_720,Revenue,Accounts Receivable,Yes,2017-02-01
+ACC100721,Account_721,Equity,Cash,Yes,2022-01-31
+ACC100722,Account_722,Asset,Service Revenue,Yes,2015-03-23
+ACC100723,Account_723,Liability,Cash,Yes,2017-02-09
+ACC100724,Account_724,Liability,Sales Revenue,Yes,2020-04-06
+ACC100725,Account_725,Liability,Operating Expense,Yes,2019-12-07
+ACC100726,Account_726,Asset,COGS,Yes,2019-07-10
+ACC100727,Account_727,Equity,COGS,Yes,2018-11-07
+ACC100728,Account_728,Asset,Long-Term Debt,Yes,2022-09-22
+ACC100729,Account_729,Liability,Sales Revenue,Yes,2017-08-26
+ACC100730,Account_730,Liability,Accounts Payable,Yes,2022-08-21
+ACC100731,Account_731,Expense,Inventory,Yes,2017-11-22
+ACC100732,Account_732,Revenue,Operating Expense,Yes,2016-08-01
+ACC100733,Account_733,Expense,Inventory,Yes,2022-03-31
+ACC100734,Account_734,Asset,Service Revenue,Yes,2021-01-02
+ACC100735,Account_735,Equity,Cash,Yes,2018-06-06
+ACC100736,Account_736,Revenue,Inventory,Yes,2015-07-25
+ACC100737,Account_737,Expense,Service Revenue,Yes,2020-09-02
+ACC100738,Account_738,Asset,Accounts Receivable,Yes,2019-10-24
+ACC100739,Account_739,Expense,Accounts Payable,Yes,2015-06-08
+ACC100740,Account_740,Equity,Cash,No,2020-10-17
+ACC100741,Account_741,Equity,Service Revenue,Yes,2019-02-17
+ACC100742,Account_742,Revenue,Operating Expense,Yes,2018-12-05
+ACC100743,Account_743,Revenue,Long-Term Debt,Yes,2022-12-30
+ACC100744,Account_744,Asset,Accounts Receivable,Yes,2017-08-29
+ACC100745,Account_745,Revenue,Fixed Assets,Yes,2022-11-12
+ACC100746,Account_746,Liability,Cash,Yes,2021-08-05
+ACC100747,Account_747,Equity,Accounts Receivable,Yes,2019-05-27
+ACC100748,Account_748,Expense,Owner Equity,Yes,2022-02-23
+ACC100749,Account_749,Revenue,Owner Equity,Yes,2022-12-21
+ACC100750,Account_750,Asset,Inventory,Yes,2015-11-03
+ACC100751,Account_751,Revenue,Operating Expense,No,2022-01-15
+ACC100752,Account_752,Asset,Long-Term Debt,Yes,2019-07-29
+ACC100753,Account_753,Expense,Sales Revenue,Yes,2022-03-29
+ACC100754,Account_754,Equity,Owner Equity,Yes,2018-08-05
+ACC100755,Account_755,Revenue,Long-Term Debt,No,2015-01-12
+ACC100756,Account_756,Asset,Inventory,Yes,2018-12-07
+ACC100757,Account_757,Revenue,Long-Term Debt,Yes,2022-09-24
+ACC100758,Account_758,Asset,Accounts Receivable,Yes,2021-08-25
+ACC100759,Account_759,Equity,Service Revenue,Yes,2015-06-25
+ACC100760,Account_760,Revenue,Accounts Payable,Yes,2022-02-04
+ACC100761,Account_761,Equity,Fixed Assets,Yes,2017-07-12
+ACC100762,Account_762,Liability,Accounts Payable,Yes,2019-10-17
+ACC100763,Account_763,Expense,Accounts Payable,Yes,2017-10-30
+ACC100764,Account_764,Equity,COGS,Yes,2020-10-02
+ACC100765,Account_765,Liability,Long-Term Debt,Yes,2023-01-05
+ACC100766,Account_766,Expense,Accounts Payable,Yes,2016-02-16
+ACC100767,Account_767,Expense,Accounts Receivable,Yes,2015-07-04
+ACC100768,Account_768,Equity,Owner Equity,Yes,2018-12-22
+ACC100769,Account_769,Liability,Fixed Assets,Yes,2015-01-23
+ACC100770,Account_770,Expense,Long-Term Debt,Yes,2021-03-25
+ACC100771,Account_771,Equity,Fixed Assets,Yes,2019-10-27
+ACC100772,Account_772,Liability,Sales Revenue,No,2021-11-11
+ACC100773,Account_773,Expense,Accounts Receivable,Yes,2017-12-05
+ACC100774,Account_774,Revenue,Operating Expense,Yes,2016-03-13
+ACC100775,Account_775,Expense,Long-Term Debt,No,2022-09-04
+ACC100776,Account_776,Asset,Long-Term Debt,Yes,2022-03-22
+ACC100777,Account_777,Liability,Accounts Receivable,Yes,2015-01-18
+ACC100778,Account_778,Revenue,COGS,Yes,2022-01-03
+ACC100779,Account_779,Asset,Accounts Receivable,Yes,2019-04-10
+ACC100780,Account_780,Liability,Inventory,Yes,2018-05-27
+ACC100781,Account_781,Asset,Sales Revenue,Yes,2022-04-28
+ACC100782,Account_782,Liability,Owner Equity,Yes,2015-11-21
+ACC100783,Account_783,Expense,COGS,Yes,2016-02-07
+ACC100784,Account_784,Revenue,Sales Revenue,Yes,2015-03-12
+ACC100785,Account_785,Equity,Long-Term Debt,Yes,2016-05-13
+ACC100786,Account_786,Asset,COGS,Yes,2017-12-16
+ACC100787,Account_787,Expense,Accounts Receivable,Yes,2015-12-08
+ACC100788,Account_788,Revenue,Owner Equity,Yes,2019-12-01
+ACC100789,Account_789,Revenue,Service Revenue,Yes,2018-07-26
+ACC100790,Account_790,Revenue,Long-Term Debt,Yes,2016-01-28
+ACC100791,Account_791,Expense,Owner Equity,Yes,2019-04-11
+ACC100792,Account_792,Equity,Service Revenue,Yes,2015-08-05
+ACC100793,Account_793,Equity,Cash,Yes,2022-03-03
+ACC100794,Account_794,Expense,Long-Term Debt,Yes,2020-08-30
+ACC100795,Account_795,Expense,COGS,Yes,2022-06-27
+ACC100796,Account_796,Liability,COGS,Yes,2015-09-16
+ACC100797,Account_797,Asset,Fixed Assets,No,2021-05-19
+ACC100798,Account_798,Expense,Accounts Payable,Yes,2018-12-06
+ACC100799,Account_799,Revenue,Service Revenue,Yes,2018-09-09
+ACC100800,Account_800,Liability,Inventory,Yes,2018-10-10
+ACC100801,Account_801,Expense,Service Revenue,Yes,2019-10-29
+ACC100802,Account_802,Equity,Inventory,Yes,2021-05-27
+ACC100803,Account_803,Liability,Cash,Yes,2018-02-03
+ACC100804,Account_804,Liability,Cash,Yes,2019-01-19
+ACC100805,Account_805,Equity,Long-Term Debt,Yes,2015-04-21
+ACC100806,Account_806,Liability,Operating Expense,Yes,2022-12-03
+ACC100807,Account_807,Liability,Sales Revenue,Yes,2022-01-09
+ACC100808,Account_808,Equity,Long-Term Debt,Yes,2019-04-19
+ACC100809,Account_809,Revenue,Operating Expense,No,2016-01-01
+ACC100810,Account_810,Liability,Operating Expense,Yes,2021-06-18
+ACC100811,Account_811,Liability,Service Revenue,Yes,2021-02-27
+ACC100812,Account_812,Asset,Sales Revenue,Yes,2021-12-29
+ACC100813,Account_813,Equity,Accounts Receivable,Yes,2019-03-31
+ACC100814,Account_814,Revenue,Operating Expense,No,2018-05-25
+ACC100815,Account_815,Expense,COGS,Yes,2015-09-05
+ACC100816,Account_816,Expense,Accounts Payable,No,2016-01-21
+ACC100817,Account_817,Equity,Fixed Assets,No,2020-05-01
+ACC100818,Account_818,Expense,Accounts Payable,No,2022-07-14
+ACC100819,Account_819,Expense,Owner Equity,Yes,2016-10-22
+ACC100820,Account_820,Liability,Service Revenue,Yes,2020-09-01
+ACC100821,Account_821,Expense,Inventory,Yes,2022-02-21
+ACC100822,Account_822,Equity,Accounts Receivable,Yes,2020-02-26
+ACC100823,Account_823,Expense,Fixed Assets,Yes,2021-07-12
+ACC100824,Account_824,Asset,COGS,Yes,2018-02-19
+ACC100825,Account_825,Revenue,Sales Revenue,Yes,2022-09-23
+ACC100826,Account_826,Revenue,Accounts Payable,Yes,2017-12-25
+ACC100827,Account_827,Liability,Long-Term Debt,Yes,2015-01-16
+ACC100828,Account_828,Equity,Owner Equity,Yes,2018-01-21
+ACC100829,Account_829,Asset,COGS,Yes,2018-09-05
+ACC100830,Account_830,Revenue,Cash,Yes,2015-05-04
+ACC100831,Account_831,Revenue,Owner Equity,Yes,2015-10-06
+ACC100832,Account_832,Liability,Fixed Assets,Yes,2021-07-25
+ACC100833,Account_833,Revenue,Sales Revenue,Yes,2017-07-29
+ACC100834,Account_834,Equity,COGS,Yes,2022-02-22
+ACC100835,Account_835,Liability,Service Revenue,No,2020-06-23
+ACC100836,Account_836,Asset,Cash,No,2022-04-30
+ACC100837,Account_837,Revenue,Service Revenue,Yes,2021-08-15
+ACC100838,Account_838,Liability,Long-Term Debt,Yes,2021-12-19
+ACC100839,Account_839,Liability,Cash,Yes,2019-07-19
+ACC100840,Account_840,Expense,Sales Revenue,Yes,2018-06-20
+ACC100841,Account_841,Liability,Operating Expense,Yes,2016-12-16
+ACC100842,Account_842,Asset,Inventory,Yes,2017-05-09
+ACC100843,Account_843,Expense,Inventory,Yes,2016-11-23
+ACC100844,Account_844,Asset,Service Revenue,Yes,2016-12-13
+ACC100845,Account_845,Equity,Accounts Payable,Yes,2015-06-20
+ACC100846,Account_846,Expense,Cash,Yes,2021-11-08
+ACC100847,Account_847,Expense,Inventory,Yes,2020-10-05
+ACC100848,Account_848,Revenue,Fixed Assets,No,2020-07-27
+ACC100849,Account_849,Asset,Fixed Assets,No,2020-11-22
+ACC100850,Account_850,Revenue,Fixed Assets,Yes,2020-08-23
+ACC100851,Account_851,Revenue,Cash,Yes,2018-06-07
+ACC100852,Account_852,Expense,Sales Revenue,Yes,2015-10-30
+ACC100853,Account_853,Asset,Long-Term Debt,Yes,2016-03-01
+ACC100854,Account_854,Revenue,COGS,No,2016-08-25
+ACC100855,Account_855,Equity,Accounts Payable,Yes,2017-03-22
+ACC100856,Account_856,Expense,Long-Term Debt,Yes,2022-07-03
+ACC100857,Account_857,Equity,Fixed Assets,Yes,2021-01-16
+ACC100858,Account_858,Equity,Accounts Receivable,Yes,2015-02-07
+ACC100859,Account_859,Liability,Fixed Assets,No,2018-12-31
+ACC100860,Account_860,Expense,Cash,Yes,2019-06-05
+ACC100861,Account_861,Equity,Inventory,Yes,2018-09-25
+ACC100862,Account_862,Liability,Accounts Receivable,Yes,2022-02-19
+ACC100863,Account_863,Equity,Cash,Yes,2022-06-28
+ACC100864,Account_864,Equity,Service Revenue,Yes,2017-05-21
+ACC100865,Account_865,Asset,Operating Expense,Yes,2015-04-06
+ACC100866,Account_866,Equity,Service Revenue,Yes,2020-06-22
+ACC100867,Account_867,Revenue,Accounts Receivable,Yes,2021-03-01
+ACC100868,Account_868,Equity,COGS,Yes,2021-05-18
+ACC100869,Account_869,Liability,Inventory,Yes,2019-04-18
+ACC100870,Account_870,Revenue,COGS,Yes,2021-09-26
+ACC100871,Account_871,Revenue,Owner Equity,Yes,2016-02-28
+ACC100872,Account_872,Liability,Accounts Receivable,Yes,2018-02-22
+ACC100873,Account_873,Revenue,Service Revenue,Yes,2015-03-04
+ACC100874,Account_874,Liability,Sales Revenue,No,2018-01-14
+ACC100875,Account_875,Revenue,Accounts Receivable,Yes,2017-06-04
+ACC100876,Account_876,Liability,Long-Term Debt,Yes,2017-07-16
+ACC100877,Account_877,Equity,Accounts Receivable,Yes,2022-01-16
+ACC100878,Account_878,Asset,Accounts Receivable,Yes,2021-01-08
+ACC100879,Account_879,Liability,Owner Equity,No,2019-04-06
+ACC100880,Account_880,Equity,Inventory,Yes,2020-08-05
+ACC100881,Account_881,Equity,Owner Equity,Yes,2018-05-04
+ACC100882,Account_882,Expense,Accounts Payable,Yes,2017-07-21
+ACC100883,Account_883,Asset,Sales Revenue,Yes,2023-01-22
+ACC100884,Account_884,Asset,Accounts Payable,No,2023-01-19
+ACC100885,Account_885,Revenue,Fixed Assets,Yes,2021-01-02
+ACC100886,Account_886,Liability,Cash,Yes,2018-06-20
+ACC100887,Account_887,Expense,Owner Equity,Yes,2016-02-08
+ACC100888,Account_888,Asset,Accounts Receivable,Yes,2017-07-12
+ACC100889,Account_889,Equity,Operating Expense,Yes,2016-07-20
+ACC100890,Account_890,Equity,Long-Term Debt,Yes,2017-05-18
+ACC100891,Account_891,Liability,Service Revenue,Yes,2018-11-13
+ACC100892,Account_892,Revenue,Cash,Yes,2016-05-19
+ACC100893,Account_893,Liability,Cash,Yes,2018-05-09
+ACC100894,Account_894,Asset,Owner Equity,No,2015-07-27
+ACC100895,Account_895,Equity,Service Revenue,Yes,2021-06-01
+ACC100896,Account_896,Asset,Fixed Assets,Yes,2015-01-21
+ACC100897,Account_897,Expense,COGS,Yes,2021-01-30
+ACC100898,Account_898,Asset,Accounts Payable,No,2016-03-08
+ACC100899,Account_899,Revenue,Cash,Yes,2022-05-06
+ACC100900,Account_900,Equity,Accounts Receivable,Yes,2016-04-23
+ACC100901,Account_901,Revenue,Owner Equity,No,2022-08-28
+ACC100902,Account_902,Expense,Owner Equity,Yes,2021-12-27
+ACC100903,Account_903,Equity,Operating Expense,Yes,2016-01-09
+ACC100904,Account_904,Asset,COGS,Yes,2019-03-09
+ACC100905,Account_905,Revenue,Owner Equity,Yes,2020-07-13
+ACC100906,Account_906,Equity,Cash,Yes,2016-02-04
+ACC100907,Account_907,Expense,Operating Expense,No,2016-05-17
+ACC100908,Account_908,Liability,Operating Expense,No,2019-04-05
+ACC100909,Account_909,Liability,Operating Expense,Yes,2018-06-09
+ACC100910,Account_910,Revenue,Service Revenue,Yes,2015-07-03
+ACC100911,Account_911,Asset,COGS,Yes,2019-07-31
+ACC100912,Account_912,Revenue,Service Revenue,Yes,2019-06-07
+ACC100913,Account_913,Equity,Cash,Yes,2020-07-18
+ACC100914,Account_914,Liability,COGS,Yes,2020-11-08
+ACC100915,Account_915,Expense,Accounts Receivable,No,2018-03-19
+ACC100916,Account_916,Liability,Fixed Assets,Yes,2022-03-14
+ACC100917,Account_917,Expense,Sales Revenue,No,2016-12-09
+ACC100918,Account_918,Asset,Owner Equity,No,2019-08-21
+ACC100919,Account_919,Revenue,Owner Equity,Yes,2018-02-25
+ACC100920,Account_920,Asset,Accounts Payable,Yes,2016-11-20
+ACC100921,Account_921,Equity,Inventory,Yes,2021-06-27
+ACC100922,Account_922,Revenue,Operating Expense,Yes,2022-10-05
+ACC100923,Account_923,Asset,COGS,Yes,2020-07-12
+ACC100924,Account_924,Liability,COGS,Yes,2019-12-22
+ACC100925,Account_925,Expense,Long-Term Debt,Yes,2015-09-14
+ACC100926,Account_926,Liability,Owner Equity,Yes,2016-11-16
+ACC100927,Account_927,Equity,COGS,No,2021-06-06
+ACC100928,Account_928,Expense,Fixed Assets,Yes,2020-06-05
+ACC100929,Account_929,Liability,Inventory,Yes,2018-03-08
+ACC100930,Account_930,Expense,Fixed Assets,Yes,2021-06-10
+ACC100931,Account_931,Equity,Long-Term Debt,Yes,2020-05-09
+ACC100932,Account_932,Asset,Service Revenue,Yes,2015-03-22
+ACC100933,Account_933,Liability,Owner Equity,Yes,2021-08-12
+ACC100934,Account_934,Liability,Sales Revenue,No,2018-12-19
+ACC100935,Account_935,Liability,Cash,Yes,2021-11-19
+ACC100936,Account_936,Equity,Sales Revenue,Yes,2018-09-15
+ACC100937,Account_937,Expense,Sales Revenue,Yes,2015-03-23
+ACC100938,Account_938,Expense,Sales Revenue,No,2018-04-13
+ACC100939,Account_939,Revenue,Long-Term Debt,Yes,2020-04-28
+ACC100940,Account_940,Expense,Accounts Payable,Yes,2017-05-12
+ACC100941,Account_941,Equity,Cash,Yes,2019-04-09
+ACC100942,Account_942,Expense,Inventory,Yes,2017-11-12
+ACC100943,Account_943,Equity,Sales Revenue,Yes,2019-04-23
+ACC100944,Account_944,Expense,Fixed Assets,No,2019-09-22
+ACC100945,Account_945,Liability,Accounts Receivable,Yes,2019-04-08
+ACC100946,Account_946,Expense,Accounts Receivable,Yes,2017-10-17
+ACC100947,Account_947,Asset,Owner Equity,Yes,2019-05-16
+ACC100948,Account_948,Expense,Fixed Assets,Yes,2020-04-26
+ACC100949,Account_949,Revenue,Accounts Payable,Yes,2022-11-28
+ACC100950,Account_950,Liability,Accounts Payable,Yes,2019-07-19
+ACC100951,Account_951,Revenue,Owner Equity,No,2022-11-09
+ACC100952,Account_952,Expense,Long-Term Debt,Yes,2017-12-14
+ACC100953,Account_953,Expense,Operating Expense,Yes,2023-02-20
+ACC100954,Account_954,Liability,Operating Expense,Yes,2019-09-20
+ACC100955,Account_955,Expense,Sales Revenue,Yes,2019-12-06
+ACC100956,Account_956,Asset,Long-Term Debt,Yes,2018-11-25
+ACC100957,Account_957,Asset,COGS,Yes,2018-03-12
+ACC100958,Account_958,Revenue,Service Revenue,Yes,2017-03-08
+ACC100959,Account_959,Equity,Fixed Assets,Yes,2022-07-27
+ACC100960,Account_960,Revenue,COGS,Yes,2021-04-27
+ACC100961,Account_961,Asset,Cash,Yes,2022-04-17
+ACC100962,Account_962,Liability,Accounts Receivable,No,2016-08-09
+ACC100963,Account_963,Liability,Owner Equity,Yes,2017-05-12
+ACC100964,Account_964,Equity,Cash,Yes,2019-01-08
+ACC100965,Account_965,Equity,Accounts Payable,Yes,2018-10-13
+ACC100966,Account_966,Expense,COGS,Yes,2017-03-03
+ACC100967,Account_967,Equity,Sales Revenue,Yes,2020-02-11
+ACC100968,Account_968,Liability,Fixed Assets,Yes,2018-11-01
+ACC100969,Account_969,Revenue,Accounts Receivable,Yes,2022-02-12
+ACC100970,Account_970,Expense,Sales Revenue,Yes,2019-10-24
+ACC100971,Account_971,Equity,Accounts Payable,Yes,2015-02-10
+ACC100972,Account_972,Revenue,Cash,No,2021-06-16
+ACC100973,Account_973,Expense,Inventory,Yes,2018-01-18
+ACC100974,Account_974,Asset,Sales Revenue,Yes,2019-06-07
+ACC100975,Account_975,Asset,Owner Equity,Yes,2021-03-01
+ACC100976,Account_976,Expense,COGS,Yes,2022-10-13
+ACC100977,Account_977,Asset,Accounts Payable,Yes,2015-01-25
+ACC100978,Account_978,Equity,Fixed Assets,Yes,2020-12-16
+ACC100979,Account_979,Asset,Fixed Assets,Yes,2015-04-18
+ACC100980,Account_980,Revenue,Sales Revenue,Yes,2021-02-24
+ACC100981,Account_981,Liability,Owner Equity,Yes,2018-09-17
+ACC100982,Account_982,Equity,Inventory,Yes,2018-05-16
+ACC100983,Account_983,Liability,Service Revenue,Yes,2020-10-23
+ACC100984,Account_984,Equity,Accounts Receivable,Yes,2021-11-22
+ACC100985,Account_985,Equity,Cash,Yes,2016-11-10
+ACC100986,Account_986,Revenue,Owner Equity,Yes,2017-05-25
+ACC100987,Account_987,Expense,Fixed Assets,No,2018-09-18
+ACC100988,Account_988,Revenue,Sales Revenue,Yes,2016-02-23
+ACC100989,Account_989,Asset,Sales Revenue,Yes,2022-12-12
+ACC100990,Account_990,Asset,Cash,Yes,2020-01-29
+ACC100991,Account_991,Liability,Fixed Assets,No,2018-04-29
+ACC100992,Account_992,Equity,Inventory,Yes,2023-01-08
+ACC100993,Account_993,Equity,Service Revenue,Yes,2022-08-26
+ACC100994,Account_994,Expense,Long-Term Debt,Yes,2021-12-21
+ACC100995,Account_995,Asset,Accounts Receivable,Yes,2019-09-26
+ACC100996,Account_996,Asset,Cash,Yes,2021-09-14
+ACC100997,Account_997,Equity,COGS,Yes,2021-06-18
+ACC100998,Account_998,Revenue,Owner Equity,Yes,2017-06-10
+ACC100999,Account_999,Asset,Operating Expense,Yes,2021-07-31
+ACC101000,Account_1000,Liability,COGS,Yes,2018-02-24
+ACC101001,Account_1001,Equity,Service Revenue,Yes,2019-09-20
+ACC101002,Account_1002,Asset,COGS,Yes,2022-07-13
+ACC101003,Account_1003,Liability,Service Revenue,Yes,2017-12-11
+ACC101004,Account_1004,Revenue,Sales Revenue,Yes,2022-12-19
+ACC101005,Account_1005,Expense,Sales Revenue,Yes,2019-05-15
+ACC101006,Account_1006,Asset,Service Revenue,Yes,2022-08-12
+ACC101007,Account_1007,Asset,Long-Term Debt,Yes,2021-02-24
+ACC101008,Account_1008,Expense,Long-Term Debt,Yes,2021-05-29
+ACC101009,Account_1009,Asset,Operating Expense,Yes,2015-09-07
+ACC101010,Account_1010,Liability,Sales Revenue,Yes,2021-03-06
+ACC101011,Account_1011,Liability,Accounts Receivable,Yes,2022-08-18
+ACC101012,Account_1012,Revenue,Sales Revenue,Yes,2022-05-19
+ACC101013,Account_1013,Revenue,Sales Revenue,Yes,2022-06-09
+ACC101014,Account_1014,Asset,Cash,Yes,2018-05-20
+ACC101015,Account_1015,Liability,Fixed Assets,Yes,2021-10-14
+ACC101016,Account_1016,Revenue,Operating Expense,Yes,2016-06-09
+ACC101017,Account_1017,Liability,Accounts Payable,Yes,2022-06-12
+ACC101018,Account_1018,Liability,Sales Revenue,Yes,2022-08-01
+ACC101019,Account_1019,Revenue,Accounts Payable,Yes,2016-03-11
+ACC101020,Account_1020,Expense,Accounts Payable,Yes,2022-04-16
+ACC101021,Account_1021,Expense,Accounts Payable,Yes,2015-04-23
+ACC101022,Account_1022,Asset,Service Revenue,Yes,2015-10-16
+ACC101023,Account_1023,Expense,Operating Expense,Yes,2018-10-20
+ACC101024,Account_1024,Expense,Service Revenue,Yes,2017-07-08
+ACC101025,Account_1025,Equity,Inventory,Yes,2018-09-20
+ACC101026,Account_1026,Expense,Service Revenue,Yes,2019-01-19
+ACC101027,Account_1027,Equity,Sales Revenue,Yes,2022-07-02
+ACC101028,Account_1028,Asset,Accounts Receivable,Yes,2016-08-11
+ACC101029,Account_1029,Revenue,COGS,Yes,2022-05-08
+ACC101030,Account_1030,Liability,Operating Expense,Yes,2020-08-08
+ACC101031,Account_1031,Equity,Fixed Assets,Yes,2016-11-09
+ACC101032,Account_1032,Expense,COGS,Yes,2017-11-14
+ACC101033,Account_1033,Expense,Service Revenue,Yes,2018-06-03
+ACC101034,Account_1034,Revenue,Long-Term Debt,No,2016-03-25
+ACC101035,Account_1035,Equity,Accounts Receivable,Yes,2021-05-31
+ACC101036,Account_1036,Expense,Service Revenue,Yes,2019-05-20
+ACC101037,Account_1037,Expense,Inventory,No,2018-11-26
+ACC101038,Account_1038,Revenue,COGS,Yes,2022-04-14
+ACC101039,Account_1039,Liability,Fixed Assets,Yes,2021-04-20
+ACC101040,Account_1040,Expense,Inventory,Yes,2015-12-10
+ACC101041,Account_1041,Revenue,Service Revenue,Yes,2021-09-25
+ACC101042,Account_1042,Asset,COGS,Yes,2018-05-08
+ACC101043,Account_1043,Asset,Accounts Payable,Yes,2020-07-19
+ACC101044,Account_1044,Equity,Sales Revenue,Yes,2023-03-04
+ACC101045,Account_1045,Equity,Long-Term Debt,Yes,2020-10-01
+ACC101046,Account_1046,Expense,Long-Term Debt,Yes,2019-06-30
+ACC101047,Account_1047,Expense,Long-Term Debt,Yes,2018-01-21
+ACC101048,Account_1048,Asset,Owner Equity,Yes,2023-02-11
+ACC101049,Account_1049,Liability,Owner Equity,Yes,2022-11-16
+ACC101050,Account_1050,Liability,Accounts Receivable,Yes,2021-10-02
+ACC101051,Account_1051,Liability,Operating Expense,No,2022-01-01
+ACC101052,Account_1052,Expense,Service Revenue,Yes,2020-01-09
+ACC101053,Account_1053,Equity,Fixed Assets,Yes,2022-02-15
+ACC101054,Account_1054,Expense,Fixed Assets,Yes,2018-06-20
+ACC101055,Account_1055,Revenue,Operating Expense,No,2017-05-14
+ACC101056,Account_1056,Liability,Accounts Payable,Yes,2015-06-24
+ACC101057,Account_1057,Asset,Service Revenue,Yes,2015-11-14
+ACC101058,Account_1058,Liability,Operating Expense,Yes,2020-04-27
+ACC101059,Account_1059,Equity,Inventory,Yes,2020-10-07
+ACC101060,Account_1060,Asset,Service Revenue,Yes,2021-09-27
+ACC101061,Account_1061,Equity,Sales Revenue,Yes,2022-08-27
+ACC101062,Account_1062,Liability,Owner Equity,No,2018-09-29
+ACC101063,Account_1063,Expense,Inventory,Yes,2022-12-23
+ACC101064,Account_1064,Asset,Accounts Receivable,Yes,2023-01-01
+ACC101065,Account_1065,Equity,Accounts Payable,Yes,2015-01-06
+ACC101066,Account_1066,Asset,Service Revenue,Yes,2022-02-28
+ACC101067,Account_1067,Expense,Long-Term Debt,Yes,2017-02-17
+ACC101068,Account_1068,Expense,Fixed Assets,No,2021-10-21
+ACC101069,Account_1069,Expense,COGS,Yes,2019-11-05
+ACC101070,Account_1070,Equity,Sales Revenue,Yes,2016-10-01
+ACC101071,Account_1071,Revenue,Inventory,Yes,2018-08-04
+ACC101072,Account_1072,Expense,Service Revenue,Yes,2018-06-16
+ACC101073,Account_1073,Revenue,Service Revenue,Yes,2015-10-18
+ACC101074,Account_1074,Asset,Operating Expense,Yes,2021-05-27
+ACC101075,Account_1075,Liability,Accounts Receivable,No,2015-10-20
+ACC101076,Account_1076,Equity,Fixed Assets,Yes,2023-01-13
+ACC101077,Account_1077,Asset,Operating Expense,Yes,2019-01-10
+ACC101078,Account_1078,Equity,Cash,Yes,2015-04-24
+ACC101079,Account_1079,Equity,Owner Equity,Yes,2018-01-31
+ACC101080,Account_1080,Asset,Long-Term Debt,Yes,2017-08-13
+ACC101081,Account_1081,Liability,Inventory,Yes,2022-03-01
+ACC101082,Account_1082,Equity,Accounts Payable,No,2016-01-13
+ACC101083,Account_1083,Expense,Accounts Receivable,No,2017-05-07
+ACC101084,Account_1084,Liability,Operating Expense,Yes,2020-08-28
+ACC101085,Account_1085,Equity,Accounts Payable,Yes,2017-11-17
+ACC101086,Account_1086,Equity,Operating Expense,Yes,2021-11-19
+ACC101087,Account_1087,Asset,Cash,Yes,2017-12-16
+ACC101088,Account_1088,Equity,Inventory,Yes,2019-03-31
+ACC101089,Account_1089,Equity,Inventory,Yes,2018-06-18
+ACC101090,Account_1090,Asset,Inventory,Yes,2016-02-23
+ACC101091,Account_1091,Asset,Accounts Payable,Yes,2015-01-02
+ACC101092,Account_1092,Liability,Cash,Yes,2020-09-16
+ACC101093,Account_1093,Expense,Owner Equity,Yes,2015-07-20
+ACC101094,Account_1094,Liability,Long-Term Debt,Yes,2018-06-10
+ACC101095,Account_1095,Liability,Service Revenue,No,2016-06-20
+ACC101096,Account_1096,Expense,Cash,Yes,2017-06-21
+ACC101097,Account_1097,Liability,Accounts Receivable,No,2018-10-15
+ACC101098,Account_1098,Revenue,Service Revenue,Yes,2019-12-08
+ACC101099,Account_1099,Asset,COGS,Yes,2020-11-22
+ACC101100,Account_1100,Equity,Inventory,Yes,2022-10-07
+ACC101101,Account_1101,Revenue,COGS,Yes,2022-02-13
+ACC101102,Account_1102,Equity,Accounts Receivable,Yes,2017-06-11
+ACC101103,Account_1103,Equity,Fixed Assets,Yes,2022-01-20
+ACC101104,Account_1104,Liability,Sales Revenue,No,2016-03-16
+ACC101105,Account_1105,Asset,Fixed Assets,Yes,2021-04-14
+ACC101106,Account_1106,Liability,Owner Equity,No,2018-01-22
+ACC101107,Account_1107,Liability,Long-Term Debt,Yes,2015-01-07
+ACC101108,Account_1108,Equity,Operating Expense,Yes,2017-08-25
+ACC101109,Account_1109,Equity,Service Revenue,Yes,2019-09-22
+ACC101110,Account_1110,Revenue,Service Revenue,Yes,2022-11-28
+ACC101111,Account_1111,Revenue,Operating Expense,Yes,2022-01-15
+ACC101112,Account_1112,Liability,Inventory,Yes,2016-11-29
+ACC101113,Account_1113,Equity,Sales Revenue,Yes,2022-11-26
+ACC101114,Account_1114,Expense,COGS,Yes,2020-01-15
+ACC101115,Account_1115,Liability,Inventory,Yes,2019-12-31
+ACC101116,Account_1116,Liability,Long-Term Debt,Yes,2019-10-03
+ACC101117,Account_1117,Revenue,Operating Expense,Yes,2019-06-23
+ACC101118,Account_1118,Revenue,Accounts Payable,Yes,2020-06-11
+ACC101119,Account_1119,Expense,Fixed Assets,Yes,2016-04-20
+ACC101120,Account_1120,Expense,Long-Term Debt,Yes,2016-12-09
+ACC101121,Account_1121,Liability,Fixed Assets,Yes,2022-03-28
+ACC101122,Account_1122,Asset,Inventory,Yes,2016-07-23
+ACC101123,Account_1123,Equity,COGS,Yes,2015-08-03
+ACC101124,Account_1124,Liability,Inventory,No,2021-08-06
+ACC101125,Account_1125,Expense,Cash,Yes,2020-12-28
+ACC101126,Account_1126,Expense,COGS,Yes,2022-10-14
+ACC101127,Account_1127,Expense,Inventory,Yes,2016-01-09
+ACC101128,Account_1128,Expense,Operating Expense,Yes,2021-09-14
+ACC101129,Account_1129,Liability,Operating Expense,Yes,2018-11-08
+ACC101130,Account_1130,Revenue,Fixed Assets,Yes,2015-05-17
+ACC101131,Account_1131,Asset,Service Revenue,Yes,2018-07-04
+ACC101132,Account_1132,Expense,Owner Equity,Yes,2022-04-14
+ACC101133,Account_1133,Expense,Sales Revenue,Yes,2019-09-08
+ACC101134,Account_1134,Asset,COGS,Yes,2020-02-22
+ACC101135,Account_1135,Expense,Service Revenue,Yes,2021-12-23
+ACC101136,Account_1136,Expense,Service Revenue,Yes,2021-01-25
+ACC101137,Account_1137,Asset,Owner Equity,No,2015-03-13
+ACC101138,Account_1138,Asset,Long-Term Debt,Yes,2017-10-19
+ACC101139,Account_1139,Revenue,Accounts Receivable,Yes,2018-04-19
+ACC101140,Account_1140,Equity,Fixed Assets,Yes,2020-06-08
+ACC101141,Account_1141,Equity,Inventory,Yes,2017-09-18
+ACC101142,Account_1142,Liability,Accounts Receivable,Yes,2015-01-18
+ACC101143,Account_1143,Expense,Cash,Yes,2018-01-30
+ACC101144,Account_1144,Liability,Long-Term Debt,Yes,2020-03-22
+ACC101145,Account_1145,Expense,Operating Expense,Yes,2016-01-24
+ACC101146,Account_1146,Equity,Service Revenue,Yes,2015-06-27
+ACC101147,Account_1147,Revenue,Sales Revenue,No,2018-10-21
+ACC101148,Account_1148,Revenue,Cash,Yes,2016-06-25
+ACC101149,Account_1149,Equity,Cash,Yes,2022-08-14
+ACC101150,Account_1150,Liability,COGS,Yes,2019-05-15
+ACC101151,Account_1151,Revenue,Accounts Receivable,Yes,2018-06-12
+ACC101152,Account_1152,Asset,Cash,Yes,2017-04-09
+ACC101153,Account_1153,Revenue,Service Revenue,Yes,2016-12-19
+ACC101154,Account_1154,Asset,Long-Term Debt,Yes,2017-08-31
+ACC101155,Account_1155,Asset,Owner Equity,Yes,2022-07-23
+ACC101156,Account_1156,Liability,Owner Equity,Yes,2016-12-24
+ACC101157,Account_1157,Revenue,Cash,Yes,2016-07-02
+ACC101158,Account_1158,Revenue,Cash,Yes,2016-07-22
+ACC101159,Account_1159,Revenue,Long-Term Debt,Yes,2020-09-04
+ACC101160,Account_1160,Equity,Cash,Yes,2019-11-02
+ACC101161,Account_1161,Expense,Cash,Yes,2019-03-01
+ACC101162,Account_1162,Expense,Operating Expense,Yes,2016-11-29
+ACC101163,Account_1163,Asset,Sales Revenue,Yes,2018-07-14
+ACC101164,Account_1164,Equity,Operating Expense,Yes,2021-01-25
+ACC101165,Account_1165,Revenue,COGS,Yes,2017-03-11
+ACC101166,Account_1166,Expense,Fixed Assets,Yes,2018-11-16
+ACC101167,Account_1167,Asset,COGS,Yes,2021-05-27
+ACC101168,Account_1168,Expense,Sales Revenue,Yes,2021-10-28
+ACC101169,Account_1169,Revenue,Inventory,Yes,2021-06-26
+ACC101170,Account_1170,Revenue,Accounts Payable,Yes,2017-11-26
+ACC101171,Account_1171,Liability,Accounts Payable,Yes,2021-09-14
+ACC101172,Account_1172,Liability,COGS,Yes,2015-12-25
+ACC101173,Account_1173,Revenue,Accounts Payable,Yes,2020-01-21
+ACC101174,Account_1174,Revenue,Owner Equity,Yes,2019-02-23
+ACC101175,Account_1175,Equity,Accounts Payable,Yes,2018-03-14
+ACC101176,Account_1176,Revenue,COGS,Yes,2019-02-23
+ACC101177,Account_1177,Equity,Cash,Yes,2020-01-07
+ACC101178,Account_1178,Expense,Operating Expense,Yes,2015-07-29
+ACC101179,Account_1179,Asset,Sales Revenue,Yes,2020-05-27
+ACC101180,Account_1180,Equity,COGS,Yes,2020-03-21
+ACC101181,Account_1181,Liability,Fixed Assets,Yes,2019-01-01
+ACC101182,Account_1182,Equity,Fixed Assets,Yes,2017-06-03
+ACC101183,Account_1183,Revenue,Owner Equity,Yes,2015-02-21
+ACC101184,Account_1184,Revenue,Service Revenue,Yes,2021-05-14
+ACC101185,Account_1185,Liability,Long-Term Debt,Yes,2021-07-07
+ACC101186,Account_1186,Asset,Cash,Yes,2016-04-19
+ACC101187,Account_1187,Liability,Long-Term Debt,Yes,2017-11-22
+ACC101188,Account_1188,Equity,Inventory,Yes,2016-07-07
+ACC101189,Account_1189,Liability,Operating Expense,Yes,2022-07-28
+ACC101190,Account_1190,Liability,Accounts Payable,Yes,2017-01-29
+ACC101191,Account_1191,Revenue,COGS,Yes,2016-11-27
+ACC101192,Account_1192,Revenue,COGS,No,2017-10-09
+ACC101193,Account_1193,Asset,Service Revenue,Yes,2015-07-16
+ACC101194,Account_1194,Expense,Sales Revenue,Yes,2019-05-25
+ACC101195,Account_1195,Liability,Owner Equity,Yes,2020-08-14
+ACC101196,Account_1196,Asset,Operating Expense,Yes,2019-04-22
+ACC101197,Account_1197,Asset,Owner Equity,Yes,2020-02-24
+ACC101198,Account_1198,Equity,Owner Equity,Yes,2023-02-27
+ACC101199,Account_1199,Liability,Owner Equity,Yes,2015-09-02
+ACC101200,Account_1200,Expense,COGS,Yes,2019-12-17
+ACC101201,Account_1201,Equity,Accounts Receivable,Yes,2016-07-26
+ACC101202,Account_1202,Equity,Service Revenue,Yes,2017-01-08
+ACC101203,Account_1203,Revenue,Long-Term Debt,Yes,2020-07-29
+ACC101204,Account_1204,Expense,Inventory,Yes,2018-08-27
+ACC101205,Account_1205,Revenue,Accounts Receivable,Yes,2018-09-04
+ACC101206,Account_1206,Revenue,Inventory,Yes,2017-08-27
+ACC101207,Account_1207,Equity,Accounts Receivable,Yes,2018-06-26
+ACC101208,Account_1208,Revenue,Inventory,No,2018-07-14
+ACC101209,Account_1209,Asset,Fixed Assets,Yes,2018-01-12
+ACC101210,Account_1210,Expense,Sales Revenue,Yes,2020-03-31
+ACC101211,Account_1211,Revenue,Operating Expense,Yes,2019-09-28
+ACC101212,Account_1212,Revenue,Inventory,Yes,2016-07-03
+ACC101213,Account_1213,Liability,Operating Expense,Yes,2021-03-08
+ACC101214,Account_1214,Asset,Service Revenue,Yes,2017-05-21
+ACC101215,Account_1215,Revenue,Service Revenue,Yes,2015-12-05
+ACC101216,Account_1216,Equity,Accounts Receivable,Yes,2021-07-19
+ACC101217,Account_1217,Expense,Sales Revenue,Yes,2021-08-08
+ACC101218,Account_1218,Liability,Long-Term Debt,Yes,2017-02-26
+ACC101219,Account_1219,Liability,Fixed Assets,Yes,2015-08-03
+ACC101220,Account_1220,Liability,Inventory,Yes,2017-01-28
+ACC101221,Account_1221,Liability,Long-Term Debt,Yes,2022-07-21
+ACC101222,Account_1222,Expense,Inventory,Yes,2019-07-19
+ACC101223,Account_1223,Revenue,Fixed Assets,Yes,2020-03-31
+ACC101224,Account_1224,Asset,Owner Equity,Yes,2020-07-22
+ACC101225,Account_1225,Revenue,Owner Equity,Yes,2021-03-30
+ACC101226,Account_1226,Expense,Operating Expense,Yes,2020-08-23
+ACC101227,Account_1227,Expense,COGS,No,2017-10-24
+ACC101228,Account_1228,Equity,Owner Equity,Yes,2015-10-30
+ACC101229,Account_1229,Equity,COGS,Yes,2018-09-05
+ACC101230,Account_1230,Expense,COGS,Yes,2020-04-23
+ACC101231,Account_1231,Asset,Cash,No,2017-08-29
+ACC101232,Account_1232,Asset,Cash,Yes,2017-02-22
+ACC101233,Account_1233,Asset,Accounts Payable,Yes,2022-04-14
+ACC101234,Account_1234,Expense,Inventory,Yes,2023-01-10
+ACC101235,Account_1235,Equity,COGS,Yes,2017-02-27
+ACC101236,Account_1236,Asset,COGS,Yes,2022-04-15
+ACC101237,Account_1237,Asset,Accounts Receivable,Yes,2020-06-19
+ACC101238,Account_1238,Revenue,Inventory,Yes,2018-10-11
+ACC101239,Account_1239,Asset,Inventory,Yes,2022-05-21
+ACC101240,Account_1240,Asset,Accounts Payable,Yes,2019-12-05
+ACC101241,Account_1241,Asset,Accounts Receivable,Yes,2019-12-24
+ACC101242,Account_1242,Equity,Sales Revenue,Yes,2019-07-03
+ACC101243,Account_1243,Asset,Accounts Payable,Yes,2017-11-26
+ACC101244,Account_1244,Equity,Sales Revenue,Yes,2017-04-05
+ACC101245,Account_1245,Liability,Cash,Yes,2018-12-04
+ACC101246,Account_1246,Asset,Operating Expense,Yes,2019-08-22
+ACC101247,Account_1247,Liability,Service Revenue,Yes,2017-10-18
+ACC101248,Account_1248,Asset,Inventory,Yes,2019-11-25
+ACC101249,Account_1249,Expense,Accounts Receivable,Yes,2016-01-15
+ACC101250,Account_1250,Liability,Accounts Receivable,Yes,2021-03-25
+ACC101251,Account_1251,Equity,Accounts Payable,Yes,2018-04-26
+ACC101252,Account_1252,Liability,Inventory,Yes,2020-05-19
+ACC101253,Account_1253,Revenue,Fixed Assets,Yes,2015-07-20
+ACC101254,Account_1254,Asset,Accounts Payable,Yes,2016-06-05
+ACC101255,Account_1255,Equity,Long-Term Debt,Yes,2021-01-25
+ACC101256,Account_1256,Expense,Accounts Payable,Yes,2019-08-16
+ACC101257,Account_1257,Equity,Service Revenue,Yes,2019-11-22
+ACC101258,Account_1258,Revenue,Cash,Yes,2021-03-10
+ACC101259,Account_1259,Equity,Sales Revenue,Yes,2019-12-13
+ACC101260,Account_1260,Equity,Accounts Receivable,Yes,2015-06-06
+ACC101261,Account_1261,Expense,COGS,Yes,2017-01-11
+ACC101262,Account_1262,Asset,Long-Term Debt,Yes,2019-06-02
+ACC101263,Account_1263,Revenue,Cash,Yes,2017-10-17
+ACC101264,Account_1264,Asset,Long-Term Debt,Yes,2023-01-30
+ACC101265,Account_1265,Asset,Accounts Payable,Yes,2022-11-28
+ACC101266,Account_1266,Liability,Accounts Payable,Yes,2022-08-08
+ACC101267,Account_1267,Expense,Long-Term Debt,Yes,2021-12-23
+ACC101268,Account_1268,Liability,Service Revenue,Yes,2022-11-16
+ACC101269,Account_1269,Equity,Operating Expense,Yes,2021-03-21
+ACC101270,Account_1270,Liability,Service Revenue,No,2018-11-13
+ACC101271,Account_1271,Expense,Accounts Payable,Yes,2020-04-24
+ACC101272,Account_1272,Asset,Accounts Receivable,Yes,2019-03-23
+ACC101273,Account_1273,Expense,COGS,Yes,2020-11-12
+ACC101274,Account_1274,Revenue,Operating Expense,Yes,2021-04-03
+ACC101275,Account_1275,Asset,Inventory,Yes,2020-01-01
+ACC101276,Account_1276,Revenue,Accounts Payable,No,2019-01-15
+ACC101277,Account_1277,Revenue,Service Revenue,No,2017-10-29
+ACC101278,Account_1278,Equity,Accounts Receivable,No,2021-08-16
+ACC101279,Account_1279,Equity,Owner Equity,Yes,2019-05-07
+ACC101280,Account_1280,Asset,Owner Equity,Yes,2015-03-02
+ACC101281,Account_1281,Revenue,Owner Equity,Yes,2015-01-08
+ACC101282,Account_1282,Revenue,COGS,Yes,2021-04-08
+ACC101283,Account_1283,Expense,Owner Equity,Yes,2017-08-03
+ACC101284,Account_1284,Equity,Service Revenue,Yes,2017-07-09
+ACC101285,Account_1285,Asset,Sales Revenue,No,2019-09-09
+ACC101286,Account_1286,Asset,Owner Equity,Yes,2018-02-20
+ACC101287,Account_1287,Equity,Accounts Receivable,Yes,2020-06-11
+ACC101288,Account_1288,Asset,Long-Term Debt,Yes,2015-02-17
+ACC101289,Account_1289,Equity,Accounts Payable,Yes,2017-10-11
+ACC101290,Account_1290,Revenue,Sales Revenue,Yes,2015-03-16
+ACC101291,Account_1291,Liability,COGS,No,2022-08-19
+ACC101292,Account_1292,Equity,Accounts Payable,Yes,2015-12-31
+ACC101293,Account_1293,Liability,Accounts Payable,Yes,2021-07-14
+ACC101294,Account_1294,Equity,COGS,Yes,2020-07-11
+ACC101295,Account_1295,Revenue,Owner Equity,Yes,2020-08-31
+ACC101296,Account_1296,Liability,Inventory,Yes,2015-11-14
+ACC101297,Account_1297,Expense,Accounts Receivable,Yes,2017-04-17
+ACC101298,Account_1298,Asset,Sales Revenue,No,2016-12-12
+ACC101299,Account_1299,Revenue,Fixed Assets,Yes,2016-10-01
+ACC101300,Account_1300,Asset,Cash,Yes,2018-04-19
+ACC101301,Account_1301,Expense,Fixed Assets,No,2016-03-10
+ACC101302,Account_1302,Equity,Long-Term Debt,Yes,2017-11-25
+ACC101303,Account_1303,Revenue,Service Revenue,Yes,2016-02-11
+ACC101304,Account_1304,Liability,Operating Expense,Yes,2022-07-29
+ACC101305,Account_1305,Asset,Fixed Assets,Yes,2020-11-20
+ACC101306,Account_1306,Equity,Fixed Assets,Yes,2020-10-01
+ACC101307,Account_1307,Equity,Cash,Yes,2023-02-03
+ACC101308,Account_1308,Revenue,Inventory,Yes,2018-07-30
+ACC101309,Account_1309,Liability,Service Revenue,Yes,2019-10-08
+ACC101310,Account_1310,Asset,COGS,No,2017-01-09
+ACC101311,Account_1311,Asset,Service Revenue,Yes,2016-01-24
+ACC101312,Account_1312,Revenue,COGS,No,2018-05-09
+ACC101313,Account_1313,Expense,Fixed Assets,Yes,2020-08-24
+ACC101314,Account_1314,Revenue,Owner Equity,Yes,2021-02-09
+ACC101315,Account_1315,Equity,Cash,Yes,2015-08-21
+ACC101316,Account_1316,Revenue,Accounts Payable,Yes,2018-05-05
+ACC101317,Account_1317,Equity,Sales Revenue,Yes,2017-10-20
+ACC101318,Account_1318,Equity,Operating Expense,Yes,2016-10-01
+ACC101319,Account_1319,Asset,Sales Revenue,Yes,2015-10-25
+ACC101320,Account_1320,Expense,Service Revenue,Yes,2017-05-02
+ACC101321,Account_1321,Equity,Accounts Payable,Yes,2019-01-26
+ACC101322,Account_1322,Revenue,COGS,Yes,2017-06-20
+ACC101323,Account_1323,Equity,Cash,Yes,2018-10-21
+ACC101324,Account_1324,Equity,Long-Term Debt,Yes,2020-10-16
+ACC101325,Account_1325,Equity,Accounts Payable,No,2018-05-17
+ACC101326,Account_1326,Liability,Accounts Receivable,No,2017-03-18
+ACC101327,Account_1327,Revenue,Inventory,Yes,2017-11-20
+ACC101328,Account_1328,Liability,Fixed Assets,Yes,2020-04-12
+ACC101329,Account_1329,Asset,Long-Term Debt,Yes,2016-11-17
+ACC101330,Account_1330,Revenue,Operating Expense,Yes,2021-05-16
+ACC101331,Account_1331,Equity,Inventory,Yes,2021-05-15
+ACC101332,Account_1332,Asset,Service Revenue,Yes,2020-12-18
+ACC101333,Account_1333,Asset,Long-Term Debt,Yes,2016-02-19
+ACC101334,Account_1334,Revenue,Owner Equity,Yes,2020-05-29
+ACC101335,Account_1335,Asset,Fixed Assets,Yes,2017-07-04
+ACC101336,Account_1336,Equity,Inventory,Yes,2021-04-24
+ACC101337,Account_1337,Equity,Inventory,Yes,2015-06-11
+ACC101338,Account_1338,Equity,Long-Term Debt,Yes,2017-04-11
+ACC101339,Account_1339,Liability,Cash,Yes,2017-12-25
+ACC101340,Account_1340,Equity,Operating Expense,Yes,2021-10-14
+ACC101341,Account_1341,Liability,Sales Revenue,Yes,2021-04-10
+ACC101342,Account_1342,Expense,Accounts Payable,Yes,2019-12-12
+ACC101343,Account_1343,Revenue,Service Revenue,Yes,2022-09-23
+ACC101344,Account_1344,Expense,Fixed Assets,Yes,2019-03-16
+ACC101345,Account_1345,Equity,Inventory,Yes,2022-08-01
+ACC101346,Account_1346,Expense,Operating Expense,No,2021-06-11
+ACC101347,Account_1347,Revenue,Service Revenue,Yes,2021-05-08
+ACC101348,Account_1348,Revenue,Operating Expense,Yes,2020-04-30
+ACC101349,Account_1349,Revenue,Inventory,Yes,2015-04-12
+ACC101350,Account_1350,Equity,COGS,No,2020-08-18
+ACC101351,Account_1351,Expense,Fixed Assets,Yes,2020-09-18
+ACC101352,Account_1352,Expense,Cash,Yes,2017-12-21
+ACC101353,Account_1353,Equity,Accounts Payable,Yes,2018-09-19
+ACC101354,Account_1354,Expense,Owner Equity,Yes,2015-12-29
+ACC101355,Account_1355,Expense,Cash,Yes,2016-07-10
+ACC101356,Account_1356,Expense,COGS,Yes,2016-10-12
+ACC101357,Account_1357,Expense,Operating Expense,Yes,2015-06-12
+ACC101358,Account_1358,Equity,Long-Term Debt,Yes,2015-07-30
+ACC101359,Account_1359,Revenue,Fixed Assets,Yes,2017-11-16
+ACC101360,Account_1360,Equity,Fixed Assets,Yes,2022-11-04
+ACC101361,Account_1361,Revenue,Inventory,Yes,2023-02-27
+ACC101362,Account_1362,Asset,Fixed Assets,Yes,2018-04-20
+ACC101363,Account_1363,Revenue,Accounts Receivable,No,2015-06-15
+ACC101364,Account_1364,Liability,Cash,Yes,2021-11-21
+ACC101365,Account_1365,Revenue,Accounts Receivable,Yes,2021-01-29
+ACC101366,Account_1366,Equity,Sales Revenue,Yes,2021-06-29
+ACC101367,Account_1367,Revenue,Operating Expense,Yes,2021-01-18
+ACC101368,Account_1368,Asset,Accounts Receivable,Yes,2015-08-20
+ACC101369,Account_1369,Liability,Owner Equity,Yes,2017-03-01
+ACC101370,Account_1370,Expense,Long-Term Debt,Yes,2017-07-22
+ACC101371,Account_1371,Revenue,Operating Expense,No,2022-06-06
+ACC101372,Account_1372,Equity,Inventory,Yes,2020-09-01
+ACC101373,Account_1373,Liability,Operating Expense,No,2015-04-12
+ACC101374,Account_1374,Revenue,Cash,Yes,2017-09-14
+ACC101375,Account_1375,Liability,Service Revenue,Yes,2021-03-26
+ACC101376,Account_1376,Equity,COGS,Yes,2017-04-04
+ACC101377,Account_1377,Liability,Inventory,Yes,2022-12-21
+ACC101378,Account_1378,Expense,Cash,Yes,2016-07-01
+ACC101379,Account_1379,Asset,COGS,Yes,2022-04-07
+ACC101380,Account_1380,Liability,COGS,Yes,2015-07-03
+ACC101381,Account_1381,Liability,Inventory,Yes,2018-04-05
+ACC101382,Account_1382,Asset,Fixed Assets,Yes,2016-09-04
+ACC101383,Account_1383,Revenue,Service Revenue,Yes,2015-02-26
+ACC101384,Account_1384,Asset,COGS,Yes,2022-08-02
+ACC101385,Account_1385,Equity,Service Revenue,Yes,2019-10-06
+ACC101386,Account_1386,Expense,Operating Expense,No,2020-02-10
+ACC101387,Account_1387,Asset,Inventory,Yes,2015-03-24
+ACC101388,Account_1388,Liability,Cash,Yes,2022-10-17
+ACC101389,Account_1389,Expense,Fixed Assets,Yes,2019-01-04
+ACC101390,Account_1390,Asset,COGS,Yes,2015-09-22
+ACC101391,Account_1391,Expense,Service Revenue,Yes,2015-01-09
+ACC101392,Account_1392,Revenue,Fixed Assets,Yes,2018-06-10
+ACC101393,Account_1393,Liability,Cash,Yes,2017-08-06
+ACC101394,Account_1394,Revenue,Operating Expense,Yes,2023-03-09
+ACC101395,Account_1395,Liability,Accounts Payable,Yes,2019-03-19
+ACC101396,Account_1396,Liability,Inventory,Yes,2018-08-21
+ACC101397,Account_1397,Asset,Owner Equity,Yes,2016-05-21
+ACC101398,Account_1398,Liability,Long-Term Debt,Yes,2020-07-16
+ACC101399,Account_1399,Liability,Sales Revenue,Yes,2018-10-04
+ACC101400,Account_1400,Liability,COGS,Yes,2020-06-22
+ACC101401,Account_1401,Liability,Cash,Yes,2020-07-06
+ACC101402,Account_1402,Equity,COGS,Yes,2016-06-13
+ACC101403,Account_1403,Expense,Long-Term Debt,Yes,2021-09-13
+ACC101404,Account_1404,Expense,Service Revenue,Yes,2018-07-15
+ACC101405,Account_1405,Expense,Operating Expense,Yes,2022-01-10
+ACC101406,Account_1406,Liability,Operating Expense,Yes,2022-05-03
+ACC101407,Account_1407,Asset,Service Revenue,Yes,2017-09-09
+ACC101408,Account_1408,Expense,Accounts Receivable,Yes,2015-07-21
+ACC101409,Account_1409,Expense,Owner Equity,Yes,2022-08-11
+ACC101410,Account_1410,Equity,Service Revenue,Yes,2019-03-03
+ACC101411,Account_1411,Revenue,COGS,Yes,2021-11-07
+ACC101412,Account_1412,Liability,COGS,Yes,2017-04-16
+ACC101413,Account_1413,Equity,Sales Revenue,Yes,2018-11-05
+ACC101414,Account_1414,Asset,Owner Equity,Yes,2016-03-12
+ACC101415,Account_1415,Revenue,Inventory,Yes,2015-03-04
+ACC101416,Account_1416,Asset,COGS,Yes,2020-03-15
+ACC101417,Account_1417,Asset,Cash,Yes,2019-10-26
+ACC101418,Account_1418,Asset,Service Revenue,Yes,2015-01-01
+ACC101419,Account_1419,Asset,Inventory,Yes,2021-11-23
+ACC101420,Account_1420,Asset,Cash,Yes,2023-03-15
+ACC101421,Account_1421,Liability,Operating Expense,No,2020-06-08
+ACC101422,Account_1422,Revenue,Sales Revenue,No,2017-09-07
+ACC101423,Account_1423,Liability,Accounts Receivable,Yes,2020-09-05
+ACC101424,Account_1424,Liability,Service Revenue,Yes,2015-12-17
+ACC101425,Account_1425,Equity,Owner Equity,Yes,2018-05-01
+ACC101426,Account_1426,Asset,Service Revenue,Yes,2015-01-16
+ACC101427,Account_1427,Asset,COGS,No,2021-02-24
+ACC101428,Account_1428,Asset,Inventory,Yes,2016-08-17
+ACC101429,Account_1429,Expense,Sales Revenue,Yes,2018-09-09
+ACC101430,Account_1430,Expense,Service Revenue,Yes,2017-05-05
+ACC101431,Account_1431,Liability,COGS,Yes,2015-09-23
+ACC101432,Account_1432,Equity,Fixed Assets,Yes,2020-12-29
+ACC101433,Account_1433,Expense,Sales Revenue,Yes,2019-01-09
+ACC101434,Account_1434,Expense,Fixed Assets,Yes,2021-12-18
+ACC101435,Account_1435,Revenue,Inventory,No,2022-12-12
+ACC101436,Account_1436,Asset,Owner Equity,Yes,2019-04-20
+ACC101437,Account_1437,Liability,Accounts Payable,Yes,2021-08-10
+ACC101438,Account_1438,Expense,Accounts Payable,Yes,2017-02-24
+ACC101439,Account_1439,Asset,Cash,Yes,2018-08-09
+ACC101440,Account_1440,Liability,Owner Equity,Yes,2015-01-22
+ACC101441,Account_1441,Revenue,Owner Equity,Yes,2015-04-13
+ACC101442,Account_1442,Equity,Service Revenue,Yes,2020-09-23
+ACC101443,Account_1443,Liability,Operating Expense,No,2018-08-24
+ACC101444,Account_1444,Asset,Service Revenue,Yes,2020-12-16
+ACC101445,Account_1445,Asset,Accounts Receivable,Yes,2019-06-28
+ACC101446,Account_1446,Liability,Operating Expense,No,2021-02-12
+ACC101447,Account_1447,Equity,Fixed Assets,Yes,2017-12-15
+ACC101448,Account_1448,Revenue,Sales Revenue,Yes,2022-04-15
+ACC101449,Account_1449,Liability,Accounts Receivable,Yes,2019-10-07
+ACC101450,Account_1450,Liability,Accounts Receivable,Yes,2021-08-14
+ACC101451,Account_1451,Liability,Accounts Receivable,Yes,2015-03-14
+ACC101452,Account_1452,Expense,Inventory,No,2015-07-27
+ACC101453,Account_1453,Equity,Accounts Payable,No,2021-07-09
+ACC101454,Account_1454,Equity,Accounts Receivable,Yes,2020-10-31
+ACC101455,Account_1455,Equity,Service Revenue,Yes,2015-11-27
+ACC101456,Account_1456,Revenue,Accounts Payable,Yes,2015-12-31
+ACC101457,Account_1457,Expense,Accounts Receivable,Yes,2019-07-01
+ACC101458,Account_1458,Liability,Sales Revenue,No,2019-07-24
+ACC101459,Account_1459,Revenue,Owner Equity,Yes,2021-11-07
+ACC101460,Account_1460,Expense,Operating Expense,Yes,2021-11-14
+ACC101461,Account_1461,Revenue,COGS,Yes,2022-10-16
+ACC101462,Account_1462,Revenue,Cash,Yes,2018-01-05
+ACC101463,Account_1463,Asset,Service Revenue,No,2016-07-17
+ACC101464,Account_1464,Liability,Operating Expense,Yes,2016-12-12
+ACC101465,Account_1465,Asset,Accounts Receivable,Yes,2015-12-05
+ACC101466,Account_1466,Revenue,Accounts Payable,Yes,2019-06-05
+ACC101467,Account_1467,Revenue,Operating Expense,Yes,2020-01-22
+ACC101468,Account_1468,Liability,Inventory,Yes,2016-12-29
+ACC101469,Account_1469,Liability,Service Revenue,Yes,2020-12-06
+ACC101470,Account_1470,Equity,Service Revenue,Yes,2019-02-19
+ACC101471,Account_1471,Equity,Cash,No,2015-07-06
+ACC101472,Account_1472,Asset,Fixed Assets,Yes,2023-02-10
+ACC101473,Account_1473,Expense,Operating Expense,Yes,2015-04-03
+ACC101474,Account_1474,Equity,Cash,Yes,2018-06-04
+ACC101475,Account_1475,Equity,Long-Term Debt,Yes,2018-03-11
+ACC101476,Account_1476,Expense,Accounts Payable,Yes,2017-01-26
+ACC101477,Account_1477,Revenue,Inventory,Yes,2018-03-04
+ACC101478,Account_1478,Revenue,COGS,Yes,2023-01-25
+ACC101479,Account_1479,Expense,Operating Expense,Yes,2015-12-05
+ACC101480,Account_1480,Asset,Sales Revenue,Yes,2019-11-19
+ACC101481,Account_1481,Equity,COGS,Yes,2017-10-19
+ACC101482,Account_1482,Equity,Inventory,Yes,2021-08-20
+ACC101483,Account_1483,Expense,Inventory,Yes,2018-04-05
+ACC101484,Account_1484,Expense,Service Revenue,Yes,2016-08-01
+ACC101485,Account_1485,Expense,Accounts Payable,Yes,2016-11-09
+ACC101486,Account_1486,Revenue,Fixed Assets,Yes,2015-01-29
+ACC101487,Account_1487,Asset,Sales Revenue,Yes,2020-09-10
+ACC101488,Account_1488,Equity,Cash,Yes,2015-03-26
+ACC101489,Account_1489,Liability,Cash,Yes,2018-11-02
+ACC101490,Account_1490,Equity,Owner Equity,No,2021-04-17
+ACC101491,Account_1491,Equity,COGS,Yes,2017-10-20
+ACC101492,Account_1492,Revenue,Fixed Assets,Yes,2020-08-25
+ACC101493,Account_1493,Equity,Accounts Payable,Yes,2019-05-08
+ACC101494,Account_1494,Liability,Cash,Yes,2020-07-19
+ACC101495,Account_1495,Revenue,Owner Equity,Yes,2019-11-02
+ACC101496,Account_1496,Asset,Operating Expense,Yes,2021-06-04
+ACC101497,Account_1497,Asset,Inventory,Yes,2020-10-23
+ACC101498,Account_1498,Expense,COGS,Yes,2021-07-28
+ACC101499,Account_1499,Asset,Cash,Yes,2017-05-08
+ACC101500,Account_1500,Asset,Sales Revenue,Yes,2015-07-31
+ACC101501,Account_1501,Liability,Owner Equity,Yes,2020-04-02
+ACC101502,Account_1502,Liability,Accounts Payable,Yes,2018-05-28
+ACC101503,Account_1503,Expense,Operating Expense,Yes,2016-11-27
+ACC101504,Account_1504,Equity,Sales Revenue,Yes,2021-07-03
+ACC101505,Account_1505,Liability,Sales Revenue,Yes,2016-03-06
+ACC101506,Account_1506,Liability,COGS,Yes,2015-03-28
+ACC101507,Account_1507,Equity,Long-Term Debt,Yes,2019-06-09
+ACC101508,Account_1508,Asset,Accounts Payable,Yes,2021-09-19
+ACC101509,Account_1509,Equity,Accounts Payable,Yes,2019-03-04
+ACC101510,Account_1510,Expense,Fixed Assets,Yes,2023-02-17
+ACC101511,Account_1511,Expense,Owner Equity,Yes,2022-08-03
+ACC101512,Account_1512,Expense,Inventory,No,2018-02-26
+ACC101513,Account_1513,Expense,Service Revenue,Yes,2020-04-08
+ACC101514,Account_1514,Expense,Fixed Assets,Yes,2020-11-16
+ACC101515,Account_1515,Equity,COGS,Yes,2015-12-06
+ACC101516,Account_1516,Revenue,Cash,Yes,2015-03-16
+ACC101517,Account_1517,Asset,Cash,Yes,2017-06-13
+ACC101518,Account_1518,Liability,Fixed Assets,Yes,2021-08-09
+ACC101519,Account_1519,Revenue,Accounts Payable,Yes,2016-04-10
+ACC101520,Account_1520,Liability,Accounts Payable,Yes,2022-05-19
+ACC101521,Account_1521,Expense,Accounts Receivable,Yes,2021-12-31
+ACC101522,Account_1522,Expense,Service Revenue,Yes,2017-11-15
+ACC101523,Account_1523,Equity,Operating Expense,Yes,2019-10-16
+ACC101524,Account_1524,Revenue,Service Revenue,No,2016-11-04
+ACC101525,Account_1525,Revenue,Operating Expense,Yes,2016-08-06
+ACC101526,Account_1526,Equity,Accounts Payable,Yes,2016-06-26
+ACC101527,Account_1527,Equity,Inventory,Yes,2015-12-04
+ACC101528,Account_1528,Expense,Service Revenue,Yes,2016-12-15
+ACC101529,Account_1529,Revenue,Operating Expense,Yes,2017-10-15
+ACC101530,Account_1530,Expense,Sales Revenue,Yes,2021-11-27
+ACC101531,Account_1531,Revenue,Accounts Receivable,Yes,2017-12-09
+ACC101532,Account_1532,Liability,Sales Revenue,Yes,2020-07-18
+ACC101533,Account_1533,Equity,Fixed Assets,No,2017-01-10
+ACC101534,Account_1534,Equity,Long-Term Debt,Yes,2019-11-06
+ACC101535,Account_1535,Asset,Accounts Payable,Yes,2021-10-10
+ACC101536,Account_1536,Revenue,Long-Term Debt,Yes,2017-08-14
+ACC101537,Account_1537,Equity,Fixed Assets,Yes,2020-11-20
+ACC101538,Account_1538,Equity,Service Revenue,Yes,2018-01-02
+ACC101539,Account_1539,Revenue,Operating Expense,Yes,2015-04-03
+ACC101540,Account_1540,Expense,Service Revenue,Yes,2019-06-28
+ACC101541,Account_1541,Equity,Accounts Payable,Yes,2017-07-18
+ACC101542,Account_1542,Asset,Operating Expense,Yes,2016-02-27
+ACC101543,Account_1543,Revenue,Cash,Yes,2021-11-13
+ACC101544,Account_1544,Asset,Cash,Yes,2023-01-16
+ACC101545,Account_1545,Asset,Owner Equity,Yes,2015-01-31
+ACC101546,Account_1546,Liability,Accounts Payable,Yes,2019-06-01
+ACC101547,Account_1547,Liability,COGS,Yes,2018-08-04
+ACC101548,Account_1548,Revenue,Long-Term Debt,Yes,2020-07-06
+ACC101549,Account_1549,Expense,Accounts Payable,Yes,2017-01-21
+ACC101550,Account_1550,Equity,Owner Equity,Yes,2018-10-27
+ACC101551,Account_1551,Expense,Operating Expense,Yes,2017-10-20
+ACC101552,Account_1552,Equity,Cash,Yes,2019-03-02
+ACC101553,Account_1553,Asset,COGS,Yes,2015-09-22
+ACC101554,Account_1554,Expense,Sales Revenue,Yes,2015-03-20
+ACC101555,Account_1555,Expense,Inventory,Yes,2016-09-26
+ACC101556,Account_1556,Expense,Owner Equity,No,2016-11-23
+ACC101557,Account_1557,Revenue,Cash,Yes,2022-01-11
+ACC101558,Account_1558,Revenue,Cash,No,2022-08-08
+ACC101559,Account_1559,Revenue,COGS,Yes,2020-11-22
+ACC101560,Account_1560,Equity,Sales Revenue,Yes,2020-06-29
+ACC101561,Account_1561,Equity,Accounts Receivable,Yes,2015-04-27
+ACC101562,Account_1562,Liability,Operating Expense,Yes,2019-02-21
+ACC101563,Account_1563,Equity,Sales Revenue,Yes,2022-06-29
+ACC101564,Account_1564,Liability,Operating Expense,Yes,2015-07-28
+ACC101565,Account_1565,Revenue,Cash,Yes,2016-09-28
+ACC101566,Account_1566,Liability,Long-Term Debt,Yes,2022-04-16
+ACC101567,Account_1567,Revenue,Fixed Assets,No,2017-08-07
+ACC101568,Account_1568,Expense,Accounts Receivable,Yes,2015-04-30
+ACC101569,Account_1569,Liability,Accounts Receivable,Yes,2021-09-28
+ACC101570,Account_1570,Asset,COGS,Yes,2017-07-13
+ACC101571,Account_1571,Asset,Fixed Assets,Yes,2016-08-08
+ACC101572,Account_1572,Equity,Service Revenue,Yes,2015-01-04
+ACC101573,Account_1573,Asset,Fixed Assets,Yes,2018-03-06
+ACC101574,Account_1574,Liability,Operating Expense,Yes,2018-12-27
+ACC101575,Account_1575,Asset,Accounts Payable,Yes,2022-03-04
+ACC101576,Account_1576,Equity,Inventory,Yes,2022-01-06
+ACC101577,Account_1577,Expense,Service Revenue,Yes,2015-02-07
+ACC101578,Account_1578,Equity,Operating Expense,Yes,2019-10-21
+ACC101579,Account_1579,Expense,Inventory,Yes,2018-06-27
+ACC101580,Account_1580,Liability,Fixed Assets,Yes,2015-06-15
+ACC101581,Account_1581,Expense,Owner Equity,Yes,2017-12-17
+ACC101582,Account_1582,Revenue,COGS,Yes,2022-02-22
+ACC101583,Account_1583,Revenue,COGS,Yes,2015-10-22
+ACC101584,Account_1584,Revenue,COGS,Yes,2021-11-30
+ACC101585,Account_1585,Asset,Accounts Payable,Yes,2021-06-12
+ACC101586,Account_1586,Revenue,Inventory,Yes,2021-01-15
+ACC101587,Account_1587,Asset,Long-Term Debt,Yes,2021-08-21
+ACC101588,Account_1588,Revenue,Fixed Assets,Yes,2017-06-07
+ACC101589,Account_1589,Expense,Service Revenue,Yes,2015-12-19
+ACC101590,Account_1590,Equity,Service Revenue,Yes,2017-09-07
+ACC101591,Account_1591,Asset,Service Revenue,Yes,2020-06-11
+ACC101592,Account_1592,Expense,Long-Term Debt,Yes,2018-06-16
+ACC101593,Account_1593,Revenue,Inventory,Yes,2015-11-24
+ACC101594,Account_1594,Expense,Owner Equity,Yes,2015-08-05
+ACC101595,Account_1595,Equity,COGS,Yes,2019-12-07
+ACC101596,Account_1596,Asset,Inventory,Yes,2020-01-26
+ACC101597,Account_1597,Liability,Accounts Payable,Yes,2020-05-27
+ACC101598,Account_1598,Liability,Inventory,Yes,2017-02-06
+ACC101599,Account_1599,Expense,COGS,Yes,2015-09-24
+ACC101600,Account_1600,Liability,Inventory,Yes,2015-10-23
+ACC101601,Account_1601,Equity,Inventory,Yes,2016-02-29
+ACC101602,Account_1602,Asset,Sales Revenue,Yes,2020-01-19
+ACC101603,Account_1603,Revenue,Fixed Assets,Yes,2019-07-10
+ACC101604,Account_1604,Expense,Accounts Receivable,No,2018-09-13
+ACC101605,Account_1605,Asset,Long-Term Debt,Yes,2020-04-10
+ACC101606,Account_1606,Asset,Sales Revenue,Yes,2021-11-19
+ACC101607,Account_1607,Liability,Fixed Assets,Yes,2015-07-25
+ACC101608,Account_1608,Liability,Accounts Receivable,Yes,2015-08-25
+ACC101609,Account_1609,Liability,Inventory,Yes,2019-03-30
+ACC101610,Account_1610,Asset,Fixed Assets,Yes,2021-10-18
+ACC101611,Account_1611,Expense,Service Revenue,Yes,2021-06-24
+ACC101612,Account_1612,Expense,Owner Equity,Yes,2017-11-16
+ACC101613,Account_1613,Revenue,Accounts Payable,Yes,2018-09-18
+ACC101614,Account_1614,Expense,COGS,No,2020-04-17
+ACC101615,Account_1615,Revenue,Accounts Payable,Yes,2021-04-16
+ACC101616,Account_1616,Revenue,Cash,Yes,2022-09-08
+ACC101617,Account_1617,Asset,Cash,Yes,2015-09-08
+ACC101618,Account_1618,Revenue,Cash,Yes,2017-01-30
+ACC101619,Account_1619,Liability,Fixed Assets,Yes,2015-10-03
+ACC101620,Account_1620,Equity,Inventory,Yes,2016-03-11
+ACC101621,Account_1621,Expense,Operating Expense,Yes,2022-03-10
+ACC101622,Account_1622,Asset,Sales Revenue,Yes,2017-12-25
+ACC101623,Account_1623,Asset,Accounts Receivable,Yes,2019-07-08
+ACC101624,Account_1624,Asset,Fixed Assets,Yes,2020-05-29
+ACC101625,Account_1625,Revenue,Accounts Receivable,Yes,2017-03-13
+ACC101626,Account_1626,Equity,Owner Equity,Yes,2022-01-08
+ACC101627,Account_1627,Revenue,Fixed Assets,Yes,2023-02-17
+ACC101628,Account_1628,Expense,Accounts Receivable,Yes,2021-03-14
+ACC101629,Account_1629,Equity,Inventory,Yes,2016-12-02
+ACC101630,Account_1630,Revenue,Sales Revenue,Yes,2015-10-17
+ACC101631,Account_1631,Asset,Operating Expense,Yes,2018-10-03
+ACC101632,Account_1632,Expense,Sales Revenue,Yes,2015-11-18
+ACC101633,Account_1633,Equity,Long-Term Debt,Yes,2020-04-22
+ACC101634,Account_1634,Revenue,Cash,Yes,2020-02-01
+ACC101635,Account_1635,Liability,Accounts Receivable,Yes,2018-09-04
+ACC101636,Account_1636,Expense,Accounts Receivable,Yes,2017-03-02
+ACC101637,Account_1637,Asset,Service Revenue,Yes,2017-01-16
+ACC101638,Account_1638,Expense,Service Revenue,Yes,2015-11-22
+ACC101639,Account_1639,Equity,Fixed Assets,Yes,2019-10-18
+ACC101640,Account_1640,Liability,Long-Term Debt,Yes,2017-12-25
+ACC101641,Account_1641,Expense,Long-Term Debt,Yes,2018-05-02
+ACC101642,Account_1642,Equity,Accounts Receivable,Yes,2016-09-23
+ACC101643,Account_1643,Liability,Owner Equity,Yes,2022-12-22
+ACC101644,Account_1644,Asset,Sales Revenue,Yes,2019-10-26
+ACC101645,Account_1645,Asset,Accounts Receivable,Yes,2021-06-28
+ACC101646,Account_1646,Asset,Sales Revenue,Yes,2015-08-21
+ACC101647,Account_1647,Revenue,Cash,Yes,2019-07-31
+ACC101648,Account_1648,Asset,COGS,Yes,2020-07-26
+ACC101649,Account_1649,Equity,Accounts Receivable,Yes,2019-08-22
+ACC101650,Account_1650,Equity,Owner Equity,Yes,2016-09-18
+ACC101651,Account_1651,Equity,Service Revenue,Yes,2019-06-28
+ACC101652,Account_1652,Liability,Accounts Payable,Yes,2015-05-27
+ACC101653,Account_1653,Asset,Long-Term Debt,Yes,2017-12-24
+ACC101654,Account_1654,Asset,Service Revenue,Yes,2022-08-05
+ACC101655,Account_1655,Equity,Long-Term Debt,Yes,2017-07-24
+ACC101656,Account_1656,Revenue,Long-Term Debt,No,2015-06-14
+ACC101657,Account_1657,Revenue,Owner Equity,Yes,2019-03-04
+ACC101658,Account_1658,Equity,Inventory,Yes,2020-01-09
+ACC101659,Account_1659,Revenue,Cash,Yes,2018-05-18
+ACC101660,Account_1660,Equity,Fixed Assets,Yes,2021-12-20
+ACC101661,Account_1661,Equity,Inventory,Yes,2015-04-29
+ACC101662,Account_1662,Asset,Long-Term Debt,Yes,2020-07-27
+ACC101663,Account_1663,Revenue,Accounts Payable,Yes,2020-05-13
+ACC101664,Account_1664,Equity,Accounts Payable,Yes,2018-11-04
+ACC101665,Account_1665,Asset,COGS,Yes,2018-11-03
+ACC101666,Account_1666,Revenue,Service Revenue,Yes,2016-04-03
+ACC101667,Account_1667,Liability,Sales Revenue,Yes,2020-05-11
+ACC101668,Account_1668,Equity,Owner Equity,Yes,2018-09-26
+ACC101669,Account_1669,Equity,Sales Revenue,Yes,2017-04-02
+ACC101670,Account_1670,Revenue,Sales Revenue,Yes,2019-12-08
+ACC101671,Account_1671,Equity,Long-Term Debt,Yes,2020-02-20
+ACC101672,Account_1672,Liability,Owner Equity,Yes,2017-02-05
+ACC101673,Account_1673,Liability,Accounts Receivable,Yes,2016-01-04
+ACC101674,Account_1674,Equity,Long-Term Debt,Yes,2021-06-14
+ACC101675,Account_1675,Asset,COGS,Yes,2015-05-11
+ACC101676,Account_1676,Expense,Inventory,No,2015-07-08
+ACC101677,Account_1677,Asset,COGS,No,2019-10-01
+ACC101678,Account_1678,Expense,Service Revenue,Yes,2020-06-05
+ACC101679,Account_1679,Liability,Cash,Yes,2023-03-11
+ACC101680,Account_1680,Equity,Owner Equity,Yes,2017-03-27
+ACC101681,Account_1681,Asset,Service Revenue,Yes,2019-05-25
+ACC101682,Account_1682,Equity,Operating Expense,Yes,2022-04-06
+ACC101683,Account_1683,Asset,Inventory,Yes,2019-06-14
+ACC101684,Account_1684,Revenue,Long-Term Debt,Yes,2018-03-29
+ACC101685,Account_1685,Asset,Owner Equity,Yes,2018-05-04
+ACC101686,Account_1686,Revenue,Accounts Payable,Yes,2017-05-09
+ACC101687,Account_1687,Equity,Service Revenue,Yes,2018-09-14
+ACC101688,Account_1688,Expense,Accounts Receivable,No,2022-10-30
+ACC101689,Account_1689,Equity,Operating Expense,Yes,2019-02-02
+ACC101690,Account_1690,Revenue,Cash,No,2017-04-10
+ACC101691,Account_1691,Liability,Operating Expense,Yes,2015-10-07
+ACC101692,Account_1692,Equity,Cash,Yes,2019-11-26
+ACC101693,Account_1693,Asset,Sales Revenue,Yes,2018-06-30
+ACC101694,Account_1694,Equity,Long-Term Debt,Yes,2016-08-30
+ACC101695,Account_1695,Expense,Owner Equity,Yes,2021-09-01
+ACC101696,Account_1696,Expense,Service Revenue,Yes,2016-01-15
+ACC101697,Account_1697,Revenue,Long-Term Debt,Yes,2021-06-08
+ACC101698,Account_1698,Revenue,Long-Term Debt,Yes,2016-06-27
+ACC101699,Account_1699,Liability,Sales Revenue,Yes,2018-03-08
+ACC101700,Account_1700,Asset,Cash,No,2022-02-23
+ACC101701,Account_1701,Liability,Inventory,No,2022-09-14
+ACC101702,Account_1702,Revenue,Inventory,Yes,2021-02-12
+ACC101703,Account_1703,Equity,Accounts Receivable,Yes,2018-07-25
+ACC101704,Account_1704,Expense,Sales Revenue,No,2019-10-21
+ACC101705,Account_1705,Equity,COGS,Yes,2019-11-23
+ACC101706,Account_1706,Equity,Operating Expense,Yes,2021-06-16
+ACC101707,Account_1707,Revenue,Long-Term Debt,Yes,2018-11-22
+ACC101708,Account_1708,Asset,Long-Term Debt,Yes,2022-03-26
+ACC101709,Account_1709,Expense,Long-Term Debt,Yes,2021-08-04
+ACC101710,Account_1710,Asset,Fixed Assets,Yes,2019-09-15
+ACC101711,Account_1711,Equity,Sales Revenue,No,2020-11-12
+ACC101712,Account_1712,Liability,Owner Equity,Yes,2015-04-02
+ACC101713,Account_1713,Equity,Inventory,Yes,2016-11-20
+ACC101714,Account_1714,Revenue,Service Revenue,Yes,2022-10-22
+ACC101715,Account_1715,Liability,Long-Term Debt,Yes,2016-10-04
+ACC101716,Account_1716,Expense,COGS,Yes,2019-08-18
+ACC101717,Account_1717,Revenue,Long-Term Debt,Yes,2019-05-04
+ACC101718,Account_1718,Liability,Service Revenue,Yes,2016-03-03
+ACC101719,Account_1719,Expense,Fixed Assets,Yes,2019-04-19
+ACC101720,Account_1720,Revenue,Accounts Receivable,Yes,2016-09-15
+ACC101721,Account_1721,Asset,COGS,Yes,2019-06-25
+ACC101722,Account_1722,Asset,Inventory,Yes,2016-10-14
+ACC101723,Account_1723,Expense,Operating Expense,Yes,2022-06-27
+ACC101724,Account_1724,Equity,COGS,Yes,2016-12-13
+ACC101725,Account_1725,Equity,Fixed Assets,Yes,2019-04-06
+ACC101726,Account_1726,Asset,Accounts Receivable,Yes,2022-08-16
+ACC101727,Account_1727,Liability,Owner Equity,Yes,2019-06-11
+ACC101728,Account_1728,Liability,Long-Term Debt,Yes,2016-01-06
+ACC101729,Account_1729,Equity,Long-Term Debt,Yes,2022-06-28
+ACC101730,Account_1730,Expense,Accounts Payable,Yes,2019-05-17
+ACC101731,Account_1731,Expense,Sales Revenue,Yes,2017-12-07
+ACC101732,Account_1732,Equity,Sales Revenue,No,2020-01-13
+ACC101733,Account_1733,Liability,Owner Equity,Yes,2015-10-06
+ACC101734,Account_1734,Liability,Sales Revenue,Yes,2020-03-05
+ACC101735,Account_1735,Asset,Accounts Payable,Yes,2016-08-06
+ACC101736,Account_1736,Revenue,Fixed Assets,Yes,2022-06-14
+ACC101737,Account_1737,Revenue,Inventory,Yes,2017-10-17
+ACC101738,Account_1738,Liability,COGS,Yes,2016-06-10
+ACC101739,Account_1739,Liability,Inventory,Yes,2016-08-20
+ACC101740,Account_1740,Expense,Accounts Payable,Yes,2023-03-18
+ACC101741,Account_1741,Expense,Service Revenue,Yes,2022-07-18
+ACC101742,Account_1742,Liability,Fixed Assets,Yes,2020-05-13
+ACC101743,Account_1743,Liability,COGS,Yes,2016-08-10
+ACC101744,Account_1744,Expense,Owner Equity,Yes,2019-11-02
+ACC101745,Account_1745,Liability,Inventory,Yes,2018-04-20
+ACC101746,Account_1746,Asset,Long-Term Debt,Yes,2018-09-20
+ACC101747,Account_1747,Expense,Inventory,Yes,2016-01-12
+ACC101748,Account_1748,Liability,COGS,Yes,2019-01-11
+ACC101749,Account_1749,Expense,Cash,Yes,2016-05-19
+ACC101750,Account_1750,Asset,COGS,Yes,2020-10-02
+ACC101751,Account_1751,Equity,Service Revenue,Yes,2021-12-26
+ACC101752,Account_1752,Asset,Owner Equity,Yes,2018-01-10
+ACC101753,Account_1753,Liability,Long-Term Debt,Yes,2015-02-12
+ACC101754,Account_1754,Liability,COGS,Yes,2018-07-29
+ACC101755,Account_1755,Equity,Operating Expense,Yes,2017-02-04
+ACC101756,Account_1756,Equity,Accounts Payable,No,2022-08-25
+ACC101757,Account_1757,Liability,Accounts Payable,Yes,2022-03-31
+ACC101758,Account_1758,Revenue,Service Revenue,Yes,2016-01-13
+ACC101759,Account_1759,Expense,Accounts Payable,Yes,2022-01-07
+ACC101760,Account_1760,Expense,Long-Term Debt,Yes,2019-03-16
+ACC101761,Account_1761,Revenue,Operating Expense,Yes,2020-06-01
+ACC101762,Account_1762,Asset,Service Revenue,Yes,2015-07-28
+ACC101763,Account_1763,Revenue,Owner Equity,Yes,2017-10-23
+ACC101764,Account_1764,Liability,Operating Expense,Yes,2020-08-01
+ACC101765,Account_1765,Asset,Inventory,Yes,2018-06-02
+ACC101766,Account_1766,Expense,Service Revenue,Yes,2016-10-15
+ACC101767,Account_1767,Asset,Fixed Assets,No,2015-11-01
+ACC101768,Account_1768,Asset,Long-Term Debt,Yes,2018-02-27
+ACC101769,Account_1769,Expense,Inventory,Yes,2017-11-14
+ACC101770,Account_1770,Revenue,Sales Revenue,Yes,2015-05-04
+ACC101771,Account_1771,Asset,Accounts Receivable,Yes,2017-11-03
+ACC101772,Account_1772,Equity,Sales Revenue,Yes,2019-07-15
+ACC101773,Account_1773,Revenue,Inventory,Yes,2016-12-19
+ACC101774,Account_1774,Equity,Owner Equity,Yes,2022-12-13
+ACC101775,Account_1775,Revenue,Accounts Receivable,Yes,2023-01-28
+ACC101776,Account_1776,Expense,Operating Expense,Yes,2018-10-27
+ACC101777,Account_1777,Equity,Inventory,Yes,2021-10-01
+ACC101778,Account_1778,Liability,Cash,Yes,2018-01-26
+ACC101779,Account_1779,Equity,Long-Term Debt,Yes,2020-10-03
+ACC101780,Account_1780,Revenue,Owner Equity,Yes,2019-11-27
+ACC101781,Account_1781,Asset,Owner Equity,Yes,2020-03-21
+ACC101782,Account_1782,Equity,Accounts Receivable,Yes,2017-12-23
+ACC101783,Account_1783,Expense,Long-Term Debt,Yes,2018-08-14
+ACC101784,Account_1784,Asset,Inventory,No,2019-08-29
+ACC101785,Account_1785,Expense,Long-Term Debt,Yes,2016-10-31
+ACC101786,Account_1786,Revenue,Inventory,Yes,2020-01-16
+ACC101787,Account_1787,Equity,Accounts Receivable,Yes,2021-10-28
+ACC101788,Account_1788,Asset,COGS,Yes,2015-10-06
+ACC101789,Account_1789,Expense,Owner Equity,Yes,2016-12-29
+ACC101790,Account_1790,Revenue,Fixed Assets,Yes,2019-08-06
+ACC101791,Account_1791,Revenue,Cash,Yes,2015-06-07
+ACC101792,Account_1792,Asset,Accounts Payable,Yes,2015-03-19
+ACC101793,Account_1793,Revenue,Service Revenue,Yes,2021-03-23
+ACC101794,Account_1794,Asset,Fixed Assets,Yes,2016-03-07
+ACC101795,Account_1795,Liability,Long-Term Debt,Yes,2016-01-28
+ACC101796,Account_1796,Asset,Fixed Assets,No,2020-08-01
+ACC101797,Account_1797,Revenue,Cash,Yes,2016-03-03
+ACC101798,Account_1798,Asset,Inventory,Yes,2019-03-14
+ACC101799,Account_1799,Revenue,Operating Expense,No,2015-11-29
+ACC101800,Account_1800,Asset,Inventory,No,2020-05-22
+ACC101801,Account_1801,Revenue,Fixed Assets,Yes,2019-12-22
+ACC101802,Account_1802,Revenue,Service Revenue,Yes,2023-03-04
+ACC101803,Account_1803,Revenue,Service Revenue,Yes,2021-07-22
+ACC101804,Account_1804,Asset,Accounts Payable,Yes,2018-12-12
+ACC101805,Account_1805,Liability,Accounts Payable,Yes,2016-01-31
+ACC101806,Account_1806,Revenue,Inventory,Yes,2015-04-07
+ACC101807,Account_1807,Expense,Service Revenue,Yes,2016-11-09
+ACC101808,Account_1808,Expense,Owner Equity,Yes,2018-06-07
+ACC101809,Account_1809,Asset,Cash,Yes,2016-05-09
+ACC101810,Account_1810,Revenue,Accounts Payable,No,2017-12-06
+ACC101811,Account_1811,Asset,Accounts Payable,Yes,2019-02-06
+ACC101812,Account_1812,Equity,COGS,Yes,2021-02-06
+ACC101813,Account_1813,Revenue,Accounts Receivable,Yes,2018-08-17
+ACC101814,Account_1814,Liability,Accounts Receivable,Yes,2021-11-15
+ACC101815,Account_1815,Liability,Sales Revenue,Yes,2019-09-20
+ACC101816,Account_1816,Revenue,Fixed Assets,Yes,2015-08-04
+ACC101817,Account_1817,Equity,Service Revenue,Yes,2020-08-29
+ACC101818,Account_1818,Expense,Owner Equity,Yes,2020-12-06
+ACC101819,Account_1819,Asset,Fixed Assets,Yes,2017-10-21
+ACC101820,Account_1820,Asset,Accounts Payable,Yes,2019-08-31
+ACC101821,Account_1821,Equity,COGS,Yes,2018-07-03
+ACC101822,Account_1822,Revenue,Cash,Yes,2022-12-25
+ACC101823,Account_1823,Revenue,Cash,Yes,2015-01-02
+ACC101824,Account_1824,Liability,Inventory,Yes,2020-07-23
+ACC101825,Account_1825,Asset,Service Revenue,Yes,2019-06-06
+ACC101826,Account_1826,Asset,Accounts Receivable,Yes,2020-02-17
+ACC101827,Account_1827,Revenue,Fixed Assets,Yes,2018-10-03
+ACC101828,Account_1828,Asset,Long-Term Debt,Yes,2023-01-30
+ACC101829,Account_1829,Liability,Accounts Payable,Yes,2023-03-13
+ACC101830,Account_1830,Expense,Inventory,Yes,2018-04-14
+ACC101831,Account_1831,Equity,Inventory,Yes,2017-08-19
+ACC101832,Account_1832,Equity,Owner Equity,Yes,2016-02-29
+ACC101833,Account_1833,Revenue,Long-Term Debt,No,2019-03-18
+ACC101834,Account_1834,Expense,Accounts Payable,Yes,2017-06-12
+ACC101835,Account_1835,Asset,Long-Term Debt,Yes,2021-03-18
+ACC101836,Account_1836,Liability,Accounts Payable,Yes,2016-12-27
+ACC101837,Account_1837,Expense,Cash,Yes,2015-12-21
+ACC101838,Account_1838,Expense,Sales Revenue,Yes,2022-03-05
+ACC101839,Account_1839,Equity,Service Revenue,Yes,2021-01-05
+ACC101840,Account_1840,Equity,Fixed Assets,Yes,2017-12-30
+ACC101841,Account_1841,Asset,Long-Term Debt,Yes,2022-12-06
+ACC101842,Account_1842,Asset,Fixed Assets,Yes,2019-07-06
+ACC101843,Account_1843,Equity,Inventory,No,2016-10-14
+ACC101844,Account_1844,Expense,Long-Term Debt,Yes,2020-10-04
+ACC101845,Account_1845,Revenue,Inventory,Yes,2021-06-29
+ACC101846,Account_1846,Expense,Long-Term Debt,Yes,2020-02-22
+ACC101847,Account_1847,Equity,Long-Term Debt,Yes,2016-09-20
+ACC101848,Account_1848,Liability,Inventory,No,2015-05-07
+ACC101849,Account_1849,Expense,Owner Equity,Yes,2021-07-13
+ACC101850,Account_1850,Revenue,Inventory,Yes,2019-12-18
+ACC101851,Account_1851,Expense,Fixed Assets,Yes,2021-09-29
+ACC101852,Account_1852,Asset,Accounts Payable,Yes,2016-07-01
+ACC101853,Account_1853,Asset,Cash,Yes,2019-05-19
+ACC101854,Account_1854,Asset,Sales Revenue,Yes,2019-11-04
+ACC101855,Account_1855,Liability,Owner Equity,Yes,2019-11-30
+ACC101856,Account_1856,Asset,Owner Equity,Yes,2015-10-22
+ACC101857,Account_1857,Liability,Fixed Assets,Yes,2018-04-02
+ACC101858,Account_1858,Revenue,Fixed Assets,Yes,2017-01-20
+ACC101859,Account_1859,Asset,Long-Term Debt,Yes,2019-01-15
+ACC101860,Account_1860,Equity,Inventory,Yes,2021-07-26
+ACC101861,Account_1861,Asset,Fixed Assets,Yes,2021-02-14
+ACC101862,Account_1862,Asset,Accounts Receivable,Yes,2018-04-30
+ACC101863,Account_1863,Revenue,Inventory,Yes,2016-11-30
+ACC101864,Account_1864,Equity,Inventory,Yes,2016-03-23
+ACC101865,Account_1865,Expense,Accounts Payable,Yes,2017-10-29
+ACC101866,Account_1866,Equity,Owner Equity,Yes,2017-10-29
+ACC101867,Account_1867,Revenue,Operating Expense,Yes,2016-03-06
+ACC101868,Account_1868,Asset,Long-Term Debt,Yes,2017-07-23
+ACC101869,Account_1869,Asset,Inventory,Yes,2015-07-20
+ACC101870,Account_1870,Liability,Accounts Payable,Yes,2016-07-27
+ACC101871,Account_1871,Revenue,Owner Equity,Yes,2015-04-17
+ACC101872,Account_1872,Revenue,Fixed Assets,Yes,2017-02-26
+ACC101873,Account_1873,Revenue,Cash,Yes,2018-06-09
+ACC101874,Account_1874,Asset,Long-Term Debt,Yes,2019-10-28
+ACC101875,Account_1875,Equity,Cash,Yes,2016-06-13
+ACC101876,Account_1876,Liability,Inventory,Yes,2018-07-17
+ACC101877,Account_1877,Expense,Fixed Assets,Yes,2021-08-10
+ACC101878,Account_1878,Liability,COGS,Yes,2021-05-16
+ACC101879,Account_1879,Liability,Accounts Payable,Yes,2016-09-08
+ACC101880,Account_1880,Equity,Fixed Assets,Yes,2018-01-26
+ACC101881,Account_1881,Revenue,Service Revenue,Yes,2020-11-08
+ACC101882,Account_1882,Expense,Sales Revenue,Yes,2015-06-19
+ACC101883,Account_1883,Equity,Fixed Assets,No,2016-07-23
+ACC101884,Account_1884,Expense,COGS,Yes,2018-05-10
+ACC101885,Account_1885,Revenue,Fixed Assets,Yes,2017-03-17
+ACC101886,Account_1886,Revenue,COGS,Yes,2020-08-02
+ACC101887,Account_1887,Equity,Inventory,Yes,2022-09-24
+ACC101888,Account_1888,Asset,Accounts Payable,Yes,2016-11-13
+ACC101889,Account_1889,Equity,Accounts Receivable,No,2020-01-18
+ACC101890,Account_1890,Revenue,Fixed Assets,Yes,2020-01-11
+ACC101891,Account_1891,Liability,Operating Expense,Yes,2020-08-13
+ACC101892,Account_1892,Equity,Fixed Assets,No,2019-11-27
+ACC101893,Account_1893,Liability,Long-Term Debt,Yes,2017-07-05
+ACC101894,Account_1894,Expense,Cash,Yes,2021-05-29
+ACC101895,Account_1895,Expense,Fixed Assets,Yes,2015-07-10
+ACC101896,Account_1896,Asset,Owner Equity,Yes,2016-04-06
+ACC101897,Account_1897,Equity,Cash,Yes,2018-02-05
+ACC101898,Account_1898,Liability,Inventory,Yes,2020-09-16
+ACC101899,Account_1899,Asset,Service Revenue,Yes,2016-05-18
+ACC101900,Account_1900,Liability,Accounts Receivable,Yes,2019-06-05
+ACC101901,Account_1901,Expense,Service Revenue,Yes,2019-10-10
+ACC101902,Account_1902,Liability,Long-Term Debt,Yes,2016-05-31
+ACC101903,Account_1903,Liability,Accounts Payable,Yes,2019-04-04
+ACC101904,Account_1904,Expense,Operating Expense,Yes,2020-06-30
+ACC101905,Account_1905,Liability,Service Revenue,Yes,2018-01-23
+ACC101906,Account_1906,Expense,Fixed Assets,Yes,2019-12-25
+ACC101907,Account_1907,Revenue,Fixed Assets,Yes,2021-05-27
+ACC101908,Account_1908,Revenue,Owner Equity,No,2017-05-05
+ACC101909,Account_1909,Equity,Cash,Yes,2019-10-29
+ACC101910,Account_1910,Asset,Accounts Payable,Yes,2021-02-27
+ACC101911,Account_1911,Expense,COGS,No,2021-05-22
+ACC101912,Account_1912,Liability,Accounts Receivable,Yes,2018-10-10
+ACC101913,Account_1913,Revenue,Accounts Receivable,Yes,2019-11-17
+ACC101914,Account_1914,Expense,Sales Revenue,No,2020-11-07
+ACC101915,Account_1915,Liability,Service Revenue,Yes,2018-12-15
+ACC101916,Account_1916,Equity,Accounts Payable,Yes,2017-02-14
+ACC101917,Account_1917,Liability,Sales Revenue,Yes,2022-09-08
+ACC101918,Account_1918,Liability,Operating Expense,Yes,2016-04-15
+ACC101919,Account_1919,Liability,Long-Term Debt,Yes,2017-11-05
+ACC101920,Account_1920,Liability,Accounts Receivable,Yes,2020-11-05
+ACC101921,Account_1921,Asset,Inventory,Yes,2015-01-06
+ACC101922,Account_1922,Asset,Sales Revenue,No,2018-06-29
+ACC101923,Account_1923,Liability,Operating Expense,Yes,2020-01-26
+ACC101924,Account_1924,Liability,Service Revenue,Yes,2018-03-18
+ACC101925,Account_1925,Revenue,Sales Revenue,Yes,2021-10-23
+ACC101926,Account_1926,Liability,Service Revenue,Yes,2015-06-27
+ACC101927,Account_1927,Equity,Owner Equity,Yes,2020-12-01
+ACC101928,Account_1928,Asset,Operating Expense,Yes,2022-04-01
+ACC101929,Account_1929,Liability,Service Revenue,Yes,2017-06-16
+ACC101930,Account_1930,Equity,Inventory,Yes,2015-12-01
+ACC101931,Account_1931,Asset,Inventory,Yes,2016-07-04
+ACC101932,Account_1932,Liability,Cash,Yes,2021-04-25
+ACC101933,Account_1933,Expense,Inventory,Yes,2018-10-23
+ACC101934,Account_1934,Expense,Accounts Payable,Yes,2020-03-26
+ACC101935,Account_1935,Liability,Fixed Assets,No,2016-05-05
+ACC101936,Account_1936,Revenue,COGS,Yes,2016-01-25
+ACC101937,Account_1937,Expense,Service Revenue,Yes,2018-06-29
+ACC101938,Account_1938,Revenue,Sales Revenue,Yes,2015-04-10
+ACC101939,Account_1939,Equity,Accounts Payable,Yes,2022-07-31
+ACC101940,Account_1940,Liability,Accounts Receivable,Yes,2017-01-22
+ACC101941,Account_1941,Revenue,Sales Revenue,Yes,2021-08-24
+ACC101942,Account_1942,Expense,Cash,Yes,2019-07-24
+ACC101943,Account_1943,Liability,Sales Revenue,Yes,2017-03-15
+ACC101944,Account_1944,Liability,Fixed Assets,No,2019-12-06
+ACC101945,Account_1945,Revenue,Operating Expense,Yes,2016-03-26
+ACC101946,Account_1946,Revenue,Service Revenue,No,2018-04-03
+ACC101947,Account_1947,Equity,Inventory,Yes,2018-01-18
+ACC101948,Account_1948,Liability,Service Revenue,Yes,2018-08-01
+ACC101949,Account_1949,Asset,Sales Revenue,No,2015-01-11
+ACC101950,Account_1950,Revenue,Accounts Receivable,Yes,2021-05-29
+ACC101951,Account_1951,Asset,Fixed Assets,Yes,2017-07-19
+ACC101952,Account_1952,Revenue,COGS,Yes,2022-05-12
+ACC101953,Account_1953,Liability,Operating Expense,Yes,2017-10-27
+ACC101954,Account_1954,Liability,Service Revenue,Yes,2017-10-07
+ACC101955,Account_1955,Expense,Owner Equity,Yes,2021-06-16
+ACC101956,Account_1956,Revenue,Long-Term Debt,Yes,2023-02-18
+ACC101957,Account_1957,Expense,Accounts Receivable,Yes,2015-02-20
+ACC101958,Account_1958,Expense,Cash,Yes,2016-11-06
+ACC101959,Account_1959,Expense,Owner Equity,Yes,2019-06-29
+ACC101960,Account_1960,Asset,Owner Equity,Yes,2015-07-30
+ACC101961,Account_1961,Revenue,Sales Revenue,Yes,2022-12-06
+ACC101962,Account_1962,Equity,Fixed Assets,Yes,2020-12-03
+ACC101963,Account_1963,Asset,Cash,Yes,2022-01-11
+ACC101964,Account_1964,Asset,Owner Equity,Yes,2019-09-13
+ACC101965,Account_1965,Liability,Fixed Assets,Yes,2016-03-16
+ACC101966,Account_1966,Liability,Fixed Assets,Yes,2021-06-27
+ACC101967,Account_1967,Liability,Operating Expense,Yes,2018-05-20
+ACC101968,Account_1968,Equity,Sales Revenue,No,2021-10-28
+ACC101969,Account_1969,Equity,Operating Expense,Yes,2020-05-05
+ACC101970,Account_1970,Revenue,Fixed Assets,No,2018-03-07
+ACC101971,Account_1971,Equity,Sales Revenue,Yes,2018-06-08
+ACC101972,Account_1972,Revenue,Service Revenue,Yes,2020-05-25
+ACC101973,Account_1973,Liability,Cash,Yes,2019-04-21
+ACC101974,Account_1974,Equity,Service Revenue,Yes,2020-04-18
+ACC101975,Account_1975,Equity,Inventory,Yes,2021-11-10
+ACC101976,Account_1976,Liability,Accounts Receivable,Yes,2022-06-24
+ACC101977,Account_1977,Equity,Accounts Payable,Yes,2015-12-20
+ACC101978,Account_1978,Equity,COGS,Yes,2019-02-26
+ACC101979,Account_1979,Equity,Operating Expense,Yes,2015-07-05
+ACC101980,Account_1980,Expense,Owner Equity,Yes,2016-05-14
+ACC101981,Account_1981,Expense,Accounts Receivable,Yes,2021-04-11
+ACC101982,Account_1982,Liability,Operating Expense,Yes,2019-05-01
+ACC101983,Account_1983,Asset,Fixed Assets,Yes,2015-02-23
+ACC101984,Account_1984,Revenue,Accounts Payable,Yes,2022-08-22
+ACC101985,Account_1985,Asset,Accounts Receivable,Yes,2020-11-16
+ACC101986,Account_1986,Equity,Accounts Receivable,Yes,2021-04-16
+ACC101987,Account_1987,Equity,Owner Equity,Yes,2016-09-18
+ACC101988,Account_1988,Asset,Cash,No,2015-05-26
+ACC101989,Account_1989,Liability,Accounts Receivable,Yes,2020-02-07
+ACC101990,Account_1990,Revenue,Operating Expense,No,2020-05-27
+ACC101991,Account_1991,Liability,Inventory,Yes,2020-01-19
+ACC101992,Account_1992,Equity,Sales Revenue,Yes,2023-02-05
+ACC101993,Account_1993,Equity,Operating Expense,Yes,2016-07-19
+ACC101994,Account_1994,Revenue,Inventory,Yes,2023-02-16
+ACC101995,Account_1995,Liability,COGS,Yes,2020-04-26
+ACC101996,Account_1996,Revenue,Accounts Payable,Yes,2020-11-19
+ACC101997,Account_1997,Expense,Operating Expense,Yes,2017-09-27
+ACC101998,Account_1998,Liability,Inventory,Yes,2021-06-16
+ACC101999,Account_1999,Asset,Cash,Yes,2017-04-19
+ACC102000,Account_2000,Revenue,Service Revenue,No,2015-04-30
+ACC102001,Account_2001,Liability,Long-Term Debt,Yes,2021-11-28
+ACC102002,Account_2002,Revenue,Accounts Receivable,Yes,2018-03-04
+ACC102003,Account_2003,Equity,Operating Expense,Yes,2015-07-22
+ACC102004,Account_2004,Revenue,Accounts Receivable,Yes,2015-04-06
+ACC102005,Account_2005,Liability,Sales Revenue,No,2019-05-16
+ACC102006,Account_2006,Equity,Fixed Assets,Yes,2019-09-09
+ACC102007,Account_2007,Equity,Inventory,Yes,2020-11-04
+ACC102008,Account_2008,Equity,Long-Term Debt,Yes,2021-04-03
+ACC102009,Account_2009,Expense,Service Revenue,Yes,2015-05-20
+ACC102010,Account_2010,Revenue,Cash,Yes,2020-02-17
+ACC102011,Account_2011,Liability,COGS,Yes,2016-08-28
+ACC102012,Account_2012,Revenue,COGS,Yes,2021-11-10
+ACC102013,Account_2013,Revenue,Cash,Yes,2020-04-05
+ACC102014,Account_2014,Liability,Long-Term Debt,Yes,2017-09-16
+ACC102015,Account_2015,Liability,Service Revenue,Yes,2017-05-30
+ACC102016,Account_2016,Asset,Accounts Receivable,Yes,2015-07-16
+ACC102017,Account_2017,Asset,Inventory,Yes,2018-08-23
+ACC102018,Account_2018,Asset,Sales Revenue,Yes,2015-02-12
+ACC102019,Account_2019,Expense,Fixed Assets,Yes,2015-04-03
+ACC102020,Account_2020,Asset,Sales Revenue,Yes,2017-05-26
+ACC102021,Account_2021,Revenue,Long-Term Debt,Yes,2018-01-07
+ACC102022,Account_2022,Asset,Accounts Payable,Yes,2021-04-14
+ACC102023,Account_2023,Equity,Sales Revenue,Yes,2017-07-07
+ACC102024,Account_2024,Liability,Service Revenue,Yes,2016-06-22
+ACC102025,Account_2025,Liability,COGS,Yes,2018-03-22
+ACC102026,Account_2026,Expense,Owner Equity,Yes,2016-02-11
+ACC102027,Account_2027,Asset,Sales Revenue,Yes,2017-01-18
+ACC102028,Account_2028,Asset,Accounts Payable,Yes,2017-05-22
+ACC102029,Account_2029,Liability,Service Revenue,Yes,2020-04-09
+ACC102030,Account_2030,Equity,Accounts Receivable,Yes,2018-10-02
+ACC102031,Account_2031,Equity,Long-Term Debt,Yes,2018-03-14
+ACC102032,Account_2032,Expense,Sales Revenue,Yes,2016-09-13
+ACC102033,Account_2033,Liability,COGS,Yes,2019-03-16
+ACC102034,Account_2034,Asset,Owner Equity,No,2016-02-04
+ACC102035,Account_2035,Equity,Service Revenue,Yes,2015-10-21
+ACC102036,Account_2036,Revenue,Accounts Receivable,Yes,2018-05-12
+ACC102037,Account_2037,Asset,Cash,Yes,2018-05-25
+ACC102038,Account_2038,Revenue,Operating Expense,Yes,2022-06-24
+ACC102039,Account_2039,Asset,Inventory,Yes,2022-12-07
+ACC102040,Account_2040,Asset,COGS,Yes,2017-12-25
+ACC102041,Account_2041,Revenue,Operating Expense,Yes,2020-02-24
+ACC102042,Account_2042,Asset,Cash,Yes,2020-04-21
+ACC102043,Account_2043,Liability,Sales Revenue,Yes,2019-04-19
+ACC102044,Account_2044,Equity,Accounts Payable,No,2022-09-12
+ACC102045,Account_2045,Asset,Cash,Yes,2021-09-16
+ACC102046,Account_2046,Expense,Owner Equity,Yes,2020-01-14
+ACC102047,Account_2047,Asset,Accounts Receivable,Yes,2017-09-15
+ACC102048,Account_2048,Revenue,Operating Expense,Yes,2021-02-25
+ACC102049,Account_2049,Liability,COGS,Yes,2021-06-27
+ACC102050,Account_2050,Revenue,Cash,Yes,2021-10-23
+ACC102051,Account_2051,Asset,Operating Expense,Yes,2020-08-16
+ACC102052,Account_2052,Liability,Sales Revenue,Yes,2016-09-01
+ACC102053,Account_2053,Equity,Service Revenue,Yes,2022-04-02
+ACC102054,Account_2054,Liability,Long-Term Debt,Yes,2016-10-24
+ACC102055,Account_2055,Expense,Accounts Payable,Yes,2017-05-15
+ACC102056,Account_2056,Liability,Long-Term Debt,Yes,2021-07-23
+ACC102057,Account_2057,Liability,Cash,No,2016-02-16
+ACC102058,Account_2058,Revenue,Sales Revenue,Yes,2019-11-12
+ACC102059,Account_2059,Liability,Sales Revenue,Yes,2018-05-24
+ACC102060,Account_2060,Expense,Owner Equity,No,2021-04-08
+ACC102061,Account_2061,Equity,Operating Expense,Yes,2021-11-11
+ACC102062,Account_2062,Equity,Fixed Assets,Yes,2021-10-21
+ACC102063,Account_2063,Liability,Sales Revenue,Yes,2019-06-02
+ACC102064,Account_2064,Asset,Inventory,Yes,2021-09-29
+ACC102065,Account_2065,Asset,Cash,Yes,2018-04-27
+ACC102066,Account_2066,Equity,Long-Term Debt,Yes,2021-03-10
+ACC102067,Account_2067,Liability,Sales Revenue,Yes,2022-08-24
+ACC102068,Account_2068,Equity,Operating Expense,Yes,2017-03-14
+ACC102069,Account_2069,Liability,Accounts Receivable,Yes,2020-12-20
+ACC102070,Account_2070,Liability,Fixed Assets,Yes,2015-05-09
+ACC102071,Account_2071,Revenue,Operating Expense,Yes,2019-04-12
+ACC102072,Account_2072,Liability,Owner Equity,Yes,2017-06-15
+ACC102073,Account_2073,Equity,COGS,Yes,2021-10-12
+ACC102074,Account_2074,Revenue,Long-Term Debt,Yes,2018-09-18
+ACC102075,Account_2075,Expense,Inventory,Yes,2023-02-08
+ACC102076,Account_2076,Asset,Accounts Payable,Yes,2016-07-31
+ACC102077,Account_2077,Equity,Inventory,Yes,2018-10-24
+ACC102078,Account_2078,Asset,Service Revenue,Yes,2022-04-18
+ACC102079,Account_2079,Expense,Operating Expense,Yes,2017-02-06
+ACC102080,Account_2080,Expense,Inventory,Yes,2021-09-10
+ACC102081,Account_2081,Liability,Cash,Yes,2015-07-23
+ACC102082,Account_2082,Expense,Operating Expense,Yes,2015-08-28
+ACC102083,Account_2083,Asset,Cash,Yes,2016-07-23
+ACC102084,Account_2084,Liability,Fixed Assets,Yes,2016-05-25
+ACC102085,Account_2085,Expense,Service Revenue,Yes,2020-12-20
+ACC102086,Account_2086,Expense,Service Revenue,Yes,2019-11-01
+ACC102087,Account_2087,Revenue,Operating Expense,Yes,2015-08-10
+ACC102088,Account_2088,Revenue,Owner Equity,No,2021-04-19
+ACC102089,Account_2089,Liability,COGS,Yes,2018-02-22
+ACC102090,Account_2090,Revenue,Inventory,Yes,2017-11-16
+ACC102091,Account_2091,Liability,Cash,Yes,2019-02-22
+ACC102092,Account_2092,Equity,Accounts Payable,Yes,2022-10-06
+ACC102093,Account_2093,Revenue,COGS,Yes,2022-10-21
+ACC102094,Account_2094,Liability,Fixed Assets,Yes,2016-07-14
+ACC102095,Account_2095,Equity,Accounts Receivable,Yes,2015-07-24
+ACC102096,Account_2096,Revenue,Accounts Payable,Yes,2019-11-26
+ACC102097,Account_2097,Revenue,Accounts Receivable,Yes,2022-07-23
+ACC102098,Account_2098,Expense,Accounts Receivable,Yes,2021-02-12
+ACC102099,Account_2099,Equity,Cash,Yes,2019-05-27
+ACC102100,Account_2100,Revenue,Inventory,Yes,2015-02-27
+ACC102101,Account_2101,Asset,Long-Term Debt,Yes,2017-02-09
+ACC102102,Account_2102,Expense,Fixed Assets,No,2022-08-30
+ACC102103,Account_2103,Equity,Operating Expense,Yes,2016-05-26
+ACC102104,Account_2104,Revenue,Sales Revenue,Yes,2021-05-23
+ACC102105,Account_2105,Liability,Cash,Yes,2018-01-31
+ACC102106,Account_2106,Expense,Accounts Payable,Yes,2020-04-08
+ACC102107,Account_2107,Equity,Accounts Payable,Yes,2019-07-26
+ACC102108,Account_2108,Revenue,Service Revenue,Yes,2016-06-01
+ACC102109,Account_2109,Equity,Service Revenue,Yes,2016-01-31
+ACC102110,Account_2110,Asset,Inventory,Yes,2021-04-24
+ACC102111,Account_2111,Revenue,Long-Term Debt,Yes,2022-06-18
+ACC102112,Account_2112,Revenue,Operating Expense,Yes,2019-10-25
+ACC102113,Account_2113,Liability,Accounts Receivable,Yes,2020-09-02
+ACC102114,Account_2114,Revenue,Fixed Assets,Yes,2021-05-18
+ACC102115,Account_2115,Expense,Service Revenue,Yes,2017-06-21
+ACC102116,Account_2116,Expense,Accounts Receivable,Yes,2022-08-27
+ACC102117,Account_2117,Equity,Inventory,Yes,2020-01-03
+ACC102118,Account_2118,Asset,Owner Equity,Yes,2019-05-05
+ACC102119,Account_2119,Asset,Inventory,Yes,2021-12-25
+ACC102120,Account_2120,Equity,Owner Equity,No,2022-05-29
+ACC102121,Account_2121,Asset,Owner Equity,Yes,2021-03-03
+ACC102122,Account_2122,Revenue,Owner Equity,Yes,2015-08-19
+ACC102123,Account_2123,Revenue,Cash,Yes,2019-02-18
+ACC102124,Account_2124,Revenue,COGS,Yes,2020-11-20
+ACC102125,Account_2125,Equity,Service Revenue,Yes,2017-09-02
+ACC102126,Account_2126,Asset,Operating Expense,Yes,2023-01-20
+ACC102127,Account_2127,Liability,Service Revenue,Yes,2021-09-17
+ACC102128,Account_2128,Asset,Service Revenue,No,2018-10-20
+ACC102129,Account_2129,Revenue,Fixed Assets,No,2018-12-04
+ACC102130,Account_2130,Expense,COGS,Yes,2021-02-27
+ACC102131,Account_2131,Revenue,Operating Expense,Yes,2022-06-20
+ACC102132,Account_2132,Asset,Inventory,Yes,2019-03-19
+ACC102133,Account_2133,Liability,Inventory,Yes,2020-03-12
+ACC102134,Account_2134,Asset,Sales Revenue,Yes,2018-06-21
+ACC102135,Account_2135,Equity,Long-Term Debt,Yes,2016-11-08
+ACC102136,Account_2136,Asset,Long-Term Debt,Yes,2017-05-01
+ACC102137,Account_2137,Equity,Owner Equity,Yes,2022-04-21
+ACC102138,Account_2138,Equity,Inventory,Yes,2022-01-15
+ACC102139,Account_2139,Asset,COGS,Yes,2020-08-07
+ACC102140,Account_2140,Expense,Cash,Yes,2016-03-05
+ACC102141,Account_2141,Equity,Accounts Payable,Yes,2022-11-15
+ACC102142,Account_2142,Liability,Fixed Assets,Yes,2020-07-15
+ACC102143,Account_2143,Liability,Fixed Assets,Yes,2015-06-30
+ACC102144,Account_2144,Revenue,Service Revenue,Yes,2015-07-29
+ACC102145,Account_2145,Revenue,Inventory,Yes,2021-07-03
+ACC102146,Account_2146,Expense,Sales Revenue,Yes,2019-03-24
+ACC102147,Account_2147,Revenue,Fixed Assets,Yes,2015-05-08
+ACC102148,Account_2148,Asset,Accounts Payable,Yes,2022-08-28
+ACC102149,Account_2149,Revenue,Accounts Payable,Yes,2020-09-17
+ACC102150,Account_2150,Asset,Cash,Yes,2020-05-05
+ACC102151,Account_2151,Equity,Accounts Payable,Yes,2020-09-03
+ACC102152,Account_2152,Asset,Service Revenue,Yes,2022-09-17
+ACC102153,Account_2153,Asset,Cash,Yes,2017-07-09
+ACC102154,Account_2154,Expense,Accounts Payable,Yes,2023-01-05
+ACC102155,Account_2155,Revenue,Owner Equity,Yes,2017-04-21
+ACC102156,Account_2156,Liability,COGS,Yes,2022-07-28
+ACC102157,Account_2157,Revenue,Cash,Yes,2019-05-29
+ACC102158,Account_2158,Equity,Sales Revenue,Yes,2018-11-15
+ACC102159,Account_2159,Asset,Service Revenue,Yes,2016-07-12
+ACC102160,Account_2160,Expense,COGS,Yes,2022-07-02
+ACC102161,Account_2161,Revenue,Operating Expense,Yes,2021-03-16
+ACC102162,Account_2162,Asset,Accounts Payable,Yes,2018-03-17
+ACC102163,Account_2163,Asset,Inventory,Yes,2021-07-27
+ACC102164,Account_2164,Liability,Sales Revenue,Yes,2022-02-02
+ACC102165,Account_2165,Asset,Accounts Payable,Yes,2016-05-12
+ACC102166,Account_2166,Expense,Cash,Yes,2018-01-20
+ACC102167,Account_2167,Revenue,Accounts Payable,Yes,2019-03-12
+ACC102168,Account_2168,Equity,Service Revenue,Yes,2018-10-14
+ACC102169,Account_2169,Liability,COGS,Yes,2023-01-06
+ACC102170,Account_2170,Asset,Owner Equity,Yes,2015-08-24
+ACC102171,Account_2171,Equity,Service Revenue,Yes,2022-05-31
+ACC102172,Account_2172,Liability,COGS,Yes,2017-01-21
+ACC102173,Account_2173,Asset,Accounts Receivable,Yes,2016-09-23
+ACC102174,Account_2174,Liability,Long-Term Debt,Yes,2018-11-05
+ACC102175,Account_2175,Equity,Operating Expense,Yes,2015-05-14
+ACC102176,Account_2176,Asset,Inventory,Yes,2021-12-07
+ACC102177,Account_2177,Revenue,Sales Revenue,No,2018-01-12
+ACC102178,Account_2178,Expense,Owner Equity,Yes,2021-11-08
+ACC102179,Account_2179,Liability,Accounts Receivable,Yes,2020-08-07
+ACC102180,Account_2180,Liability,Fixed Assets,Yes,2015-09-26
+ACC102181,Account_2181,Revenue,Long-Term Debt,No,2019-11-05
+ACC102182,Account_2182,Equity,Fixed Assets,Yes,2020-12-08
+ACC102183,Account_2183,Revenue,Inventory,No,2021-02-11
+ACC102184,Account_2184,Revenue,Accounts Receivable,Yes,2018-04-06
+ACC102185,Account_2185,Revenue,Sales Revenue,Yes,2022-09-21
+ACC102186,Account_2186,Asset,COGS,Yes,2017-09-10
+ACC102187,Account_2187,Liability,Sales Revenue,Yes,2019-12-06
+ACC102188,Account_2188,Asset,Operating Expense,Yes,2022-10-14
+ACC102189,Account_2189,Expense,Accounts Receivable,Yes,2021-10-28
+ACC102190,Account_2190,Expense,Sales Revenue,Yes,2021-09-30
+ACC102191,Account_2191,Revenue,Service Revenue,Yes,2020-01-04
+ACC102192,Account_2192,Liability,Long-Term Debt,Yes,2015-03-15
+ACC102193,Account_2193,Equity,Operating Expense,Yes,2015-03-02
+ACC102194,Account_2194,Equity,Inventory,Yes,2021-09-15
+ACC102195,Account_2195,Equity,Service Revenue,Yes,2015-10-16
+ACC102196,Account_2196,Expense,Operating Expense,Yes,2023-01-10
+ACC102197,Account_2197,Asset,Accounts Payable,Yes,2019-07-25
+ACC102198,Account_2198,Liability,Fixed Assets,Yes,2018-10-03
+ACC102199,Account_2199,Expense,Operating Expense,Yes,2018-01-08
+ACC102200,Account_2200,Expense,Inventory,Yes,2019-05-23
+ACC102201,Account_2201,Asset,Fixed Assets,No,2022-05-14
+ACC102202,Account_2202,Equity,Service Revenue,Yes,2019-05-31
+ACC102203,Account_2203,Equity,Inventory,No,2017-01-21
+ACC102204,Account_2204,Liability,Operating Expense,Yes,2019-01-30
+ACC102205,Account_2205,Asset,Inventory,No,2016-06-13
+ACC102206,Account_2206,Liability,Accounts Payable,Yes,2019-08-23
+ACC102207,Account_2207,Asset,Accounts Payable,Yes,2016-11-08
+ACC102208,Account_2208,Equity,Service Revenue,Yes,2017-11-30
+ACC102209,Account_2209,Equity,Operating Expense,Yes,2017-01-27
+ACC102210,Account_2210,Revenue,Inventory,Yes,2020-06-09
+ACC102211,Account_2211,Asset,Cash,No,2022-09-20
+ACC102212,Account_2212,Liability,Long-Term Debt,Yes,2019-11-14
+ACC102213,Account_2213,Expense,Owner Equity,Yes,2019-04-28
+ACC102214,Account_2214,Expense,Owner Equity,No,2017-05-17
+ACC102215,Account_2215,Equity,Inventory,Yes,2015-12-04
+ACC102216,Account_2216,Liability,Long-Term Debt,Yes,2021-04-17
+ACC102217,Account_2217,Equity,Accounts Receivable,Yes,2019-06-25
+ACC102218,Account_2218,Expense,Owner Equity,Yes,2022-08-30
+ACC102219,Account_2219,Liability,Accounts Payable,Yes,2015-01-30
+ACC102220,Account_2220,Revenue,Inventory,Yes,2021-10-31
+ACC102221,Account_2221,Revenue,COGS,Yes,2021-10-18
+ACC102222,Account_2222,Liability,Service Revenue,Yes,2017-06-24
+ACC102223,Account_2223,Asset,Sales Revenue,Yes,2020-06-16
+ACC102224,Account_2224,Asset,Accounts Receivable,Yes,2023-02-23
+ACC102225,Account_2225,Asset,Inventory,Yes,2018-04-06
+ACC102226,Account_2226,Equity,Long-Term Debt,Yes,2019-04-16
+ACC102227,Account_2227,Revenue,Long-Term Debt,Yes,2015-12-09
+ACC102228,Account_2228,Equity,Accounts Receivable,Yes,2017-11-24
+ACC102229,Account_2229,Expense,Sales Revenue,Yes,2021-12-31
+ACC102230,Account_2230,Revenue,Service Revenue,Yes,2019-04-23
+ACC102231,Account_2231,Asset,Operating Expense,Yes,2021-09-02
+ACC102232,Account_2232,Expense,Cash,Yes,2016-07-04
+ACC102233,Account_2233,Expense,Service Revenue,Yes,2020-08-29
+ACC102234,Account_2234,Asset,Inventory,Yes,2016-05-25
+ACC102235,Account_2235,Revenue,Service Revenue,Yes,2022-02-17
+ACC102236,Account_2236,Asset,Inventory,Yes,2020-07-25
+ACC102237,Account_2237,Expense,Cash,Yes,2017-08-29
+ACC102238,Account_2238,Expense,Long-Term Debt,No,2018-07-17
+ACC102239,Account_2239,Expense,Long-Term Debt,Yes,2019-06-20
+ACC102240,Account_2240,Revenue,Service Revenue,Yes,2020-09-18
+ACC102241,Account_2241,Equity,Fixed Assets,Yes,2017-05-11
+ACC102242,Account_2242,Revenue,Accounts Receivable,Yes,2019-02-13
+ACC102243,Account_2243,Revenue,Accounts Receivable,Yes,2020-06-02
+ACC102244,Account_2244,Equity,Inventory,Yes,2015-03-05
+ACC102245,Account_2245,Liability,Cash,Yes,2016-01-16
+ACC102246,Account_2246,Liability,Operating Expense,Yes,2022-01-26
+ACC102247,Account_2247,Equity,COGS,Yes,2018-02-27
+ACC102248,Account_2248,Revenue,COGS,Yes,2021-03-30
+ACC102249,Account_2249,Revenue,Cash,Yes,2020-05-07
+ACC102250,Account_2250,Asset,COGS,No,2017-09-26
+ACC102251,Account_2251,Revenue,Owner Equity,Yes,2021-03-20
+ACC102252,Account_2252,Liability,Owner Equity,Yes,2016-08-15
+ACC102253,Account_2253,Asset,Accounts Receivable,Yes,2021-03-13
+ACC102254,Account_2254,Liability,Fixed Assets,Yes,2017-06-21
+ACC102255,Account_2255,Asset,Service Revenue,Yes,2022-08-31
+ACC102256,Account_2256,Asset,Accounts Payable,No,2019-11-03
+ACC102257,Account_2257,Asset,Owner Equity,Yes,2016-03-19
+ACC102258,Account_2258,Equity,COGS,Yes,2021-05-03
+ACC102259,Account_2259,Expense,Sales Revenue,Yes,2017-11-26
+ACC102260,Account_2260,Asset,Accounts Payable,Yes,2019-02-08
+ACC102261,Account_2261,Liability,Cash,Yes,2018-05-04
+ACC102262,Account_2262,Revenue,Operating Expense,No,2022-08-15
+ACC102263,Account_2263,Revenue,Owner Equity,Yes,2022-01-09
+ACC102264,Account_2264,Revenue,Long-Term Debt,Yes,2015-06-08
+ACC102265,Account_2265,Expense,Accounts Payable,Yes,2016-08-08
+ACC102266,Account_2266,Asset,Accounts Receivable,Yes,2015-09-22
+ACC102267,Account_2267,Asset,Service Revenue,Yes,2021-11-25
+ACC102268,Account_2268,Liability,Owner Equity,No,2020-01-31
+ACC102269,Account_2269,Revenue,Owner Equity,Yes,2019-02-17
+ACC102270,Account_2270,Revenue,Cash,Yes,2022-04-12
+ACC102271,Account_2271,Liability,COGS,Yes,2016-06-03
+ACC102272,Account_2272,Revenue,Inventory,Yes,2022-03-08
+ACC102273,Account_2273,Asset,Accounts Payable,No,2018-11-29
+ACC102274,Account_2274,Expense,Inventory,Yes,2018-05-31
+ACC102275,Account_2275,Revenue,Cash,Yes,2017-09-07
+ACC102276,Account_2276,Liability,Accounts Payable,Yes,2023-01-04
+ACC102277,Account_2277,Expense,COGS,Yes,2022-10-14
+ACC102278,Account_2278,Liability,Accounts Payable,Yes,2020-10-03
+ACC102279,Account_2279,Asset,Accounts Payable,Yes,2017-10-18
+ACC102280,Account_2280,Revenue,Accounts Payable,Yes,2018-05-30
+ACC102281,Account_2281,Asset,Long-Term Debt,Yes,2022-09-19
+ACC102282,Account_2282,Asset,Fixed Assets,Yes,2019-06-05
+ACC102283,Account_2283,Expense,COGS,Yes,2015-04-07
+ACC102284,Account_2284,Asset,Service Revenue,Yes,2020-03-06
+ACC102285,Account_2285,Liability,Accounts Receivable,Yes,2018-04-03
+ACC102286,Account_2286,Expense,Sales Revenue,Yes,2015-04-02
+ACC102287,Account_2287,Expense,Sales Revenue,Yes,2016-12-31
+ACC102288,Account_2288,Equity,Cash,No,2018-02-27
+ACC102289,Account_2289,Expense,Fixed Assets,Yes,2015-11-19
+ACC102290,Account_2290,Liability,Accounts Payable,Yes,2023-02-28
+ACC102291,Account_2291,Revenue,Long-Term Debt,No,2019-08-30
+ACC102292,Account_2292,Asset,Sales Revenue,Yes,2015-08-13
+ACC102293,Account_2293,Expense,Accounts Receivable,No,2019-07-31
+ACC102294,Account_2294,Asset,Service Revenue,Yes,2015-02-12
+ACC102295,Account_2295,Expense,Accounts Payable,Yes,2018-07-29
+ACC102296,Account_2296,Revenue,Service Revenue,Yes,2020-04-08
+ACC102297,Account_2297,Revenue,Accounts Receivable,Yes,2018-04-18
+ACC102298,Account_2298,Equity,Owner Equity,Yes,2019-11-29
+ACC102299,Account_2299,Asset,Accounts Receivable,Yes,2020-12-20
+ACC102300,Account_2300,Expense,Owner Equity,Yes,2017-06-14
+ACC102301,Account_2301,Revenue,Service Revenue,Yes,2015-03-16
+ACC102302,Account_2302,Expense,Service Revenue,Yes,2017-01-25
+ACC102303,Account_2303,Equity,Service Revenue,Yes,2018-06-29
+ACC102304,Account_2304,Liability,COGS,Yes,2016-05-13
+ACC102305,Account_2305,Liability,Cash,Yes,2018-05-08
+ACC102306,Account_2306,Asset,Inventory,Yes,2021-07-27
+ACC102307,Account_2307,Expense,Fixed Assets,Yes,2019-11-24
+ACC102308,Account_2308,Liability,Accounts Receivable,Yes,2016-04-10
+ACC102309,Account_2309,Equity,Accounts Payable,Yes,2018-03-06
+ACC102310,Account_2310,Asset,Long-Term Debt,Yes,2019-06-18
+ACC102311,Account_2311,Liability,Owner Equity,Yes,2015-12-29
+ACC102312,Account_2312,Expense,COGS,No,2019-06-07
+ACC102313,Account_2313,Asset,Service Revenue,Yes,2023-01-17
+ACC102314,Account_2314,Expense,Cash,Yes,2018-12-14
+ACC102315,Account_2315,Equity,Long-Term Debt,Yes,2022-09-15
+ACC102316,Account_2316,Expense,Service Revenue,Yes,2019-05-24
+ACC102317,Account_2317,Expense,Owner Equity,No,2021-03-08
+ACC102318,Account_2318,Equity,Accounts Receivable,Yes,2015-10-17
+ACC102319,Account_2319,Equity,Long-Term Debt,Yes,2016-11-25
+ACC102320,Account_2320,Equity,Cash,Yes,2019-08-25
+ACC102321,Account_2321,Liability,Inventory,No,2019-03-08
+ACC102322,Account_2322,Liability,Fixed Assets,Yes,2018-08-20
+ACC102323,Account_2323,Asset,Accounts Receivable,No,2017-04-06
+ACC102324,Account_2324,Equity,Fixed Assets,Yes,2022-09-08
+ACC102325,Account_2325,Equity,Operating Expense,Yes,2016-04-13
+ACC102326,Account_2326,Revenue,Fixed Assets,Yes,2021-04-24
+ACC102327,Account_2327,Expense,Operating Expense,Yes,2021-07-07
+ACC102328,Account_2328,Revenue,Inventory,Yes,2017-11-29
+ACC102329,Account_2329,Liability,COGS,Yes,2018-10-18
+ACC102330,Account_2330,Equity,Sales Revenue,Yes,2019-08-18
+ACC102331,Account_2331,Revenue,COGS,Yes,2022-01-14
+ACC102332,Account_2332,Equity,Inventory,Yes,2019-07-13
+ACC102333,Account_2333,Liability,Accounts Payable,Yes,2015-01-17
+ACC102334,Account_2334,Expense,COGS,Yes,2019-05-14
+ACC102335,Account_2335,Liability,Accounts Receivable,Yes,2018-12-21
+ACC102336,Account_2336,Liability,Inventory,Yes,2022-09-08
+ACC102337,Account_2337,Revenue,Accounts Receivable,Yes,2019-02-18
+ACC102338,Account_2338,Revenue,Accounts Payable,Yes,2016-03-10
+ACC102339,Account_2339,Asset,Cash,Yes,2020-09-10
+ACC102340,Account_2340,Expense,COGS,Yes,2022-01-01
+ACC102341,Account_2341,Revenue,COGS,No,2017-09-27
+ACC102342,Account_2342,Liability,Fixed Assets,Yes,2018-10-23
+ACC102343,Account_2343,Equity,Long-Term Debt,Yes,2019-03-26
+ACC102344,Account_2344,Liability,Inventory,Yes,2018-08-19
+ACC102345,Account_2345,Asset,Owner Equity,Yes,2017-09-24
+ACC102346,Account_2346,Equity,COGS,Yes,2022-03-08
+ACC102347,Account_2347,Expense,Owner Equity,No,2021-01-24
+ACC102348,Account_2348,Expense,Cash,Yes,2015-04-06
+ACC102349,Account_2349,Liability,Operating Expense,Yes,2019-10-11
+ACC102350,Account_2350,Liability,Sales Revenue,Yes,2016-01-15
+ACC102351,Account_2351,Equity,Inventory,Yes,2022-01-15
+ACC102352,Account_2352,Expense,COGS,Yes,2016-08-19
+ACC102353,Account_2353,Liability,Inventory,Yes,2018-08-13
+ACC102354,Account_2354,Liability,Accounts Payable,Yes,2019-03-23
+ACC102355,Account_2355,Asset,Inventory,Yes,2015-04-15
+ACC102356,Account_2356,Expense,Fixed Assets,Yes,2015-04-10
+ACC102357,Account_2357,Liability,Inventory,No,2016-05-11
+ACC102358,Account_2358,Equity,Fixed Assets,Yes,2023-01-03
+ACC102359,Account_2359,Expense,COGS,No,2018-06-24
+ACC102360,Account_2360,Revenue,Service Revenue,Yes,2016-10-14
+ACC102361,Account_2361,Expense,Owner Equity,Yes,2019-02-08
+ACC102362,Account_2362,Equity,Operating Expense,No,2020-08-22
+ACC102363,Account_2363,Liability,Accounts Receivable,Yes,2015-02-08
+ACC102364,Account_2364,Revenue,Sales Revenue,Yes,2016-09-12
+ACC102365,Account_2365,Expense,COGS,Yes,2018-02-19
+ACC102366,Account_2366,Equity,Long-Term Debt,Yes,2018-09-05
+ACC102367,Account_2367,Equity,Service Revenue,Yes,2021-06-01
+ACC102368,Account_2368,Equity,Long-Term Debt,Yes,2021-11-07
+ACC102369,Account_2369,Revenue,Fixed Assets,Yes,2021-10-28
+ACC102370,Account_2370,Asset,Long-Term Debt,Yes,2022-10-05
+ACC102371,Account_2371,Asset,Sales Revenue,Yes,2022-10-26
+ACC102372,Account_2372,Revenue,Long-Term Debt,Yes,2019-07-01
+ACC102373,Account_2373,Asset,Operating Expense,Yes,2015-05-31
+ACC102374,Account_2374,Equity,Sales Revenue,Yes,2019-04-01
+ACC102375,Account_2375,Liability,Fixed Assets,Yes,2020-09-16
+ACC102376,Account_2376,Asset,Accounts Receivable,Yes,2021-04-20
+ACC102377,Account_2377,Equity,Service Revenue,Yes,2022-08-22
+ACC102378,Account_2378,Liability,Operating Expense,Yes,2018-03-28
+ACC102379,Account_2379,Asset,Accounts Receivable,Yes,2020-04-01
+ACC102380,Account_2380,Revenue,Service Revenue,Yes,2017-10-31
+ACC102381,Account_2381,Expense,Accounts Receivable,Yes,2020-11-24
+ACC102382,Account_2382,Expense,Fixed Assets,Yes,2015-06-10
+ACC102383,Account_2383,Equity,COGS,Yes,2022-01-04
+ACC102384,Account_2384,Revenue,Operating Expense,Yes,2023-01-30
+ACC102385,Account_2385,Liability,Accounts Receivable,No,2017-11-17
+ACC102386,Account_2386,Asset,Accounts Receivable,Yes,2015-01-13
+ACC102387,Account_2387,Asset,Owner Equity,Yes,2019-12-25
+ACC102388,Account_2388,Revenue,Fixed Assets,Yes,2015-02-27
+ACC102389,Account_2389,Liability,Owner Equity,Yes,2016-02-04
+ACC102390,Account_2390,Equity,Accounts Payable,Yes,2019-10-14
+ACC102391,Account_2391,Liability,Sales Revenue,Yes,2018-03-03
+ACC102392,Account_2392,Asset,Operating Expense,Yes,2016-01-07
+ACC102393,Account_2393,Revenue,Accounts Receivable,Yes,2022-11-29
+ACC102394,Account_2394,Expense,Accounts Receivable,Yes,2022-05-30
+ACC102395,Account_2395,Equity,Owner Equity,Yes,2020-01-04
+ACC102396,Account_2396,Asset,Long-Term Debt,Yes,2017-06-19
+ACC102397,Account_2397,Liability,Service Revenue,Yes,2022-07-26
+ACC102398,Account_2398,Asset,Long-Term Debt,Yes,2022-12-01
+ACC102399,Account_2399,Asset,Sales Revenue,Yes,2018-10-15
+ACC102400,Account_2400,Equity,Inventory,No,2017-08-06
+ACC102401,Account_2401,Revenue,Accounts Payable,Yes,2016-07-17
+ACC102402,Account_2402,Liability,Accounts Payable,Yes,2016-02-03
+ACC102403,Account_2403,Liability,Owner Equity,Yes,2022-10-12
+ACC102404,Account_2404,Revenue,Accounts Payable,Yes,2020-12-02
+ACC102405,Account_2405,Liability,Owner Equity,Yes,2021-07-26
+ACC102406,Account_2406,Asset,Operating Expense,Yes,2016-06-25
+ACC102407,Account_2407,Liability,Owner Equity,Yes,2022-12-15
+ACC102408,Account_2408,Revenue,Operating Expense,Yes,2016-06-07
+ACC102409,Account_2409,Asset,Cash,Yes,2021-01-29
+ACC102410,Account_2410,Expense,Owner Equity,No,2021-09-23
+ACC102411,Account_2411,Asset,Accounts Payable,Yes,2015-09-14
+ACC102412,Account_2412,Equity,Operating Expense,Yes,2022-10-17
+ACC102413,Account_2413,Equity,Operating Expense,No,2016-04-23
+ACC102414,Account_2414,Asset,COGS,Yes,2019-09-08
+ACC102415,Account_2415,Equity,Inventory,Yes,2017-08-05
+ACC102416,Account_2416,Expense,COGS,Yes,2020-02-01
+ACC102417,Account_2417,Equity,Inventory,Yes,2020-09-04
+ACC102418,Account_2418,Revenue,Inventory,Yes,2021-03-15
+ACC102419,Account_2419,Equity,Service Revenue,Yes,2019-11-29
+ACC102420,Account_2420,Revenue,Cash,Yes,2021-07-26
+ACC102421,Account_2421,Asset,COGS,Yes,2017-10-03
+ACC102422,Account_2422,Equity,Service Revenue,Yes,2018-01-08
+ACC102423,Account_2423,Equity,Service Revenue,Yes,2019-04-11
+ACC102424,Account_2424,Expense,Owner Equity,Yes,2021-06-22
+ACC102425,Account_2425,Expense,Sales Revenue,Yes,2021-10-30
+ACC102426,Account_2426,Equity,Inventory,Yes,2015-06-14
+ACC102427,Account_2427,Equity,Sales Revenue,Yes,2023-01-27
+ACC102428,Account_2428,Asset,Operating Expense,Yes,2022-05-02
+ACC102429,Account_2429,Equity,Cash,Yes,2022-02-07
+ACC102430,Account_2430,Equity,COGS,Yes,2015-06-16
+ACC102431,Account_2431,Expense,Accounts Receivable,Yes,2016-07-23
+ACC102432,Account_2432,Asset,Owner Equity,Yes,2022-01-15
+ACC102433,Account_2433,Expense,Service Revenue,Yes,2018-05-01
+ACC102434,Account_2434,Expense,Accounts Receivable,Yes,2022-08-06
+ACC102435,Account_2435,Asset,Sales Revenue,Yes,2019-03-12
+ACC102436,Account_2436,Liability,Owner Equity,Yes,2022-07-08
+ACC102437,Account_2437,Expense,Service Revenue,Yes,2017-07-11
+ACC102438,Account_2438,Equity,Sales Revenue,Yes,2016-10-28
+ACC102439,Account_2439,Expense,Sales Revenue,Yes,2021-01-26
+ACC102440,Account_2440,Expense,Operating Expense,Yes,2015-07-10
+ACC102441,Account_2441,Expense,Fixed Assets,Yes,2021-07-28
+ACC102442,Account_2442,Asset,Inventory,Yes,2016-11-04
+ACC102443,Account_2443,Expense,Accounts Payable,Yes,2022-05-11
+ACC102444,Account_2444,Asset,Cash,Yes,2019-08-08
+ACC102445,Account_2445,Asset,Sales Revenue,No,2017-03-19
+ACC102446,Account_2446,Revenue,Inventory,Yes,2020-04-22
+ACC102447,Account_2447,Asset,Accounts Payable,Yes,2015-10-27
+ACC102448,Account_2448,Expense,Owner Equity,Yes,2022-09-30
+ACC102449,Account_2449,Equity,Accounts Receivable,Yes,2018-11-05
+ACC102450,Account_2450,Revenue,Service Revenue,Yes,2021-03-11
+ACC102451,Account_2451,Revenue,COGS,Yes,2017-02-05
+ACC102452,Account_2452,Liability,Sales Revenue,Yes,2015-04-19
+ACC102453,Account_2453,Revenue,Accounts Receivable,Yes,2018-01-25
+ACC102454,Account_2454,Asset,Sales Revenue,Yes,2018-09-13
+ACC102455,Account_2455,Equity,Accounts Payable,Yes,2019-10-22
+ACC102456,Account_2456,Asset,Service Revenue,Yes,2017-06-16
+ACC102457,Account_2457,Equity,Long-Term Debt,Yes,2022-12-13
+ACC102458,Account_2458,Revenue,Cash,Yes,2015-06-11
+ACC102459,Account_2459,Expense,Accounts Receivable,Yes,2018-05-22
+ACC102460,Account_2460,Equity,Inventory,No,2019-02-23
+ACC102461,Account_2461,Liability,Accounts Payable,Yes,2020-03-26
+ACC102462,Account_2462,Liability,COGS,Yes,2016-07-21
+ACC102463,Account_2463,Liability,Long-Term Debt,Yes,2016-10-14
+ACC102464,Account_2464,Equity,Long-Term Debt,Yes,2018-08-21
+ACC102465,Account_2465,Liability,Cash,Yes,2017-03-11
+ACC102466,Account_2466,Asset,Accounts Receivable,No,2022-02-19
+ACC102467,Account_2467,Revenue,Service Revenue,Yes,2022-04-05
+ACC102468,Account_2468,Revenue,Fixed Assets,Yes,2019-01-12
+ACC102469,Account_2469,Revenue,Long-Term Debt,Yes,2022-11-16
+ACC102470,Account_2470,Expense,Operating Expense,Yes,2022-01-19
+ACC102471,Account_2471,Expense,Cash,Yes,2020-06-19
+ACC102472,Account_2472,Asset,Inventory,No,2016-11-28
+ACC102473,Account_2473,Asset,Accounts Receivable,Yes,2015-01-02
+ACC102474,Account_2474,Liability,Fixed Assets,Yes,2020-04-16
+ACC102475,Account_2475,Equity,Service Revenue,Yes,2018-12-21
+ACC102476,Account_2476,Asset,Owner Equity,Yes,2021-07-18
+ACC102477,Account_2477,Liability,Fixed Assets,Yes,2020-04-20
+ACC102478,Account_2478,Equity,Inventory,Yes,2018-04-11
+ACC102479,Account_2479,Expense,Sales Revenue,Yes,2018-10-31
+ACC102480,Account_2480,Asset,Operating Expense,Yes,2022-05-30
+ACC102481,Account_2481,Liability,Cash,Yes,2017-06-11
+ACC102482,Account_2482,Equity,COGS,Yes,2023-01-13
+ACC102483,Account_2483,Expense,Operating Expense,Yes,2021-04-10
+ACC102484,Account_2484,Liability,Service Revenue,Yes,2021-02-17
+ACC102485,Account_2485,Expense,COGS,Yes,2021-08-22
+ACC102486,Account_2486,Asset,COGS,Yes,2015-12-07
+ACC102487,Account_2487,Expense,Owner Equity,Yes,2019-10-20
+ACC102488,Account_2488,Liability,Fixed Assets,Yes,2016-05-18
+ACC102489,Account_2489,Asset,Service Revenue,Yes,2020-05-26
+ACC102490,Account_2490,Asset,Fixed Assets,Yes,2015-02-02
+ACC102491,Account_2491,Asset,Service Revenue,Yes,2021-08-15
+ACC102492,Account_2492,Equity,Service Revenue,No,2018-08-25
+ACC102493,Account_2493,Expense,Owner Equity,Yes,2021-08-13
+ACC102494,Account_2494,Equity,Accounts Payable,Yes,2022-08-23
+ACC102495,Account_2495,Revenue,Cash,Yes,2022-01-14
+ACC102496,Account_2496,Revenue,Accounts Receivable,Yes,2021-09-28
+ACC102497,Account_2497,Liability,Cash,No,2017-06-29
+ACC102498,Account_2498,Equity,Long-Term Debt,Yes,2020-10-26
+ACC102499,Account_2499,Revenue,Operating Expense,Yes,2016-08-03
+ACC102500,Account_2500,Expense,Inventory,Yes,2022-07-14
+ACC102501,Account_2501,Revenue,Operating Expense,Yes,2021-11-01
+ACC102502,Account_2502,Asset,Owner Equity,Yes,2021-10-21
+ACC102503,Account_2503,Asset,Fixed Assets,Yes,2020-12-07
+ACC102504,Account_2504,Equity,Service Revenue,Yes,2020-12-05
+ACC102505,Account_2505,Equity,Inventory,Yes,2015-01-05
+ACC102506,Account_2506,Equity,Accounts Receivable,Yes,2015-11-23
+ACC102507,Account_2507,Liability,Cash,Yes,2018-10-01
+ACC102508,Account_2508,Revenue,Service Revenue,Yes,2020-09-28
+ACC102509,Account_2509,Asset,Operating Expense,Yes,2021-03-24
+ACC102510,Account_2510,Liability,Accounts Receivable,Yes,2018-07-05
+ACC102511,Account_2511,Asset,Sales Revenue,Yes,2018-08-15
+ACC102512,Account_2512,Equity,Fixed Assets,Yes,2023-01-02
+ACC102513,Account_2513,Asset,Long-Term Debt,Yes,2021-03-07
+ACC102514,Account_2514,Revenue,Fixed Assets,Yes,2017-10-29
+ACC102515,Account_2515,Liability,Sales Revenue,Yes,2016-02-21
+ACC102516,Account_2516,Revenue,Inventory,Yes,2017-03-18
+ACC102517,Account_2517,Revenue,Long-Term Debt,Yes,2019-07-12
+ACC102518,Account_2518,Expense,Inventory,Yes,2021-04-12
+ACC102519,Account_2519,Equity,Service Revenue,Yes,2016-08-20
+ACC102520,Account_2520,Liability,COGS,Yes,2021-09-20
+ACC102521,Account_2521,Asset,Long-Term Debt,Yes,2019-10-08
+ACC102522,Account_2522,Asset,Cash,No,2022-02-11
+ACC102523,Account_2523,Asset,Owner Equity,Yes,2016-07-08
+ACC102524,Account_2524,Equity,Owner Equity,Yes,2022-02-23
+ACC102525,Account_2525,Liability,Fixed Assets,Yes,2018-06-18
+ACC102526,Account_2526,Expense,Accounts Receivable,Yes,2015-11-23
+ACC102527,Account_2527,Liability,Operating Expense,Yes,2022-12-02
+ACC102528,Account_2528,Equity,COGS,Yes,2022-10-14
+ACC102529,Account_2529,Expense,Accounts Receivable,Yes,2015-02-10
+ACC102530,Account_2530,Expense,Inventory,No,2021-05-13
+ACC102531,Account_2531,Liability,Cash,No,2018-05-18
+ACC102532,Account_2532,Expense,Sales Revenue,Yes,2020-05-27
+ACC102533,Account_2533,Expense,Accounts Payable,Yes,2015-07-02
+ACC102534,Account_2534,Liability,Service Revenue,Yes,2015-09-21
+ACC102535,Account_2535,Expense,Service Revenue,Yes,2019-12-12
+ACC102536,Account_2536,Equity,Long-Term Debt,Yes,2015-10-11
+ACC102537,Account_2537,Liability,Accounts Receivable,No,2020-08-21
+ACC102538,Account_2538,Asset,Sales Revenue,Yes,2016-02-11
+ACC102539,Account_2539,Expense,Operating Expense,Yes,2021-03-16
+ACC102540,Account_2540,Revenue,Long-Term Debt,Yes,2019-08-03
+ACC102541,Account_2541,Liability,Accounts Receivable,No,2018-06-07
+ACC102542,Account_2542,Revenue,Cash,Yes,2023-01-07
+ACC102543,Account_2543,Liability,Accounts Payable,Yes,2022-12-23
+ACC102544,Account_2544,Asset,COGS,No,2019-02-04
+ACC102545,Account_2545,Asset,COGS,Yes,2018-05-28
+ACC102546,Account_2546,Liability,Fixed Assets,Yes,2018-05-09
+ACC102547,Account_2547,Asset,Operating Expense,Yes,2020-03-16
+ACC102548,Account_2548,Liability,COGS,Yes,2015-05-25
+ACC102549,Account_2549,Equity,Accounts Payable,Yes,2017-05-28
+ACC102550,Account_2550,Liability,Long-Term Debt,Yes,2018-12-28
+ACC102551,Account_2551,Revenue,Accounts Receivable,Yes,2019-01-15
+ACC102552,Account_2552,Equity,Fixed Assets,Yes,2015-05-08
+ACC102553,Account_2553,Equity,Fixed Assets,Yes,2022-01-19
+ACC102554,Account_2554,Equity,Cash,Yes,2018-06-22
+ACC102555,Account_2555,Expense,Inventory,Yes,2019-10-07
+ACC102556,Account_2556,Liability,Operating Expense,Yes,2017-08-08
+ACC102557,Account_2557,Equity,Cash,Yes,2018-03-25
+ACC102558,Account_2558,Equity,Accounts Receivable,Yes,2021-03-26
+ACC102559,Account_2559,Equity,Operating Expense,Yes,2015-06-15
+ACC102560,Account_2560,Asset,Cash,Yes,2018-02-21
+ACC102561,Account_2561,Liability,Sales Revenue,Yes,2015-06-08
+ACC102562,Account_2562,Expense,Cash,Yes,2017-05-14
+ACC102563,Account_2563,Revenue,Long-Term Debt,Yes,2022-04-28
+ACC102564,Account_2564,Expense,Operating Expense,Yes,2015-12-27
+ACC102565,Account_2565,Expense,Owner Equity,No,2020-07-13
+ACC102566,Account_2566,Expense,Cash,No,2020-07-14
+ACC102567,Account_2567,Expense,Long-Term Debt,Yes,2023-01-06
+ACC102568,Account_2568,Asset,Accounts Payable,Yes,2018-01-31
+ACC102569,Account_2569,Revenue,Inventory,Yes,2021-12-24
+ACC102570,Account_2570,Revenue,Long-Term Debt,Yes,2019-01-17
+ACC102571,Account_2571,Liability,Operating Expense,Yes,2022-09-27
+ACC102572,Account_2572,Asset,Operating Expense,Yes,2019-12-10
+ACC102573,Account_2573,Expense,Inventory,Yes,2021-03-24
+ACC102574,Account_2574,Asset,Fixed Assets,Yes,2018-04-28
+ACC102575,Account_2575,Revenue,Inventory,Yes,2016-02-26
+ACC102576,Account_2576,Asset,Owner Equity,Yes,2015-02-19
+ACC102577,Account_2577,Asset,Accounts Receivable,Yes,2015-09-29
+ACC102578,Account_2578,Revenue,Inventory,Yes,2017-11-01
+ACC102579,Account_2579,Equity,Accounts Payable,Yes,2019-10-14
+ACC102580,Account_2580,Equity,Accounts Receivable,Yes,2017-03-16
+ACC102581,Account_2581,Asset,Sales Revenue,Yes,2020-01-16
+ACC102582,Account_2582,Liability,Service Revenue,No,2016-06-30
+ACC102583,Account_2583,Liability,Cash,No,2015-09-28
+ACC102584,Account_2584,Liability,Service Revenue,Yes,2016-09-30
+ACC102585,Account_2585,Revenue,Service Revenue,No,2023-01-14
+ACC102586,Account_2586,Liability,Fixed Assets,Yes,2015-01-03
+ACC102587,Account_2587,Expense,Accounts Receivable,Yes,2017-03-08
+ACC102588,Account_2588,Asset,Sales Revenue,Yes,2020-01-01
+ACC102589,Account_2589,Equity,Service Revenue,Yes,2019-12-03
+ACC102590,Account_2590,Equity,Long-Term Debt,No,2021-12-25
+ACC102591,Account_2591,Revenue,Operating Expense,Yes,2015-06-10
+ACC102592,Account_2592,Expense,Owner Equity,Yes,2018-06-13
+ACC102593,Account_2593,Revenue,Sales Revenue,Yes,2019-09-14
+ACC102594,Account_2594,Expense,COGS,Yes,2022-06-28
+ACC102595,Account_2595,Equity,Long-Term Debt,Yes,2021-11-30
+ACC102596,Account_2596,Equity,Cash,Yes,2023-01-06
+ACC102597,Account_2597,Asset,Fixed Assets,Yes,2021-10-31
+ACC102598,Account_2598,Equity,Fixed Assets,Yes,2019-07-02
+ACC102599,Account_2599,Expense,Fixed Assets,Yes,2020-03-04
+ACC102600,Account_2600,Liability,Inventory,Yes,2015-06-28
+ACC102601,Account_2601,Revenue,Accounts Payable,Yes,2017-07-27
+ACC102602,Account_2602,Revenue,Long-Term Debt,Yes,2022-08-24
+ACC102603,Account_2603,Expense,Operating Expense,Yes,2015-12-03
+ACC102604,Account_2604,Revenue,Owner Equity,Yes,2022-08-11
+ACC102605,Account_2605,Expense,Long-Term Debt,Yes,2018-07-08
+ACC102606,Account_2606,Equity,Cash,Yes,2017-09-27
+ACC102607,Account_2607,Asset,Long-Term Debt,Yes,2021-09-26
+ACC102608,Account_2608,Equity,Service Revenue,Yes,2018-11-18
+ACC102609,Account_2609,Expense,COGS,Yes,2016-08-25
+ACC102610,Account_2610,Revenue,Service Revenue,Yes,2019-03-09
+ACC102611,Account_2611,Equity,Long-Term Debt,Yes,2016-02-05
+ACC102612,Account_2612,Equity,Cash,Yes,2016-03-12
+ACC102613,Account_2613,Expense,Cash,Yes,2022-01-15
+ACC102614,Account_2614,Asset,COGS,Yes,2020-01-09
+ACC102615,Account_2615,Asset,Operating Expense,Yes,2018-11-03
+ACC102616,Account_2616,Equity,COGS,Yes,2021-05-14
+ACC102617,Account_2617,Revenue,Fixed Assets,Yes,2021-06-30
+ACC102618,Account_2618,Revenue,Accounts Receivable,Yes,2022-12-13
+ACC102619,Account_2619,Asset,Accounts Payable,Yes,2018-04-06
+ACC102620,Account_2620,Liability,Accounts Payable,Yes,2018-06-13
+ACC102621,Account_2621,Expense,Accounts Receivable,Yes,2021-02-15
+ACC102622,Account_2622,Revenue,Inventory,Yes,2022-08-28
+ACC102623,Account_2623,Asset,COGS,Yes,2015-12-02
+ACC102624,Account_2624,Liability,COGS,Yes,2015-03-23
+ACC102625,Account_2625,Liability,Operating Expense,Yes,2019-12-12
+ACC102626,Account_2626,Revenue,Owner Equity,Yes,2021-11-05
+ACC102627,Account_2627,Revenue,Fixed Assets,Yes,2015-04-01
+ACC102628,Account_2628,Liability,Sales Revenue,Yes,2015-01-16
+ACC102629,Account_2629,Revenue,Accounts Receivable,Yes,2023-01-18
+ACC102630,Account_2630,Asset,Service Revenue,Yes,2016-11-03
+ACC102631,Account_2631,Liability,Fixed Assets,Yes,2017-02-14
+ACC102632,Account_2632,Asset,Operating Expense,Yes,2021-06-23
+ACC102633,Account_2633,Equity,Accounts Payable,Yes,2015-07-03
+ACC102634,Account_2634,Expense,Inventory,Yes,2015-10-30
+ACC102635,Account_2635,Liability,Service Revenue,Yes,2022-02-15
+ACC102636,Account_2636,Liability,Cash,Yes,2019-06-02
+ACC102637,Account_2637,Equity,Service Revenue,Yes,2022-08-30
+ACC102638,Account_2638,Expense,Operating Expense,Yes,2016-08-21
+ACC102639,Account_2639,Liability,COGS,Yes,2020-04-27
+ACC102640,Account_2640,Liability,Operating Expense,Yes,2021-04-28
+ACC102641,Account_2641,Asset,Operating Expense,No,2017-12-21
+ACC102642,Account_2642,Revenue,Cash,No,2018-10-30
+ACC102643,Account_2643,Asset,COGS,Yes,2016-09-08
+ACC102644,Account_2644,Asset,Cash,Yes,2018-09-05
+ACC102645,Account_2645,Asset,Service Revenue,Yes,2015-09-13
+ACC102646,Account_2646,Liability,Accounts Receivable,Yes,2018-10-29
+ACC102647,Account_2647,Equity,Long-Term Debt,No,2023-01-11
+ACC102648,Account_2648,Expense,Fixed Assets,Yes,2022-11-04
+ACC102649,Account_2649,Asset,Accounts Receivable,Yes,2021-04-22
+ACC102650,Account_2650,Equity,Service Revenue,Yes,2015-04-08
+ACC102651,Account_2651,Revenue,Fixed Assets,Yes,2020-04-20
+ACC102652,Account_2652,Equity,Inventory,Yes,2016-02-19
+ACC102653,Account_2653,Expense,Accounts Receivable,Yes,2019-11-02
+ACC102654,Account_2654,Expense,Cash,Yes,2018-10-13
+ACC102655,Account_2655,Expense,Accounts Payable,Yes,2019-07-16
+ACC102656,Account_2656,Revenue,Long-Term Debt,Yes,2021-05-07
+ACC102657,Account_2657,Equity,Inventory,Yes,2018-03-18
+ACC102658,Account_2658,Revenue,Fixed Assets,No,2018-11-22
+ACC102659,Account_2659,Revenue,Accounts Payable,No,2016-06-11
+ACC102660,Account_2660,Equity,Accounts Receivable,Yes,2022-06-14
+ACC102661,Account_2661,Liability,Cash,Yes,2017-03-19
+ACC102662,Account_2662,Expense,Accounts Receivable,Yes,2019-02-24
+ACC102663,Account_2663,Expense,Cash,Yes,2022-11-21
+ACC102664,Account_2664,Asset,COGS,Yes,2017-09-27
+ACC102665,Account_2665,Asset,Service Revenue,Yes,2019-07-02
+ACC102666,Account_2666,Asset,Accounts Receivable,Yes,2017-04-09
+ACC102667,Account_2667,Revenue,COGS,Yes,2015-07-06
+ACC102668,Account_2668,Expense,Cash,Yes,2021-01-23
+ACC102669,Account_2669,Liability,Service Revenue,No,2015-04-13
+ACC102670,Account_2670,Asset,Accounts Receivable,Yes,2016-07-04
+ACC102671,Account_2671,Revenue,Sales Revenue,Yes,2016-06-11
+ACC102672,Account_2672,Equity,Owner Equity,Yes,2020-08-22
+ACC102673,Account_2673,Liability,Sales Revenue,Yes,2022-10-31
+ACC102674,Account_2674,Revenue,Accounts Receivable,Yes,2020-10-06
+ACC102675,Account_2675,Asset,Accounts Payable,No,2015-10-13
+ACC102676,Account_2676,Liability,COGS,Yes,2015-10-18
+ACC102677,Account_2677,Equity,Cash,Yes,2015-10-12
+ACC102678,Account_2678,Expense,Sales Revenue,Yes,2016-10-12
+ACC102679,Account_2679,Liability,Cash,Yes,2018-02-20
+ACC102680,Account_2680,Revenue,COGS,Yes,2016-12-14
+ACC102681,Account_2681,Equity,Inventory,Yes,2017-12-22
+ACC102682,Account_2682,Expense,Inventory,Yes,2021-07-13
+ACC102683,Account_2683,Liability,Service Revenue,Yes,2022-03-25
+ACC102684,Account_2684,Revenue,Owner Equity,Yes,2016-07-29
+ACC102685,Account_2685,Revenue,Service Revenue,No,2017-12-06
+ACC102686,Account_2686,Liability,Accounts Receivable,Yes,2016-12-28
+ACC102687,Account_2687,Liability,Inventory,Yes,2022-04-28
+ACC102688,Account_2688,Revenue,Sales Revenue,Yes,2017-01-23
+ACC102689,Account_2689,Asset,Inventory,Yes,2017-05-31
+ACC102690,Account_2690,Equity,Fixed Assets,Yes,2021-04-12
+ACC102691,Account_2691,Equity,Long-Term Debt,Yes,2018-05-19
+ACC102692,Account_2692,Liability,Service Revenue,Yes,2020-12-15
+ACC102693,Account_2693,Revenue,Fixed Assets,Yes,2015-09-06
+ACC102694,Account_2694,Revenue,Long-Term Debt,Yes,2015-08-25
+ACC102695,Account_2695,Revenue,Service Revenue,Yes,2017-08-02
+ACC102696,Account_2696,Equity,Inventory,Yes,2019-08-21
+ACC102697,Account_2697,Revenue,Long-Term Debt,Yes,2020-08-06
+ACC102698,Account_2698,Asset,Inventory,Yes,2017-11-26
+ACC102699,Account_2699,Revenue,Owner Equity,Yes,2015-06-22
+ACC102700,Account_2700,Equity,Inventory,Yes,2015-11-27
+ACC102701,Account_2701,Expense,Cash,Yes,2022-08-01
+ACC102702,Account_2702,Expense,COGS,Yes,2015-08-20
+ACC102703,Account_2703,Liability,Cash,Yes,2016-08-09
+ACC102704,Account_2704,Revenue,COGS,No,2022-06-17
+ACC102705,Account_2705,Asset,Service Revenue,Yes,2021-06-05
+ACC102706,Account_2706,Asset,Owner Equity,Yes,2022-12-31
+ACC102707,Account_2707,Revenue,Accounts Payable,Yes,2022-02-02
+ACC102708,Account_2708,Expense,Inventory,Yes,2020-02-25
+ACC102709,Account_2709,Revenue,Owner Equity,Yes,2020-02-22
+ACC102710,Account_2710,Asset,Sales Revenue,Yes,2017-11-24
+ACC102711,Account_2711,Revenue,Cash,No,2018-03-12
+ACC102712,Account_2712,Revenue,Service Revenue,Yes,2015-10-13
+ACC102713,Account_2713,Equity,Long-Term Debt,Yes,2023-03-19
+ACC102714,Account_2714,Expense,Operating Expense,Yes,2018-01-18
+ACC102715,Account_2715,Revenue,COGS,Yes,2018-01-10
+ACC102716,Account_2716,Expense,Accounts Payable,Yes,2021-08-18
+ACC102717,Account_2717,Revenue,Operating Expense,Yes,2018-07-01
+ACC102718,Account_2718,Expense,Accounts Receivable,Yes,2022-02-09
+ACC102719,Account_2719,Asset,Accounts Payable,Yes,2017-02-28
+ACC102720,Account_2720,Revenue,Inventory,Yes,2016-03-12
+ACC102721,Account_2721,Liability,COGS,Yes,2015-05-08
+ACC102722,Account_2722,Equity,Operating Expense,Yes,2015-01-06
+ACC102723,Account_2723,Revenue,Accounts Receivable,Yes,2021-08-01
+ACC102724,Account_2724,Revenue,Cash,Yes,2017-05-13
+ACC102725,Account_2725,Equity,Long-Term Debt,Yes,2018-09-27
+ACC102726,Account_2726,Expense,Cash,Yes,2017-08-04
+ACC102727,Account_2727,Equity,Fixed Assets,Yes,2023-02-19
+ACC102728,Account_2728,Equity,Accounts Payable,Yes,2019-01-21
+ACC102729,Account_2729,Equity,Service Revenue,Yes,2016-06-15
+ACC102730,Account_2730,Expense,Sales Revenue,Yes,2021-08-23
+ACC102731,Account_2731,Revenue,Sales Revenue,Yes,2018-12-19
+ACC102732,Account_2732,Revenue,Long-Term Debt,Yes,2017-09-23
+ACC102733,Account_2733,Asset,Sales Revenue,Yes,2022-03-13
+ACC102734,Account_2734,Revenue,Fixed Assets,No,2020-04-13
+ACC102735,Account_2735,Liability,Accounts Receivable,Yes,2017-11-20
+ACC102736,Account_2736,Equity,COGS,Yes,2021-07-07
+ACC102737,Account_2737,Revenue,Operating Expense,Yes,2020-08-21
+ACC102738,Account_2738,Equity,Accounts Payable,Yes,2021-12-23
+ACC102739,Account_2739,Equity,Sales Revenue,Yes,2015-11-28
+ACC102740,Account_2740,Revenue,Fixed Assets,Yes,2022-07-11
+ACC102741,Account_2741,Asset,Fixed Assets,Yes,2019-08-19
+ACC102742,Account_2742,Equity,Service Revenue,Yes,2015-06-22
+ACC102743,Account_2743,Equity,Service Revenue,Yes,2021-05-18
+ACC102744,Account_2744,Liability,Operating Expense,Yes,2016-04-19
+ACC102745,Account_2745,Expense,Fixed Assets,Yes,2017-02-14
+ACC102746,Account_2746,Asset,Operating Expense,Yes,2017-11-17
+ACC102747,Account_2747,Equity,Accounts Payable,Yes,2022-09-04
+ACC102748,Account_2748,Equity,Service Revenue,Yes,2015-06-08
+ACC102749,Account_2749,Expense,Cash,Yes,2017-09-12
+ACC102750,Account_2750,Revenue,COGS,Yes,2023-02-18
+ACC102751,Account_2751,Expense,Operating Expense,Yes,2019-04-05
+ACC102752,Account_2752,Liability,Long-Term Debt,Yes,2017-01-16
+ACC102753,Account_2753,Liability,Inventory,No,2018-04-08
+ACC102754,Account_2754,Liability,Sales Revenue,Yes,2020-08-31
+ACC102755,Account_2755,Equity,Operating Expense,Yes,2016-05-07
+ACC102756,Account_2756,Equity,Accounts Payable,Yes,2022-11-11
+ACC102757,Account_2757,Liability,Accounts Payable,No,2015-09-09
+ACC102758,Account_2758,Asset,Long-Term Debt,No,2015-08-31
+ACC102759,Account_2759,Asset,Long-Term Debt,Yes,2018-06-11
+ACC102760,Account_2760,Equity,Sales Revenue,Yes,2018-04-06
+ACC102761,Account_2761,Equity,Accounts Receivable,Yes,2021-02-24
+ACC102762,Account_2762,Revenue,Service Revenue,Yes,2015-01-26
+ACC102763,Account_2763,Expense,Service Revenue,Yes,2016-07-19
+ACC102764,Account_2764,Equity,Inventory,Yes,2017-05-17
+ACC102765,Account_2765,Expense,Service Revenue,Yes,2021-12-19
+ACC102766,Account_2766,Expense,Sales Revenue,Yes,2016-01-27
+ACC102767,Account_2767,Equity,Accounts Receivable,Yes,2015-01-20
+ACC102768,Account_2768,Asset,Cash,Yes,2023-01-06
+ACC102769,Account_2769,Revenue,Long-Term Debt,No,2015-03-17
+ACC102770,Account_2770,Asset,Sales Revenue,Yes,2015-12-07
+ACC102771,Account_2771,Liability,Long-Term Debt,Yes,2022-06-02
+ACC102772,Account_2772,Liability,Fixed Assets,No,2017-04-08
+ACC102773,Account_2773,Equity,Accounts Receivable,Yes,2021-05-06
+ACC102774,Account_2774,Asset,Accounts Receivable,Yes,2017-09-23
+ACC102775,Account_2775,Expense,Long-Term Debt,Yes,2023-02-01
+ACC102776,Account_2776,Expense,Service Revenue,Yes,2021-10-07
+ACC102777,Account_2777,Liability,Fixed Assets,Yes,2016-08-02
+ACC102778,Account_2778,Equity,Inventory,Yes,2017-10-29
+ACC102779,Account_2779,Asset,Accounts Receivable,Yes,2021-06-30
+ACC102780,Account_2780,Liability,Operating Expense,Yes,2020-07-31
+ACC102781,Account_2781,Expense,Service Revenue,Yes,2017-11-25
+ACC102782,Account_2782,Asset,Accounts Receivable,Yes,2017-05-08
+ACC102783,Account_2783,Revenue,Fixed Assets,No,2015-11-25
+ACC102784,Account_2784,Asset,Sales Revenue,Yes,2016-01-21
+ACC102785,Account_2785,Asset,Cash,Yes,2017-12-12
+ACC102786,Account_2786,Liability,Cash,Yes,2017-05-25
+ACC102787,Account_2787,Asset,Owner Equity,No,2018-03-21
+ACC102788,Account_2788,Liability,Long-Term Debt,Yes,2018-04-16
+ACC102789,Account_2789,Liability,Fixed Assets,Yes,2016-09-04
+ACC102790,Account_2790,Revenue,Long-Term Debt,Yes,2023-03-08
+ACC102791,Account_2791,Expense,Service Revenue,Yes,2015-10-18
+ACC102792,Account_2792,Expense,Operating Expense,No,2017-01-18
+ACC102793,Account_2793,Expense,Accounts Receivable,Yes,2021-08-10
+ACC102794,Account_2794,Equity,COGS,Yes,2017-12-21
+ACC102795,Account_2795,Expense,Sales Revenue,No,2017-08-15
+ACC102796,Account_2796,Asset,Long-Term Debt,Yes,2016-12-31
+ACC102797,Account_2797,Expense,Sales Revenue,Yes,2015-07-14
+ACC102798,Account_2798,Liability,Operating Expense,Yes,2022-08-28
+ACC102799,Account_2799,Liability,Owner Equity,Yes,2021-05-08
+ACC102800,Account_2800,Equity,Service Revenue,No,2017-12-08
+ACC102801,Account_2801,Revenue,Operating Expense,No,2021-02-03
+ACC102802,Account_2802,Liability,Accounts Payable,Yes,2019-02-07
+ACC102803,Account_2803,Equity,Fixed Assets,Yes,2019-12-03
+ACC102804,Account_2804,Revenue,Cash,Yes,2017-07-20
+ACC102805,Account_2805,Equity,Inventory,Yes,2020-12-30
+ACC102806,Account_2806,Asset,Cash,Yes,2022-03-26
+ACC102807,Account_2807,Liability,Operating Expense,Yes,2020-04-03
+ACC102808,Account_2808,Expense,Accounts Receivable,Yes,2015-08-25
+ACC102809,Account_2809,Revenue,Operating Expense,Yes,2022-11-18
+ACC102810,Account_2810,Revenue,Fixed Assets,Yes,2017-06-02
+ACC102811,Account_2811,Revenue,Accounts Payable,Yes,2018-02-23
+ACC102812,Account_2812,Expense,Sales Revenue,Yes,2018-02-11
+ACC102813,Account_2813,Liability,Service Revenue,Yes,2017-07-18
+ACC102814,Account_2814,Equity,Owner Equity,Yes,2016-03-17
+ACC102815,Account_2815,Asset,Operating Expense,Yes,2019-11-07
+ACC102816,Account_2816,Asset,Sales Revenue,No,2016-08-13
+ACC102817,Account_2817,Equity,Long-Term Debt,Yes,2021-05-06
+ACC102818,Account_2818,Asset,Cash,Yes,2021-01-17
+ACC102819,Account_2819,Expense,Service Revenue,Yes,2022-08-08
+ACC102820,Account_2820,Equity,COGS,Yes,2022-09-20
+ACC102821,Account_2821,Revenue,Operating Expense,Yes,2020-09-08
+ACC102822,Account_2822,Expense,Long-Term Debt,Yes,2023-02-22
+ACC102823,Account_2823,Asset,Service Revenue,Yes,2019-01-18
+ACC102824,Account_2824,Revenue,Accounts Receivable,Yes,2020-10-27
+ACC102825,Account_2825,Revenue,Long-Term Debt,No,2022-07-05
+ACC102826,Account_2826,Liability,Service Revenue,Yes,2017-02-20
+ACC102827,Account_2827,Asset,Accounts Receivable,Yes,2021-03-25
+ACC102828,Account_2828,Asset,Accounts Receivable,Yes,2016-06-21
+ACC102829,Account_2829,Revenue,Operating Expense,Yes,2020-04-14
+ACC102830,Account_2830,Expense,Accounts Payable,Yes,2019-05-17
+ACC102831,Account_2831,Liability,Accounts Payable,Yes,2015-07-29
+ACC102832,Account_2832,Equity,Service Revenue,Yes,2015-12-14
+ACC102833,Account_2833,Revenue,Cash,Yes,2020-01-24
+ACC102834,Account_2834,Revenue,Owner Equity,Yes,2015-03-07
+ACC102835,Account_2835,Revenue,Accounts Payable,Yes,2017-08-01
+ACC102836,Account_2836,Asset,Accounts Receivable,Yes,2022-05-18
+ACC102837,Account_2837,Expense,Service Revenue,No,2015-05-03
+ACC102838,Account_2838,Expense,COGS,Yes,2018-05-21
+ACC102839,Account_2839,Liability,Operating Expense,Yes,2017-11-06
+ACC102840,Account_2840,Expense,Cash,Yes,2017-09-28
+ACC102841,Account_2841,Expense,Accounts Payable,Yes,2018-06-26
+ACC102842,Account_2842,Asset,Inventory,No,2017-08-02
+ACC102843,Account_2843,Asset,Owner Equity,Yes,2016-09-16
+ACC102844,Account_2844,Expense,Accounts Payable,Yes,2017-10-10
+ACC102845,Account_2845,Liability,Cash,Yes,2015-02-11
+ACC102846,Account_2846,Revenue,Long-Term Debt,Yes,2021-10-17
+ACC102847,Account_2847,Liability,COGS,Yes,2021-01-11
+ACC102848,Account_2848,Asset,Fixed Assets,Yes,2019-04-07
+ACC102849,Account_2849,Revenue,Sales Revenue,Yes,2015-10-13
+ACC102850,Account_2850,Revenue,Service Revenue,Yes,2015-07-15
+ACC102851,Account_2851,Expense,Service Revenue,Yes,2021-01-07
+ACC102852,Account_2852,Equity,Fixed Assets,Yes,2015-06-21
+ACC102853,Account_2853,Asset,Sales Revenue,Yes,2018-08-14
+ACC102854,Account_2854,Equity,Owner Equity,Yes,2020-04-04
+ACC102855,Account_2855,Asset,Sales Revenue,Yes,2019-09-07
+ACC102856,Account_2856,Revenue,Fixed Assets,Yes,2019-02-07
+ACC102857,Account_2857,Asset,Accounts Receivable,Yes,2020-04-06
+ACC102858,Account_2858,Revenue,Cash,Yes,2016-05-13
+ACC102859,Account_2859,Equity,Sales Revenue,Yes,2019-06-28
+ACC102860,Account_2860,Liability,COGS,Yes,2021-05-14
+ACC102861,Account_2861,Equity,Inventory,No,2017-07-13
+ACC102862,Account_2862,Revenue,Sales Revenue,Yes,2017-11-06
+ACC102863,Account_2863,Liability,Accounts Payable,Yes,2019-08-14
+ACC102864,Account_2864,Expense,Sales Revenue,Yes,2015-05-08
+ACC102865,Account_2865,Equity,COGS,Yes,2017-11-05
+ACC102866,Account_2866,Liability,Inventory,Yes,2020-01-05
+ACC102867,Account_2867,Expense,Long-Term Debt,Yes,2018-12-23
+ACC102868,Account_2868,Expense,Operating Expense,Yes,2018-08-01
+ACC102869,Account_2869,Expense,Service Revenue,Yes,2015-08-07
+ACC102870,Account_2870,Equity,Service Revenue,Yes,2017-09-24
+ACC102871,Account_2871,Asset,Long-Term Debt,Yes,2019-08-25
+ACC102872,Account_2872,Liability,Service Revenue,Yes,2022-07-22
+ACC102873,Account_2873,Expense,Cash,No,2016-06-14
+ACC102874,Account_2874,Revenue,COGS,No,2015-06-29
+ACC102875,Account_2875,Equity,Inventory,No,2022-01-02
+ACC102876,Account_2876,Asset,COGS,No,2015-01-18
+ACC102877,Account_2877,Equity,Service Revenue,Yes,2021-10-14
+ACC102878,Account_2878,Asset,Long-Term Debt,Yes,2021-07-26
+ACC102879,Account_2879,Expense,Inventory,Yes,2020-11-02
+ACC102880,Account_2880,Liability,Cash,Yes,2016-06-27
+ACC102881,Account_2881,Asset,COGS,No,2015-12-04
+ACC102882,Account_2882,Expense,Accounts Receivable,Yes,2022-01-30
+ACC102883,Account_2883,Revenue,Owner Equity,Yes,2022-04-26
+ACC102884,Account_2884,Liability,COGS,No,2022-02-12
+ACC102885,Account_2885,Expense,Inventory,Yes,2022-07-14
+ACC102886,Account_2886,Asset,Cash,No,2022-04-04
+ACC102887,Account_2887,Asset,Operating Expense,Yes,2021-11-21
+ACC102888,Account_2888,Equity,Accounts Payable,Yes,2023-01-03
+ACC102889,Account_2889,Equity,Cash,Yes,2023-02-01
+ACC102890,Account_2890,Equity,Operating Expense,Yes,2017-11-05
+ACC102891,Account_2891,Asset,Long-Term Debt,Yes,2016-03-19
+ACC102892,Account_2892,Expense,Accounts Receivable,Yes,2021-08-26
+ACC102893,Account_2893,Equity,Fixed Assets,Yes,2019-06-11
+ACC102894,Account_2894,Equity,Operating Expense,Yes,2018-02-06
+ACC102895,Account_2895,Equity,Inventory,Yes,2021-02-18
+ACC102896,Account_2896,Expense,Cash,Yes,2020-01-16
+ACC102897,Account_2897,Asset,Sales Revenue,Yes,2023-01-07
+ACC102898,Account_2898,Equity,Sales Revenue,Yes,2016-08-25
+ACC102899,Account_2899,Asset,Operating Expense,No,2016-12-28
+ACC102900,Account_2900,Liability,Inventory,Yes,2017-02-03
+ACC102901,Account_2901,Expense,Accounts Receivable,Yes,2018-06-22
+ACC102902,Account_2902,Expense,Long-Term Debt,Yes,2016-06-14
+ACC102903,Account_2903,Revenue,Sales Revenue,Yes,2015-03-02
+ACC102904,Account_2904,Expense,Sales Revenue,Yes,2016-07-18
+ACC102905,Account_2905,Asset,Inventory,Yes,2016-07-15
+ACC102906,Account_2906,Equity,Sales Revenue,Yes,2020-07-19
+ACC102907,Account_2907,Revenue,Long-Term Debt,Yes,2022-01-20
+ACC102908,Account_2908,Liability,Operating Expense,Yes,2021-05-01
+ACC102909,Account_2909,Revenue,Long-Term Debt,Yes,2021-12-25
+ACC102910,Account_2910,Liability,Service Revenue,Yes,2017-03-04
+ACC102911,Account_2911,Liability,Long-Term Debt,Yes,2022-03-04
+ACC102912,Account_2912,Equity,Accounts Payable,Yes,2015-04-01
+ACC102913,Account_2913,Equity,Inventory,Yes,2022-09-15
+ACC102914,Account_2914,Revenue,Operating Expense,Yes,2021-04-03
+ACC102915,Account_2915,Equity,Accounts Payable,No,2022-06-15
+ACC102916,Account_2916,Liability,Inventory,No,2019-08-07
+ACC102917,Account_2917,Equity,Owner Equity,Yes,2020-03-13
+ACC102918,Account_2918,Equity,Service Revenue,Yes,2019-11-29
+ACC102919,Account_2919,Expense,Accounts Payable,Yes,2018-10-22
+ACC102920,Account_2920,Asset,Operating Expense,Yes,2015-09-08
+ACC102921,Account_2921,Liability,Cash,Yes,2021-05-10
+ACC102922,Account_2922,Liability,Long-Term Debt,Yes,2015-05-19
+ACC102923,Account_2923,Liability,Cash,Yes,2022-10-24
+ACC102924,Account_2924,Revenue,Inventory,Yes,2016-06-15
+ACC102925,Account_2925,Liability,Owner Equity,Yes,2015-03-13
+ACC102926,Account_2926,Revenue,Long-Term Debt,Yes,2018-01-07
+ACC102927,Account_2927,Revenue,Owner Equity,Yes,2019-06-15
+ACC102928,Account_2928,Asset,Cash,Yes,2023-02-09
+ACC102929,Account_2929,Liability,Owner Equity,No,2019-12-16
+ACC102930,Account_2930,Asset,Sales Revenue,Yes,2016-08-08
+ACC102931,Account_2931,Equity,COGS,Yes,2020-04-03
+ACC102932,Account_2932,Asset,Operating Expense,Yes,2020-12-31
+ACC102933,Account_2933,Asset,COGS,Yes,2020-03-23
+ACC102934,Account_2934,Asset,Accounts Receivable,Yes,2020-11-12
+ACC102935,Account_2935,Equity,Sales Revenue,Yes,2017-02-24
+ACC102936,Account_2936,Equity,Sales Revenue,Yes,2022-01-22
+ACC102937,Account_2937,Asset,COGS,Yes,2022-03-25
+ACC102938,Account_2938,Expense,COGS,Yes,2021-04-29
+ACC102939,Account_2939,Revenue,Owner Equity,Yes,2023-03-20
+ACC102940,Account_2940,Equity,Cash,Yes,2015-02-09
+ACC102941,Account_2941,Equity,Accounts Receivable,Yes,2020-10-02
+ACC102942,Account_2942,Expense,Operating Expense,Yes,2020-05-12
+ACC102943,Account_2943,Revenue,Accounts Payable,Yes,2015-12-02
+ACC102944,Account_2944,Liability,Inventory,Yes,2016-01-13
+ACC102945,Account_2945,Expense,Sales Revenue,Yes,2017-08-18
+ACC102946,Account_2946,Asset,COGS,Yes,2020-07-18
+ACC102947,Account_2947,Equity,Cash,Yes,2016-11-09
+ACC102948,Account_2948,Liability,Cash,Yes,2021-09-14
+ACC102949,Account_2949,Equity,Long-Term Debt,Yes,2019-08-14
+ACC102950,Account_2950,Equity,COGS,Yes,2021-01-16
+ACC102951,Account_2951,Liability,Fixed Assets,No,2023-01-04
+ACC102952,Account_2952,Expense,Service Revenue,Yes,2017-09-04
+ACC102953,Account_2953,Asset,Accounts Receivable,Yes,2022-07-25
+ACC102954,Account_2954,Revenue,Fixed Assets,Yes,2022-06-27
+ACC102955,Account_2955,Liability,Accounts Receivable,Yes,2019-07-09
+ACC102956,Account_2956,Expense,Service Revenue,No,2015-11-18
+ACC102957,Account_2957,Asset,Service Revenue,Yes,2017-04-25
+ACC102958,Account_2958,Expense,Sales Revenue,Yes,2016-06-13
+ACC102959,Account_2959,Revenue,Sales Revenue,Yes,2021-10-31
+ACC102960,Account_2960,Expense,Service Revenue,Yes,2017-09-17
+ACC102961,Account_2961,Liability,Accounts Receivable,Yes,2015-03-28
+ACC102962,Account_2962,Liability,Owner Equity,Yes,2020-06-24
+ACC102963,Account_2963,Expense,Accounts Payable,Yes,2023-03-04
+ACC102964,Account_2964,Revenue,Accounts Receivable,Yes,2022-02-07
+ACC102965,Account_2965,Expense,COGS,Yes,2015-07-28
+ACC102966,Account_2966,Revenue,Owner Equity,Yes,2015-11-30
+ACC102967,Account_2967,Asset,Cash,Yes,2018-11-04
+ACC102968,Account_2968,Asset,Long-Term Debt,No,2019-05-22
+ACC102969,Account_2969,Asset,Accounts Receivable,Yes,2020-03-18
+ACC102970,Account_2970,Revenue,Sales Revenue,Yes,2017-05-05
+ACC102971,Account_2971,Expense,Long-Term Debt,Yes,2023-02-08
+ACC102972,Account_2972,Revenue,Accounts Payable,Yes,2019-06-12
+ACC102973,Account_2973,Expense,Accounts Payable,Yes,2015-03-08
+ACC102974,Account_2974,Liability,Service Revenue,Yes,2019-05-06
+ACC102975,Account_2975,Revenue,Owner Equity,Yes,2021-07-07
+ACC102976,Account_2976,Equity,Inventory,Yes,2022-07-31
+ACC102977,Account_2977,Expense,Fixed Assets,Yes,2021-04-08
+ACC102978,Account_2978,Revenue,Inventory,Yes,2019-01-20
+ACC102979,Account_2979,Liability,COGS,Yes,2017-03-23
+ACC102980,Account_2980,Liability,Service Revenue,Yes,2015-11-07
+ACC102981,Account_2981,Liability,Operating Expense,Yes,2015-01-17
+ACC102982,Account_2982,Revenue,Operating Expense,Yes,2016-08-30
+ACC102983,Account_2983,Revenue,Owner Equity,Yes,2021-05-05
+ACC102984,Account_2984,Expense,Long-Term Debt,Yes,2022-08-08
+ACC102985,Account_2985,Revenue,Sales Revenue,No,2016-01-15
+ACC102986,Account_2986,Asset,Cash,Yes,2017-01-01
+ACC102987,Account_2987,Liability,Accounts Payable,Yes,2022-02-21
+ACC102988,Account_2988,Revenue,Accounts Payable,Yes,2016-08-30
+ACC102989,Account_2989,Revenue,Fixed Assets,Yes,2019-02-15
+ACC102990,Account_2990,Equity,Fixed Assets,Yes,2015-01-17
+ACC102991,Account_2991,Revenue,Sales Revenue,Yes,2017-08-08
+ACC102992,Account_2992,Revenue,COGS,Yes,2015-05-09
+ACC102993,Account_2993,Liability,Long-Term Debt,Yes,2016-08-20
+ACC102994,Account_2994,Liability,Owner Equity,Yes,2020-12-03
+ACC102995,Account_2995,Liability,Operating Expense,Yes,2016-05-19
+ACC102996,Account_2996,Expense,Accounts Receivable,No,2019-07-21
+ACC102997,Account_2997,Asset,Service Revenue,No,2016-07-20
+ACC102998,Account_2998,Asset,Accounts Receivable,No,2015-01-08
+ACC102999,Account_2999,Asset,Long-Term Debt,Yes,2019-05-04
